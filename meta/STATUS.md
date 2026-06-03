@@ -4,7 +4,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Overall Progress Metrics
 
-*Last updated: 2026-05-29*
+*Last updated: 2026-06-03*
 
 | Layer | Files | Nikāyas Active | Notes |
 |---|---|---|---|

@@ -1,5 +1,22 @@
 # Sync Log
 
+## [2026-06-03 07:20:00-07:00 — Phase 17 Stage 1D: Spaced Repetition Cards Generation Complete (Antigravity)]
+
+### Accomplishments
+
+**Spaced Repetition Flashcards Generation (Phase 17)**
+- **SRS card writer**: Added `update_srs_file` to `pali_nlp/writer/vault_writer.py` to support batch-updating and replacing inline flashcard decks (double-colon format `Question :: Answer`) in a single practice file `practice/vocabulary_cards.md` in the vault, with full idempotency and block sentinels.
+- **SRS cards CLI script**: Created `src/pali_nlp/scripts/write_srs_cards.py` (CLI entry point `pali-srs`) supporting generation of vocabulary cards filtered by sutta, all suttas, or top-N core vocabulary. Added smart options such as `--min-rank` (filtering out extremely common words to focus on new vocabulary) and `--max-cards`.
+- **Linter compliance**: Configured the generated `practice/vocabulary_cards.md` file with a valid YAML frontmatter block (`id`, `title`, `type`, `tags`) to satisfy the vault's frontmatter linter guidelines.
+- **Unit testing**: Wrote unit tests in `tests/test_writer.py` and `tests/test_srs_cli.py` to cover file creation, updating, deletion, and Click options validation.
+- **Ruff and Pytest**: Ensured all checks and tests pass cleanly (19/19 passing) in `pali-nlp`.
+
+### Vault State
+- **Validator**: 15,313 wikilinks / **0 errors** (excluding parallel Phase 20 in-flight Vsm links) ✅
+- **Unit tests**: 13/13 pass in vault ✅
+
+---
+
 ## [2026-05-30 — Phase 19: Tutorials, Pakaraṇa, UX Fixes, README Overhaul (Claude Sonnet 4.6)]
 
 ### Accomplishments

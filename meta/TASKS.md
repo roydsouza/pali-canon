@@ -179,12 +179,12 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 ### Phase 17 — Pali NLP Companion Development (External Repo)
 **Repo**: https://github.com/roydsouza/pali-nlp (local: `~/pali-nlp/`)
 **Setup**: `cd ~/pali-nlp && source .venv/bin/activate`; DPD DB auto-detected from Simsapa.
-- [ ] **Stage 1: Lemmatization & Graded Reader (3A)**
+- [x] **Stage 1: Lemmatization & Graded Reader (3A)**
     - [x] Stand up the separate `pali-nlp` repository with ingestion, DPD sqlite, and vault-writer modules. ✅
     - [x] Lemmatize tokens against DPD SQLite database (Simsapa install; 1.1M inflected forms via `lookup` table). ✅
     - [x] Append vocabulary concordance tables to vault mūla files — 508 suttas updated via `pali-write`. ✅
     - [x] Build the vocabulary frequency-based graded reader — `paths/graded_reader.md` written (518 suttas, 214k tokens, 21k headwords). ✅
-    - [ ] Auto-generate Obsidian-native spaced-repetition vocabulary cards.
+    - [x] Auto-generate Obsidian-native spaced-repetition vocabulary cards. ✅
 - [ ] **Stage 2: Linguistic Pipeline (3B)**
     - [ ] Build an offline concordance and collocation search index.
     - [ ] Train/configure NER pass to auto-populate Phase 16 prosopography pages.
