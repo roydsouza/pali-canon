@@ -63,15 +63,15 @@ Bold = Pali. Italic = Bhikkhu Sujato's translation. Press **Cmd+R** in Obsidian 
 ### Seven Practice Domains
 Content is organized around seven practice domains. Each has a dedicated reading path in [`paths/`](paths/):
 
-| Domain | Key suttas | Reading path |
-|---|---|---|
-| Jhāna | [MN 118](mula/sutta/majjhima_nikaya/mn118.md), [AN 9.36](mula/sutta/anguttara_nikaya/an9_36.md), [MN 111](mula/sutta/majjhima_nikaya/mn111.md) | [Entering Jhāna](paths/entering_jhana_path.md) |
-| Vipassanā | [MN 10](mula/sutta/majjhima_nikaya/mn10.md), [DN 22](mula/sutta/digha_nikaya/dn22.md), [MN 148](mula/sutta/majjhima_nikaya/mn148.md) | [Vipassanā Practice](paths/vipassana_practice.md) |
-| Brahmavihāra | [MN 7](mula/sutta/majjhima_nikaya/mn7.md), [DN 13](mula/sutta/digha_nikaya/dn13.md), [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md) | [Brahmavihāra](paths/brahmavihara_cultivation.md) |
-| Anussati | [AN 6.10](mula/sutta/anguttara_nikaya/an6_10.md), [AN 11.12](mula/sutta/anguttara_nikaya/an11_12.md) | [Anussati Practice](paths/anussati_practice.md) |
-| Gradual Training | [MN 27](mula/sutta/majjhima_nikaya/mn27.md), [DN 2](mula/sutta/digha_nikaya/dn2.md), [AN 8.54](mula/sutta/anguttara_nikaya/an8_54.md) | [Gradual Training](paths/gradual_training_path.md) |
-| Maraṇasati | [AN 6.19](mula/sutta/anguttara_nikaya/an6_19.md), [AN 6.20](mula/sutta/anguttara_nikaya/an6_20.md) | [Maraṇasati](paths/maranasati_path.md) |
-| Paritta | [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md), [Snp 2.1](mula/sutta/khuddaka_nikaya/sutta_nipata/snp2_1.md) | [Paritta Index](paritta/INDEX.md) |
+| Domain           | Key suttas                                                                                                                                        | Reading path                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Jhāna            | [MN 118](mula/sutta/majjhima_nikaya/mn118.md), [AN 9.36](mula/sutta/anguttara_nikaya/an9_36.md), [MN 111](mula/sutta/majjhima_nikaya/mn111.md)    | [Entering Jhāna](paths/entering_jhana_path.md)     |
+| Vipassanā        | [MN 10](mula/sutta/majjhima_nikaya/mn10.md), [DN 22](mula/sutta/digha_nikaya/dn22.md), [MN 148](mula/sutta/majjhima_nikaya/mn148.md)              | [Vipassanā Practice](paths/vipassana_practice.md)  |
+| Brahmavihāra     | [MN 7](mula/sutta/majjhima_nikaya/mn7.md), [DN 13](mula/sutta/digha_nikaya/dn13.md), [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md) | [Brahmavihāra](paths/brahmavihara_cultivation.md)  |
+| Anussati         | [AN 6.10](mula/sutta/anguttara_nikaya/an6_10.md), [AN 11.12](mula/sutta/anguttara_nikaya/an11_12.md)                                              | [Anussati Practice](paths/anussati_practice.md)    |
+| Gradual Training | [MN 27](mula/sutta/majjhima_nikaya/mn27.md), [DN 2](mula/sutta/digha_nikaya/dn2.md), [AN 8.54](mula/sutta/anguttara_nikaya/an8_54.md)             | [Gradual Training](paths/gradual_training_path.md) |
+| Maraṇasati       | [AN 6.19](mula/sutta/anguttara_nikaya/an6_19.md), [AN 6.20](mula/sutta/anguttara_nikaya/an6_20.md)                                                | [Maraṇasati](paths/maranasati_path.md)             |
+| Paritta          | [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md), [Snp 2.1](mula/sutta/khuddaka_nikaya/sutta_nipata/snp2_1.md)                        | [Paritta Index](paritta/INDEX.md)                  |
 
 Three additional **question-driven paths** answer specific practice situations:
 [Working with the Hindrances](paths/working_with_hindrances.md) ·
