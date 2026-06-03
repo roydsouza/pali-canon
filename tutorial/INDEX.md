@@ -26,7 +26,7 @@ This single sutta — the Buddha's most systematic teaching on breath meditation
 
 ---
 
-## The six tutorials
+## The seven tutorials
 
 | # | Tutorial | What you learn |
 |---|---|---|
@@ -36,6 +36,7 @@ This single sutta — the Buddha's most systematic teaching on breath meditation
 | [[tutorial/04_matika_web\|04]] | **Following a Doctrine Through the Canon** | Using the mātikā lists to explore a theme across multiple collections |
 | [[tutorial/05_pali_reading\|05]] | **Reading Pali in This Vault** | The translation toggle, DPD word lookup, vocabulary blocks, and the graded reader |
 | [[tutorial/06_building_a_practice\|06]] | **Building a Sustained Practice** | Using the reading paths to structure a long-term programme of study and sitting |
+| [[tutorial/07_vocabulary_srs\|07]] | **Vocabulary Spaced Repetition (SRS)** | Using flashcards to learn Pali vocabulary systematically |
 
 ---
 

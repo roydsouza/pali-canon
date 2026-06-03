@@ -10,6 +10,7 @@ tags:
 # Pāḷi Vocabulary Flashcards
 
 This file contains auto-generated vocabulary flashcards for early Buddhist texts.
+See [[tutorial/07_vocabulary_srs|Tutorial 7: Vocabulary Spaced Repetition (SRS)]] for CLI commands, reference documentation, and setup instructions.
 Use the Obsidian Spaced Repetition plugin to review them.
 
 ---
