@@ -38,17 +38,14 @@ The 40 meditation subjects, the jhānas, and the formless attainments.
 
 | Ch. | Title | Vault file |
 |---|---|---|
-| III | Kammaṭṭhānagahaṇaniddesā | Taking a meditation subject; the 40 subjects; matching to temperament |
-| IV | Paṭhavīkasiṇakathā | Earth kasiṇa; first jhāna described in detail |
-| V | Sesadasakasiṇakathā | Remaining 9 kasiṇas |
-| VI | Asubhakathā | 10 foulness contemplations (cemetery meditations) |
-| VII | Cha-Anussatikathā | 6 recollections + 4 others; body awareness |
+| **III** | **Kammaṭṭhānagahaṇaniddesā** | **Taking a meditation subject; 40 subjects; temperament matching** | [[pakarana/visuddhimagga/vsm03_kammatthana\|→ Chapter III]] |
+| **IV–VII** | **Kasiṇas, Asubha, Anussati** | **Earth kasiṇa · remaining kasiṇas · foulness · recollections** | [[pakarana/visuddhimagga/vsm04_07_kasina_asubha\|→ Chapters IV–VII]] |
 | **VIII** | **Ānāpānasatikathā** | **Mindfulness of breathing — the full 16-step practice** | [[pakarana/visuddhimagga/vsm08_anapanasati\|→ Chapter VIII]] |
-| IX | Brahmavihārakathā | The four divine abidings; jhāna through loving-kindness |
-| X | Arūpakathā | The four formless attainments |
+| **IX** | **Brahmavihārakathā** | **The four divine abidings; jhāna through loving-kindness** | [[pakarana/visuddhimagga/vsm09_brahmavihara\|→ Chapter IX]] |
+| **X** | **Arūpakathā** | **The four formless attainments** | [[pakarana/visuddhimagga/vsm10_arupajhana\|→ Chapter X]] |
 | **XI** | **Samādhikathā** | **Concentration defined; the jhāna factors; 4 jhānas analysed** | [[pakarana/visuddhimagga/vsm11_samadhi\|→ Chapter XI]] |
-| XII | Abhiññākathā | The five supernormal powers |
-| XIII | Samāpattikathā | The eight attainments and their mastery |
+| XII | Abhiññākathā | The five supernormal powers | — |
+| XIII | Samāpattikathā | The eight attainments and their mastery | — |
 
 ### Book III — Paññā (Wisdom, Chapters XIV–XXIII)
 Abhidhamma analysis of mind and matter, the insight knowledges through to liberation.
@@ -70,7 +67,11 @@ Abhidhamma analysis of mind and matter, the insight knowledges through to libera
 
 ## Migrated chapters
 
+- [[pakarana/visuddhimagga/vsm03_kammatthana|Chapter III — Kammaṭṭhānagahaṇaniddesā]] (Taking a Meditation Subject; the 40 Subjects; Temperament Matching)
+- [[pakarana/visuddhimagga/vsm04_07_kasina_asubha|Chapters IV–VII — Kasiṇas, Foulness, Recollections]] (Earth kasiṇa, remaining kasiṇas, foulness contemplations, ten recollections)
 - [[pakarana/visuddhimagga/vsm08_anapanasati|Chapter VIII — Ānāpānasatikathā]] (Mindfulness of Breathing)
+- [[pakarana/visuddhimagga/vsm09_brahmavihara|Chapter IX — Brahmavihārakathā]] (The Four Divine Abidings as Jhāna Basis)
+- [[pakarana/visuddhimagga/vsm10_arupajhana|Chapter X — Arūpakathā]] (The Four Formless Attainments)
 - [[pakarana/visuddhimagga/vsm11_samadhi|Chapter XI — Samādhikathā]] (Description of Concentration; the Jhānas)
 
 ---
@@ -90,8 +91,11 @@ Abhidhamma analysis of mind and matter, the insight knowledges through to libera
 
 The Visuddhimagga is dense and technical. For a meditation practitioner it is best read **selectively and slowly** alongside the relevant canonical suttas, not sequentially. Suggested approach:
 
-1. **Start with Chapter VIII** if ānāpānasati is your primary sitting practice — it directly extends MN 118
-2. **Read Chapter XI** when the jhānas become an active part of your practice — it gives the most precise Pali definition of each jhāna factor
-3. **Come to Chapters XVIII–XXII** only after samatha practice is established — the insight knowledge sequence assumes a meditator with access concentration at minimum
+1. **Start with Chapter III** to understand the meditation subject system and how subjects are matched to temperament — it orients the entire samādhi book
+2. **Go to Chapter VIII** if ānāpānasati is your primary sitting practice — it directly extends MN 118
+3. **Read Chapter XI** when the jhānas become an active part of your practice — it gives the most precise Pali definition of each jhāna factor
+4. **Chapter IX** when brahmavihāra practice becomes part of your sitting — especially the upekkhā analysis explaining why equanimity reaches the fourth jhāna while mettā does not
+5. **Chapter X** (formless attainments) and **Chapters IV–VII** (kasiṇas and recollections) as reference material when those subjects arise in reading or practice
+6. **Come to Chapters XVIII–XXII** (paññā section) only after samatha practice is established — the insight knowledge sequence assumes a meditator with access concentration at minimum
 
 Use the `> [!QUOTE]- Bhikkhu Bodhi` callout blocks in each chapter file to paste key passages from your copy of *The Path of Purification*.
