@@ -214,9 +214,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **README overhaul** — Updated to reflect current vault state (5 layers, tutorials, pali-nlp, accurate counts), links throughout, Obsidian entry-point nudge. ✅
 - [x] **INDEX.md UX fixes** — All four card badges made clickable; Dataview inline expressions replaced with hardcoded counts; regression tests added to pre-commit suite. ✅
 
-### Phase 20 — Remaining Visuddhimagga (Pending)
-- [ ] **Vsm Samādhi section** — Ch. III (taking a meditation subject), Ch. IX (brahmavihārā as jhāna basis), Ch. X (formless attainments), and remaining samādhi chapters (IV–VII)
-- [ ] **Vsm Paññā section** — Ch. XIV–XXII (insight knowledges through liberation; only after samatha practice is well-established)
+### Phase 20 — Remaining Visuddhimagga
+- [x] **Vsm Samādhi section (Phase 20A)** — Ch. III (40 subjects, temperament matching), Ch. IV–VII (kasiṇas, foulness, recollections), Ch. IX (brahmavihārā as jhāna basis), Ch. X (formless attainments) ✅ (2026-06-03)
+- [ ] **Vsm Paññā section (Phase 20B)** — Ch. XIV–XXII (insight knowledges through liberation; only after samatha practice is well-established)
 
 ---
 

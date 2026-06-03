@@ -1,5 +1,23 @@
 # Sync Log
 
+## [2026-06-03 08:00:00-07:00 — Phase 20A: Visuddhimagga Samādhi Arc (Claude Sonnet 4.6)]
+
+### Accomplishments
+
+**Visuddhimagga Samādhi Arc (Phase 20A)**
+- **vsm03_kammatthana**: Chapter III — the 40 meditation subjects, six temperament types (rāga/dosa/moha/saddhā/buddhi/vitakka), kalyāṇamitta and subject-assignment procedure; which of the 40 subjects lead to full jhāna vs. access concentration only
+- **vsm04_07_kasina_asubha**: Chapters IV–VII grouped — earth kasiṇa mechanics (uggaha-nimitta and paṭibhāga-nimitta; entry into jhāna via counterpart sign), remaining 9 kasiṇas, ten asubha corpse-stage meditations (jhāna range: first jhāna only), ten anussati recollections including maraṇasati and upasamānussati
+- **vsm09_brahmavihara**: Chapter IX — mettā/karuṇā/muditā leading to J1–J3 (sukha present), upekkhā brahmavihāra leading to J4 (upekkhā structure matches the fourth jhāna); 11-category and 10-direction pervasion; near and far enemies of each brahmavihāra
+- **vsm10_arupajhana**: Chapter X — all four arūpa-jhānas (infinite space, infinite consciousness, nothingness, neither-perception-nor-non-perception); entry mechanics from the fourth rūpa-jhāna; 8-attainment unified system; nirodha-samāpatti context
+- **visuddhimagga/INDEX.md**: Updated to list all six migrated chapters with links; reading guidance expanded with sequencing advice for practitioners
+
+### Vault State
+- **Validator**: 15,339 wikilinks / **0 errors** ✅
+- **Unit tests**: 13/13 pass ✅
+- **Files**: 1,215 markdown files
+
+---
+
 ## [2026-06-03 07:20:00-07:00 — Phase 17 Stage 1D: Spaced Repetition Cards Generation Complete (Antigravity)]
 
 ### Accomplishments
