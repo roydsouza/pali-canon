@@ -18,6 +18,16 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] MN 7: Vatthūpamasutta
+> - [ ] AN 4.125–126: Mettāsutta
+> - [ ] DN 13: Tevijjasutta
+> - [ ] SN 46.54: Mettāsahagatasutta
+> - [ ] AN 11.15: Mettānisaṃsasutta
+> - [ ] Snp 1.8: Karaṇīyamettasutta
+
 ## The Path Map
 
 ```mermaid

@@ -18,6 +18,18 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] AN 8.54: Dīghajāṇusutta
+> - [ ] AN 4.99: Sikkhāpadasutta
+> - [ ] MN 51: Kandarakasutta
+> - [ ] MN 27: Cūḷahatthipadopamasutta
+> - [ ] DN 2: Sāmaññaphalasutta
+> - [ ] AN 7.65: Hirīottappasutta
+> - [ ] AN 8.53: Gotamīsutta
+> - [ ] AN 11.1–5: Cetanākaraṇīyasuttāni
+
 ## The Path Map
 
 ```mermaid

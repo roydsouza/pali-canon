@@ -19,6 +19,16 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] MN 10 / DN 22: Satipaṭṭhāna
+> - [ ] MN 20: Vitakkasaṇṭhānasutta
+> - [ ] MN 7: Vatthūpamasutta
+> - [ ] SN 46: Bojjhaṅgasaṃyutta
+> - [ ] AN 11.15: Mettānisaṃsasutta
+> - [ ] Snp 1.8: Karaṇīyamettasutta
+
 ## The Path Map
 
 ```mermaid

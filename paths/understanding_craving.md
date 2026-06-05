@@ -19,6 +19,16 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] SN 35: Saḷāyatanasaṃyutta
+> - [ ] SN 22: Khandhasaṃyutta
+> - [ ] MN 44: Cūḷavedallasutta
+> - [ ] DN 15: Mahānidānasutta
+> - [ ] MN 2: Sabbāsavasutta
+> - [ ] Snp 4: Aṭṭhakavagga
+
 ## The Path Map
 
 ```mermaid

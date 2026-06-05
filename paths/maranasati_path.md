@@ -18,6 +18,14 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] AN 6.19: Paṭhamamaraṇassatisutta
+> - [ ] AN 6.20: Dutiyamaraṇassatisutta
+> - [ ] AN 8.73: Paṭhamamaraṇassatisutta
+> - [ ] SN 47.13: Cundasutta
+
 ## The Path Map
 
 ```mermaid

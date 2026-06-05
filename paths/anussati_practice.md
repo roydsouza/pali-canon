@@ -18,6 +18,13 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] AN 6.10: Mahānāmasutta
+> - [ ] AN 11.12: Mahānāmasutta
+> - [ ] AN 6.25: Anussatiṭṭhānasutta
+
 ## The Path Map
 
 ```mermaid

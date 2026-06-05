@@ -66,3 +66,12 @@ These paths answer a specific practice question using suttas already in the vaul
 ### [[understanding_craving|Understanding Craving (Taṇhā)]]
 *Tracing craving from the sense doors through the aggregates, dependent origination, and the seven methods of release.*
 *   **Core Texts**: [[sn35|SN 35]], [[sn22|SN 22]], [[mn44|MN 44]], [[dn15|DN 15]], [[mn2|MN 2]], [[snp4_1|Snp 4 (Aṭṭhakavagga)]].
+
+---
+
+## Pali Reading Tools
+
+### [[graded_reader|Pali Graded Reader]]
+*518 suttas ranked easiest to hardest by vocabulary difficulty. A systematic reading ladder from short Itivuttaka texts to the lexically dense longer discourses.*
+*   **Pair with**: `pali-srs --sutta <ID>` from pali-nlp to prime vocabulary before each session.
+*   **Tiers**: Beginner (1–50) · Lower Intermediate (51–200) · Upper Intermediate (201–400) · Advanced (401–518).

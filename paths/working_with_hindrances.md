@@ -19,6 +19,16 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] MN 10 / DN 22: Satipaṭṭhāna
+> - [ ] DN 2: Sāmaññaphalasutta
+> - [ ] MN 20: Vitakkasaṇṭhānasutta
+> - [ ] SN 46: Bojjhaṅgasaṃyutta
+> - [ ] AN 5.28: Pañcaṅgikasutta
+> - [ ] AN 9.34 / AN 9.35: Jhāna stability
+
 ## The Path Map
 
 ```mermaid

@@ -18,6 +18,17 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] MN 2: Sabbāsavasutta
+> - [ ] MN 148: Chachakkasutta
+> - [ ] SN 36: Vedanāsaṃyutta
+> - [ ] MN 28: Mahāhatthipadopamasutta
+> - [ ] MN 140: Dhātuvibhaṅgasutta
+> - [ ] MN 10: Satipaṭṭhānasutta
+> - [ ] DN 22: Mahāsatipaṭṭhānasutta
+
 ## The Path Map
 
 ```mermaid

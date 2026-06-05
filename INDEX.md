@@ -75,7 +75,7 @@
 
 **[[tutorial/INDEX|Dhamma Practice Workstation — Getting Started]]**
 
-Six tutorials taking you from your first sutta to a sustained long-term practice. Begin with the breath:
+Seven tutorials taking you from your first sutta to a sustained long-term practice. Begin with the breath:
 → [[tutorial/01_breath_practice|Tutorial 1: Sitting with the Ānāpānasati Sutta]]
 
 ---
@@ -111,6 +111,7 @@ Learn how to configure and play chanting audio files (e.g., Pātimokkha recitati
 ```dataview
 TABLE file.mtime as "Modified Time", row.type as "Type"
 FROM ""
+WHERE (contains(file.folder, "mula") OR contains(file.folder, "practice") OR row.type = "matika" OR row.type = "path" OR row.type = "tutorial")
 SORT file.mtime DESC
 LIMIT 5
 ```

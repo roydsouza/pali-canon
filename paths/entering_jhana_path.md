@@ -18,6 +18,17 @@ tags:
 
 ---
 
+> [!NOTE]- Reading Progress
+> Mark each sutta as you work through it.
+>
+> - [ ] MN 8: Sallekhasutta
+> - [ ] MN 128: Upakkilesasutta
+> - [ ] AN 9.35: Gāvīupamāsutta
+> - [ ] AN 8.63: Saṅkhittasutta
+> - [ ] AN 9.34: Nibbānasukhasutta
+> - [ ] AN 9.36: Jhānasutta
+> - [ ] MN 111: Anupadasutta
+
 ## The Path Map
 
 ```mermaid

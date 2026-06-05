@@ -9,9 +9,23 @@ tags:
 
 # Pali Graded Reader
 
-Suttas ordered by vocabulary difficulty (easiest first).
-Score = mean frequency rank of unique non-common headwords.
-Lower score = more common vocabulary = easier Pali.
+518 suttas ranked easiest to hardest by vocabulary difficulty. Use it as a reading ladder:
+start at the beginning of your current tier and work forward until each sutta feels comfortable
+before moving to the next.
+
+**How to use:**
+1. Find your entry tier below (start with Tier 1 if unsure).
+2. Open the sutta in the vault; read it with the translation toggle (`Cmd+R`) or the DPD lookup.
+3. Before reading a new sutta, run `pali-srs --sutta <ID>` (from pali-nlp) to prime its vocabulary.
+4. Once a tier feels comfortable, advance to the next.
+
+**Score** = mean DPD frequency rank of unique non-structural headwords. Lower = more common = easier.
+**Tokens** = total Pali word tokens (proxy for length). **Unique Words** = distinct lemmas.
+
+---
+
+## Tier 1 — Beginner (Ranks 1–50)
+*Mostly short Itivuttaka and AN 1 texts. Very common vocabulary.*
 
 | Rank | Sutta | Nikāya | Score | Tokens | Unique Words |
 |---|---|---|---|---|---|
@@ -65,6 +79,12 @@ Lower score = more common vocabulary = easier Pali.
 | 48 | [[thig2_10\|THIG2]] | Khuddaka | 2054 | 25 | 24 |
 | 49 | [[iti85\|ITI85]] | Khuddaka | 2089 | 83 | 55 |
 | 50 | [[an11_4\|AN11.4]] | Anguttara | 2097 | 199 | 63 |
+
+## Tier 2 — Lower Intermediate (Ranks 51–200)
+*Short-to-medium suttas. Familiar practice vocabulary with some technical terms.*
+
+| Rank | Sutta | Nikāya | Score | Tokens | Unique Words |
+|---|---|---|---|---|---|
 | 51 | [[iti20\|ITI20]] | Khuddaka | 2120 | 89 | 66 |
 | 52 | [[thig2_2\|THIG2]] | Khuddaka | 2124 | 31 | 29 |
 | 53 | [[an1_150_169\|AN1.150-169]] | Anguttara | 2135 | 255 | 38 |
@@ -215,6 +235,12 @@ Lower score = more common vocabulary = easier Pali.
 | 198 | [[sn51.1\|SN51.1]] | Samyutta | 3984 | 38 | 21 |
 | 199 | [[thag6_11\|THAG6]] | Khuddaka | 4006 | 58 | 52 |
 | 200 | [[snp3_12\|SNP3]] | Khuddaka | 4007 | 1066 | 350 |
+
+## Tier 3 — Upper Intermediate (Ranks 201–400)
+*Medium-length suttas. Expect doctrinal terminology and longer sentences.*
+
+| Rank | Sutta | Nikāya | Score | Tokens | Unique Words |
+|---|---|---|---|---|---|
 | 201 | [[snp3_3\|SNP3]] | Khuddaka | 4010 | 185 | 100 |
 | 202 | [[thag5_1\|THAG5]] | Khuddaka | 4014 | 51 | 47 |
 | 203 | [[dhp_08_sahassavagga\|DHP_08]] | Khuddaka | 4021 | 199 | 98 |
@@ -415,6 +441,12 @@ Lower score = more common vocabulary = easier Pali.
 | 398 | [[iti76\|ITI76]] | Khuddaka | 6068 | 139 | 99 |
 | 399 | [[thig3_6\|THIG3]] | Khuddaka | 6091 | 31 | 29 |
 | 400 | [[snp4_1\|SNP4]] | Khuddaka | 6113 | 69 | 52 |
+
+## Tier 4 — Advanced (Ranks 401–518)
+*Longer, lexically dense suttas. Rich Abhidhamma-style analysis and rare vocabulary.*
+
+| Rank | Sutta | Nikāya | Score | Tokens | Unique Words |
+|---|---|---|---|---|---|
 | 401 | [[dhp_11_jaravagga\|DHP_11]] | Khuddaka | 6122 | 126 | 106 |
 | 402 | [[thag20_1\|THAG20]] | Khuddaka | 6158 | 719 | 447 |
 | 403 | [[iti104\|ITI104]] | Khuddaka | 6160 | 152 | 91 |

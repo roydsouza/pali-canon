@@ -55,19 +55,13 @@ GROUP BY meditation_type
       <h3>🎧 Monastic Chanting Playlists</h3>
       <p>Listen to Pali recitations directly within the vault using local files.</p>
       
-      <div class="db-playlist-item">
-        <span>Bhikkhu Pātimokkha (227 Rules)</span>
-      </div>
+      <ul class="db-link-list">
+        <li><a class="internal-link" href="../mula/vinaya/patimokkha_bhikkhu.md">Bhikkhu Pātimokkha (227 Rules)</a></li>
+        <li><a class="internal-link" href="../mula/vinaya/patimokkha_bhikkhuni.md">Bhikkhunī Pātimokkha (311 Rules)</a></li>
+      </ul>
 
-![[bhikkhu_patimokkha.mp3]]
-      
-      <div class="db-playlist-item">
-        <span>Bhikkhunī Pātimokkha (311 Rules)</span>
-      </div>
-
-![[bhikkhuni_patimokkha.mp3]]
-
-      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../meta/CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions. Place <code>.mp3</code> files in <code>practice/audio/</code>.</p>
+> [!NOTE] Audio not yet configured
+> Place `bhikkhu_patimokkha.mp3` and `bhikkhuni_patimokkha.mp3` in `practice/audio/` to enable embedded playback. See [[../meta/CHANTING|Audio Chanting Integration Guide]] for setup instructions.
     </div>
   </div>
 
@@ -103,6 +97,19 @@ FROM #practice/session
 SORT date DESC
 LIMIT 10
 ```
+
+---
+
+## 📍 Currently Studying
+
+*Update these links manually as you move through your reading programme.*
+
+| | |
+|---|---|
+| **Active reading path** | — |
+| **Last sutta read** | — |
+| **Next up** | — |
+| **Graded reader position** | — |
 
 ---
 *Created and maintained as a structured database for Buddhist studies and daily monastic practice.*
