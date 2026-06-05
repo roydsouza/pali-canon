@@ -469,3 +469,47 @@ These queries do not rely on any custom YAML frontmatter fields (like `type` or 
 - **Link Validator**: Extended `validate_links.py` to scan and validate HTML `<a>` links ending in `.md` alongside standard wikilinks. Ran full vault validation: **1,071 markdown files and 13,585 total links successfully verified with 0 errors**.
 
 ---
+
+## [2026-06-04 20:00:00-07:00 — Phase 20C: Vault Audit & Quality Sprint (Claude Sonnet 4.6)]
+
+### Session Accomplishments
+
+**Critical Bug Fixes**
+- **Matika link conversion** (`fix_matika_links.py`): Converted all 80 matika factor files from `[text](path.md)` markdown syntax to Obsidian wikilinks. Fixed 7 broken `mn9.md` references (context-aware replacement: sn45, mn20, sn46, sn12). Fixed 27 SN INDEX misleading links to specific sutta files. Fixed wrong-directory `majjhima_nikaya/an10_60.md` → `anguttara_nikaya/an10_60.md`.
+- **Validator gap closed** (`validate_links.py`): Extended link validator to check standard Markdown `[label](path.md)` links (third check alongside wikilinks and HTML `<a>` links). Now validates 15,608 total links across 1,216 files.
+- **ROADMAP.md**: Fixed stale `[FROM-CLAUDE.md](FROM-CLAUDE.md)` link → plain text description.
+
+**Vocabulary Concordance Quality** (pali-nlp repo, commit 369a604)
+- `vault_writer.py`: Filter out unresolved entries (`if not r.found: continue`) — eliminates `word (?)` rows with empty POS/gloss.
+- Changed sort from rarest-first to most-frequent-first (ascending rank, `min_rank=30` floor).
+- Vault MN 10 callout label updated to remove stale "rarest first" label.
+
+**Learning Experience Improvements**
+- **SIMILES.md**: Expanded from 7 to 17 similes across 5 categories (Practice & Path, Five Aggregates, Mind & Defilements, Awakening & Freedom, Teacher & Teaching).
+- **PERICOPES.md**: Expanded from 4 to 13 stock formulas across 5 categories with full Pali + English text.
+- **Reading paths**: Added collapsible `> [!NOTE]- Reading Progress` callout with checkboxes to 9 reading paths via `add_path_progress.py`.
+- **Graded reader**: Added 4-tier difficulty structure (Beginner/Lower/Upper Intermediate/Advanced) + "How to use" preamble via `add_graded_reader_tiers.py`.
+- **Contemplation prompts**: Added `> [!QUESTION]- Practice Questions` callout to MN 10 (5 questions), MN 118 (5 questions), DN 22 (5 questions).
+
+**Interface Quality Improvements**
+- **INDEX.md**: Fixed "Six tutorials" → "Seven tutorials"; added type filter to Dataview recently-modified query.
+- **practice/INDEX.md**: Replaced broken audio embeds with clean placeholder callout; added "Currently Studying" manual-update section.
+- **paths/INDEX.md**: Added "Pali Reading Tools" section; verified all 10 paths linked.
+- **matika/INDEX.md**: Added "Recommended Entry Points" table mapping 10 practice questions to mātikā files.
+- **paths/INDEX.md Pali Graded Reader**: Added tier summary to graded reader entry.
+
+**Coordination Files**
+- TASKS.md: All 2026-06-04 review findings marked completed; deferred items retained; Phase 21 priority queue added.
+- STATUS.md: Script count updated 136 → 142.
+
+### Commits
+- `c72de76` — fix: matika wikilink conversion, validator markdown-link extension, ROADMAP fix (vault)
+- `c6250f4` — feat: learning UX and interface improvements (vault)
+- `a0b5c83` — chore: remove stale "rarest first" label from MN 10 vocab callout (vault)
+- `369a604` — fix: filter unresolved entries and sort vocab concordance most-frequent-first (pali-nlp)
+
+### Validation
+- `python3 scratch/validate_links.py`: 0 errors (1,216 files, 15,608 links)
+- `python3 scratch/tests/run_all_tests.py`: 13/13 tests pass
+
+---
