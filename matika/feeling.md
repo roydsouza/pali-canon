@@ -35,5 +35,5 @@ In the Abhidhamma, particularly in the [[mula/abhidhamma/abhidhammatthasangaha|A
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
-*   [MN 43: Mahāvedallasutta](../mula/sutta/majjhima_nikaya/mn43.md)
+*   [[../mula/sutta/majjhima_nikaya/mn10|MN 10: Satipaṭṭhānasutta]]
+*   [[../mula/sutta/majjhima_nikaya/mn43|MN 43: Mahāvedallasutta]]

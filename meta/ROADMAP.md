@@ -7,7 +7,7 @@
 
 ## Phase 0 — Get Well (Immediate Fixes)
 
-Address the five ongoing issues identified in [FROM-CLAUDE.md](FROM-CLAUDE.md).
+Address the five ongoing issues identified in the initial bootstrap prompt (since removed).
 
 | Issue | Fix | Effort |
 |---|---|---|

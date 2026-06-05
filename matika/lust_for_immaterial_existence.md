@@ -29,5 +29,5 @@ Arūparāga is the attachment to rebirth in the formless realms, or attachment t
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [AN 9.36: Jhānasutta](../mula/sutta/anguttara_nikaya/an9_36.md)
-*   [matika/ten_fetters](ten_fetters.md)
+*   [[../mula/sutta/anguttara_nikaya/an9_36|AN 9.36: Jhānasutta]]
+*   [[ten_fetters|Ten Fetters]]

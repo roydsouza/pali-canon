@@ -29,5 +29,5 @@ The fifth precept. It requires refraining from alcohol, drugs, or substances tha
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/five_precepts](five_precepts.md)
-*   [matika/eight_precepts](eight_precepts.md)
+*   [[five_precepts|Five Precepts]]
+*   [[eight_precepts|Eight Precepts]]

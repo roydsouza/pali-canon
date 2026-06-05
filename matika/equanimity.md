@@ -29,5 +29,5 @@ Upekkhā is the mental quality of neutral balance, evenness, and freedom from at
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 118: Ānāpānasatisutta](../mula/sutta/majjhima_nikaya/mn118.md)
-*   [DN 22: Mahāsatipaṭṭhānasutta](../mula/sutta/digha_nikaya/dn22.md)
+*   [[../mula/sutta/majjhima_nikaya/mn118|MN 118: Ānāpānasatisutta]]
+*   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]]

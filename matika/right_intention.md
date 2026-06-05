@@ -40,4 +40,4 @@ The following suttas in the vault mention, describe, or analyze Right Intention:
 *   [[../mula/sutta/majjhima_nikaya/mn19|MN 19: Dvedhāvitakkasutta]] — The primary sutta where the Buddha describes his pre-awakening practice of dividing his thoughts into two categories (unwholesome: sensuality, ill will, harm; wholesome: renunciation, non-ill will, harmlessness), illustrating that whatever one frequently ponders becomes the inclination of the mind.
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Delineates the difference between mundane intention (accompanied by defilements but yielding merit) and supramundane intention (resolved on cessation, free from attachments), showing how Right View guides it.
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Defines Right Intention under the Truths section of the Dhammānupassanā.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

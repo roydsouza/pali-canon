@@ -29,5 +29,5 @@ Māna is the lingering conceit of selfhood that compares oneself to others, mani
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 22.95: Phenapiṇḍūpamasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [matika/ten_fetters](ten_fetters.md)
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the foam/bubble/mirage similes illustrating the insubstantial nature of the five aggregates.
+*   [[ten_fetters|Ten Fetters]]

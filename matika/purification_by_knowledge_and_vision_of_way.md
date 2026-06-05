@@ -29,4 +29,4 @@ The sixth purification. It is the development of the nine insight knowledges (su
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[seven_purifications|Seven Purifications]]

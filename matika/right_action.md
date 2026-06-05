@@ -40,4 +40,4 @@ The following suttas and lists in the vault mention, describe, or analyze Right 
 *   [[five_precepts|Five Precepts (Pañcasīla)]] — The foundational code of lay Buddhist ethics, where the first three precepts directly map to the definition of Right Action.
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Details the distinction between mundane Right Action (abstaining from wrong conduct for worldly merit) and supramundane Right Action (the mental abstinence of a noble disciple).
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Defines Right Action within the path factors under the Truths section.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

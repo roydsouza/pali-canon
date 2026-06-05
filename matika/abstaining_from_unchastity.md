@@ -29,5 +29,5 @@ The third precept on observance days and for monastics. It replaces the precept 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/eight_precepts](eight_precepts.md)
-*   [mula/vinaya/patimokkha_bhikkhu](../mula/vinaya/patimokkha_bhikkhu.md)
+*   [[eight_precepts|Eight Precepts]]
+*   [[../mula/vinaya/patimokkha_bhikkhu|mula/vinaya/patimokkha_bhikkhu]]

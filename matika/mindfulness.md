@@ -29,5 +29,5 @@ Sati is the quality of steady, clear, and non-reactive attention. It recollected
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
-*   [MN 118: Ānāpānasatisutta](../mula/sutta/majjhima_nikaya/mn118.md)
+*   [[../mula/sutta/majjhima_nikaya/mn10|MN 10: Satipaṭṭhānasutta]]
+*   [[../mula/sutta/majjhima_nikaya/mn118|MN 118: Ānāpānasatisutta]]

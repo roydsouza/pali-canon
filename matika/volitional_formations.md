@@ -35,5 +35,5 @@ In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapte
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 22.59: Anattalakkhaṇasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [SN 22.95: Phenapiṇḍūpamasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the Khandha-saṃyutta's systematic refutation of self in the five aggregates.
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the foam/bubble/mirage similes illustrating the insubstantial nature of the five aggregates.

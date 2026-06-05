@@ -35,5 +35,5 @@ In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapte
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 43: Mahāvedallasutta](../mula/sutta/majjhima_nikaya/mn43.md)
-*   [MN 44: Cūḷavedallasutta](../mula/sutta/majjhima_nikaya/mn44.md)
+*   [[../mula/sutta/majjhima_nikaya/mn43|MN 43: Mahāvedallasutta]]
+*   [[../mula/sutta/majjhima_nikaya/mn44|MN 44: Cūḷavedallasutta]]

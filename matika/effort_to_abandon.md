@@ -29,5 +29,5 @@ The second right exertion. It involves actively letting go, dissolving, and bani
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 20: Vitakkasaṇṭhānasutta](../mula/sutta/majjhima_nikaya/mn20.md)
-*   [matika/right_effort](right_effort.md)
+*   [[../mula/sutta/majjhima_nikaya/mn20|MN 20: Vitakkasaṇṭhānasutta]]
+*   [[right_effort|Right Effort]]

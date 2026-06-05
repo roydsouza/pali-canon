@@ -29,5 +29,5 @@ The first precept of Buddhist ethics. It requires refraining from deliberately d
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [AN 11.15: Karaṇīyamettāsutta](../mula/sutta/anguttara_nikaya/an11_15.md)
-*   [matika/five_precepts](five_precepts.md)
+*   [[../mula/sutta/anguttara_nikaya/an11_15|AN 11.15: Karaṇīyamettāsutta]]
+*   [[five_precepts|Five Precepts]]

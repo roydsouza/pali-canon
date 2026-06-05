@@ -29,5 +29,5 @@ Sacca is the perfection of truthfulness, honesty, and alignment with reality. It
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/right_speech](right_speech.md)
-*   [matika/ten_perfections](ten_perfections.md)
+*   [[right_speech|matika/right_speech]]
+*   [[ten_perfections|Ten Perfections]]

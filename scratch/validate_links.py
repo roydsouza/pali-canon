@@ -172,6 +172,9 @@ def validate_vault(target_files=None):
     # target may contain an anchor: e.g. target#anchor
     wikilink_pattern = re.compile(r'\[\[([^\]]+)\]\]')
     html_link_pattern = re.compile(r'<a\s+[^>]*href="([^":\s]+\.md(?:#[^"]+)?)"[^>]*>')
+    # Standard Markdown link pattern: [label](path.md) or [label](path.md#anchor)
+    # Exclude http(s):// URLs and mailto: links
+    md_link_pattern = re.compile(r'(?<!!)\[(?:[^\]]*)\]\(([^):\s]+\.md(?:#[^)]+)?)\)')
     
     errors = []
     total_links_checked = 0
@@ -332,6 +335,87 @@ def validate_vault(target_files=None):
                             "line": line_num,
                             "link": raw_link,
                             "error": f"Target HTML file '{target_path}.md' not found"
+                        })
+                    elif anchor:
+                        headers = file_headers.get(target_file)
+                        if headers is None:
+                            headers = parse_headers_and_anchors(target_file)
+                            file_headers[target_file] = headers
+                        if anchor not in headers:
+                            norm_anchor = re.sub(r'[^\w\s§\-.]', '', anchor).strip()
+                            matched_anchor = False
+                            for h in headers:
+                                slug_h = h.lower().replace(' ', '-')
+                                slug_anchor = anchor.lower().replace(' ', '-')
+                                if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
+                                    matched_anchor = True
+                                    break
+                            if not matched_anchor:
+                                errors.append({
+                                    "file": rel_src,
+                                    "line": line_num,
+                                    "link": raw_link,
+                                    "error": f"Anchor '#{anchor}' not found in target '{os.path.relpath(target_file, VAULT_DIR)}'"
+                                })
+
+                # Check standard Markdown [label](path.md) links
+                # Strip inline code spans before checking to avoid false positives
+                line_no_code = re.sub(r'`[^`]+`', lambda m: ' ' * len(m.group()), line)
+                for match in md_link_pattern.finditer(line_no_code):
+                    total_links_checked += 1
+                    raw_link = match.group(1).strip()
+
+                    # Split anchor if present
+                    if '#' in raw_link:
+                        target_path, anchor = raw_link.split('#', 1)
+                        target_path = target_path.strip()
+                        anchor = anchor.strip()
+                    else:
+                        target_path = raw_link
+                        anchor = None
+
+                    # Strip .md extension
+                    if target_path.endswith(".md"):
+                        target_path = target_path[:-3]
+
+                    # Skip non-markdown resources
+                    non_md_extensions = ('.mp3', '.wav', '.ogg', '.m4a', '.flac',
+                                        '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp',
+                                        '.pdf', '.css', '.js', '.json', '.csv')
+                    if any(target_path.lower().endswith(ext) for ext in non_md_extensions):
+                        continue
+
+                    target_file = None
+
+                    # 1. Direct path check from vault root
+                    if target_path in path_map:
+                        target_file = path_map[target_path]
+                    # 2. Short filename check
+                    elif target_path in file_map:
+                        resolved = file_map[target_path]
+                        if isinstance(resolved, list):
+                            errors.append({
+                                "file": rel_src,
+                                "line": line_num,
+                                "link": raw_link,
+                                "error": f"Ambiguous markdown link '{target_path}' matches multiple files"
+                            })
+                            continue
+                        else:
+                            target_file = resolved
+                    # 3. Relative path check from current file directory
+                    else:
+                        curr_dir = os.path.dirname(filepath)
+                        rel_candidate = os.path.normpath(os.path.join(curr_dir, target_path + ".md"))
+                        if os.path.exists(rel_candidate):
+                            target_file = rel_candidate
+
+                    if not target_file:
+                        errors.append({
+                            "file": rel_src,
+                            "line": line_num,
+                            "link": raw_link,
+                            "error": f"Target markdown link file '{target_path}.md' not found"
                         })
                     elif anchor:
                         headers = file_headers.get(target_file)

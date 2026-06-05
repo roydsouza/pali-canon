@@ -29,5 +29,5 @@ Saḷāyatana refers to the six internal organs of perception (eye, ear, nose, t
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [MN 148: Chachakkasutta](../mula/sutta/majjhima_nikaya/mn148.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.
+*   [[../mula/sutta/majjhima_nikaya/mn148|MN 148: Chachakkasutta]]

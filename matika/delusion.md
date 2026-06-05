@@ -29,5 +29,4 @@ Moha is delusion and ignorance. It is the mental state of confusion and lack of 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)
-*   [matika/three_unwholesome_roots](three_unwholesome_roots.md)
+*   [[three_unwholesome_roots|Three Unwholesome Roots]]

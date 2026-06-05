@@ -35,5 +35,5 @@ In the Abhidhamma, particularly in Chapter 6 of the [[mula/abhidhamma/abhidhamma
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 22.59: Anattalakkhaṇasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [DN 22: Mahāsatipaṭṭhānasutta](../mula/sutta/digha_nikaya/dn22.md)
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the Khandha-saṃyutta's systematic refutation of self in the five aggregates.
+*   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]]

@@ -38,7 +38,6 @@ Right Speech also includes active wholesome speech: speaking what is true, usefu
 
 The following suttas in the vault mention, describe, or analyze Right Speech:
 
-*   [MN 58: Abhayarājakumārasutta](../mula/sutta/majjhima_nikaya/mn58.md) — Outlines the criteria the Buddha uses to decide whether to say something: whether it is true or false, beneficial or unbeneficial, and whether it is pleasing or displeasing to others, demonstrating how to communicate with wisdom.
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Distinguishes between mundane right speech (abstaining from the four wrong modes for the sake of merit) and supramundane right speech (the mental abstinence of one on the noble path).
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Defines Right Speech in the path factors under the Truths section.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

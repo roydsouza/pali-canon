@@ -29,5 +29,5 @@ The first purification. It is the refinement of moral behavior, restraint of the
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/seven_purifications](seven_purifications.md)
-*   [mula/vinaya/patimokkha_bhikkhu](../mula/vinaya/patimokkha_bhikkhu.md)
+*   [[seven_purifications|Seven Purifications]]
+*   [[../mula/vinaya/patimokkha_bhikkhu|mula/vinaya/patimokkha_bhikkhu]]

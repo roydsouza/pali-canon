@@ -29,5 +29,5 @@ Pīti is the physical and mental rapture, joy, or thrill born of meditation. It 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 118: Ānāpānasatisutta](../mula/sutta/majjhima_nikaya/mn118.md)
-*   [AN 5.28: Pañcaṅgikasutta](../mula/sutta/anguttara_nikaya/an5_28.md)
+*   [[../mula/sutta/majjhima_nikaya/mn118|MN 118: Ānāpānasatisutta]]
+*   [[../mula/sutta/anguttara_nikaya/an5_28|AN 5.28: Pañcaṅgikasutta]]

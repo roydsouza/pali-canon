@@ -29,4 +29,4 @@ The third precept for lay practitioners. It requires refraining from adultery, e
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/five_precepts](five_precepts.md)
+*   [[five_precepts|Five Precepts]]

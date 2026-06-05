@@ -29,5 +29,5 @@ Viriya is spiritual energy, vigor, and determination. It drives the mind to over
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 118: Ānāpānasatisutta](../mula/sutta/majjhima_nikaya/mn118.md)
-*   [matika/four_right_exertions](four_right_exertions.md)
+*   [[../mula/sutta/majjhima_nikaya/mn118|MN 118: Ānāpānasatisutta]]
+*   [[four_right_exertions|Four Right Exertions]]

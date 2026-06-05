@@ -29,5 +29,5 @@ Kāyānupassanā is the first foundation of mindfulness. It directs attention to
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
-*   [MN 119: Kāyagatāsatisutta](../mula/sutta/majjhima_nikaya/mn119.md)
+*   [[../mula/sutta/majjhima_nikaya/mn10|MN 10: Satipaṭṭhānasutta]]
+*   [[../mula/sutta/majjhima_nikaya/mn119|MN 119: Kāyagatāsatisutta]]

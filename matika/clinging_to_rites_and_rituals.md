@@ -29,5 +29,5 @@ Sīlabbataparāmāsa is the belief that liberation can be achieved simply by ext
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 22: Alagaddūpamasutta](../mula/sutta/majjhima_nikaya/mn22.md)
-*   [matika/ten_fetters](ten_fetters.md)
+*   [[../mula/sutta/majjhima_nikaya/mn22|MN 22: Alagaddūpamasutta]]
+*   [[ten_fetters|Ten Fetters]]

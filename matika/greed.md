@@ -29,5 +29,5 @@ Lobha is greed, lust, and attachment. It is the mental state of pulling towards,
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)
-*   [matika/three_unwholesome_roots](three_unwholesome_roots.md)
+*   [[../mula/sutta/samyutta_nikaya/sn46|SN 46: Bojjhaṅgasaṃyutta]] — the seven awakening factors as antidotes to greed, sensual desire, and attachment.
+*   [[three_unwholesome_roots|Three Unwholesome Roots]]

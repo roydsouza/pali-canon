@@ -53,4 +53,4 @@ The following suttas in the vault mention, describe, or analyze Right Concentrat
 *   [[../mula/sutta/anguttara_nikaya/an5_28|AN 5.28: Pañcaṅgikasutta]] — Focuses on right concentration with five factors, describing how the qualities of rapture, pleasure, and bright awareness saturate the physical body.
 *   [[../mula/sutta/anguttara_nikaya/an9_36|AN 9.36: Jhānasutta]] — Analyzes each jhāna and formless attainment as a springboard for insight, showing how one treats the absorption as impermanent and unsatisfactory to achieve release.
 *   [[../mula/sutta/anguttara_nikaya/an4_41|AN 4.41: Samādhibhāvanāsutta]] — Explains the four ways of developing concentration: for pleasant abiding in this life (jhānas), for gaining knowledge and vision (divine eye), for mindfulness and clear comprehension, and for the ending of defilements.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

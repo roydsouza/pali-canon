@@ -29,5 +29,4 @@ Avijjā is the root cause of saṃsāra and suffering. It is not a mere lack of 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.

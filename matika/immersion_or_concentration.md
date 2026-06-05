@@ -29,5 +29,5 @@ Samādhi is the collectedness, stillness, and one-pointedness of mind. It unifie
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [DN 2: Sāmaññaphalasutta](../mula/sutta/digha_nikaya/dn2.md)
-*   [AN 5.28: Pañcaṅgikasutta](../mula/sutta/anguttara_nikaya/an5_28.md)
+*   [[../mula/sutta/digha_nikaya/dn2|DN 2: Sāmaññaphalasutta]]
+*   [[../mula/sutta/anguttara_nikaya/an5_28|AN 5.28: Pañcaṅgikasutta]]

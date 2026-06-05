@@ -29,5 +29,5 @@ Muditā is appreciative or sympathetic joy. It is the capacity to rejoice in the
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [DN 13: Tevijjasutta](../mula/sutta/digha_nikaya/dn13.md)
-*   [matika/four_sublime_states](four_sublime_states.md)
+*   [[../mula/sutta/digha_nikaya/dn13|DN 13: Tevijjasutta]]
+*   [[four_sublime_states|Four Brahmavihārās]]

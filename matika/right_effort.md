@@ -50,4 +50,4 @@ The following suttas and lists in the vault mention, describe, or analyze Right 
 *   [[../mula/sutta/majjhima_nikaya/mn20|MN 20: Vitakkasaṇṭhānasutta]] — A practical manual offering five sequential mental techniques (such as replacing thoughts, examining consequences, ignoring, or crushing) to implement the second exertion (abandoning arisen unwholesome thoughts).
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Details how Right Effort works in tandem with Right View and Right Mindfulness to support speech, action, and livelihood.
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Defines Right Effort under the Truths section of the Dhammānupassanā.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

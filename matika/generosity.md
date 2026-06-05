@@ -29,5 +29,5 @@ Dāna is the practice of giving, generosity, and sharing. It counters the root o
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [AN 10.60: Girimānandasutta](../mula/sutta/majjhima_nikaya/an10_60.md)
-*   [matika/ten_perfections](ten_perfections.md)
+*   [[../mula/sutta/anguttara_nikaya/an10_60|AN 10.60: Girimānandasutta]]
+*   [[ten_perfections|Ten Perfections]]

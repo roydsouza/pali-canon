@@ -29,5 +29,5 @@ Mettā is loving-kindness, benevolence, and universal goodwill. It is the wish f
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [AN 11.15: Karaṇīyamettāsutta](../mula/sutta/anguttara_nikaya/an11_15.md)
-*   [DN 13: Tevijjasutta](../mula/sutta/digha_nikaya/dn13.md)
+*   [[../mula/sutta/anguttara_nikaya/an11_15|AN 11.15: Karaṇīyamettāsutta]]
+*   [[../mula/sutta/digha_nikaya/dn13|DN 13: Tevijjasutta]]

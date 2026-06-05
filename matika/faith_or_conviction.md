@@ -29,5 +29,5 @@ Saddhā is the confidence, trust, or conviction that arises from understanding t
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 55: Sotāpattisaṃyutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [matika/five_spiritual_faculties](five_spiritual_faculties.md)
+*   [[../mula/sutta/samyutta_nikaya/sn55|SN 55: Sotāpattisaṃyutta]] — the Sotāpatti-saṃyutta on stream-entry and the four factors of stream-entry.
+*   [[five_spiritual_faculties|Five Spiritual Faculties]]

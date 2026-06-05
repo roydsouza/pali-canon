@@ -29,5 +29,5 @@ Sakkāyadiṭṭhi is the fundamental delusion that identifies one's selfhood wi
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 22.59: Anattalakkhaṇasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [MN 44: Cūḷavedallasutta](../mula/sutta/majjhima_nikaya/mn44.md)
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the Khandha-saṃyutta's systematic refutation of self in the five aggregates.
+*   [[../mula/sutta/majjhima_nikaya/mn44|MN 44: Cūḷavedallasutta]]

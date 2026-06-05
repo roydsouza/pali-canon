@@ -35,5 +35,5 @@ In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapte
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [DN 9: Poṭṭhapādasutta](../mula/sutta/digha_nikaya/dn9.md)
-*   [SN 22.95: Phenapiṇḍūpamasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
+*   [[../mula/sutta/digha_nikaya/dn9|DN 9: Poṭṭhapādasutta]]
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the foam/bubble/mirage similes illustrating the insubstantial nature of the five aggregates.

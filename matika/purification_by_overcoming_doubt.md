@@ -29,5 +29,5 @@ The fourth purification. It is the understanding of the causal relationships of 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.
+*   [[seven_purifications|Seven Purifications]]

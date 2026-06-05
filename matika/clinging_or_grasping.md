@@ -29,5 +29,5 @@ Upādāna is the intensification of craving. It is the active holding on, graspi
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [MN 44: Cūḷavedallasutta](../mula/sutta/majjhima_nikaya/mn44.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.
+*   [[../mula/sutta/majjhima_nikaya/mn44|MN 44: Cūḷavedallasutta]]

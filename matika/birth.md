@@ -29,5 +29,5 @@ Jāti is the entry of consciousness into a new physical existence. It is defined
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [DN 15: Mahānidānasutta](../mula/sutta/digha_nikaya/dn15.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.
+*   [[../mula/sutta/digha_nikaya/dn15|DN 15: Mahānidānasutta]]

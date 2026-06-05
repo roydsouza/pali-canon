@@ -29,4 +29,4 @@ The eighth precept. It requires refraining from sleeping on elevated, luxurious,
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/eight_precepts](eight_precepts.md)
+*   [[eight_precepts|Eight Precepts]]

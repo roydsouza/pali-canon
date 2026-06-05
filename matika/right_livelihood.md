@@ -41,5 +41,5 @@ The following suttas in the vault mention, describe, or analyze Right Livelihood
 
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Contrasts mundane Right Livelihood (earning a living honestly) with supramundane Right Livelihood, and details monastic wrong livelihood (deceit, flattery, hinting, etc.) that must be abandoned.
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Defines Right Livelihood under the Truths section of the Dhammānupassanā.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
 *   [[../mula/vinaya/patimokkha_bhikkhu|Bhikkhu Pātimokkha]] — The monastic code detailing the ethical parameters of monastic livelihood, including rules on receiving food, robes, and lodging.

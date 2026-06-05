@@ -29,5 +29,5 @@ The fourth right exertion. It involves protecting, increasing, and bringing to f
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/four_right_exertions](four_right_exertions.md)
-*   [matika/right_effort](right_effort.md)
+*   [[four_right_exertions|Four Right Exertions]]
+*   [[right_effort|Right Effort]]

@@ -29,5 +29,5 @@ The seventh and final purification. It is the direct, supramundane knowledge of 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 56.11: Dhammacakkappavattanasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[../mula/sutta/samyutta_nikaya/sn56|SN 56: Saccasaṃyutta]] — the Sacca-saṃyutta containing the First Wheel of the Dhamma discourse.
+*   [[seven_purifications|Seven Purifications]]

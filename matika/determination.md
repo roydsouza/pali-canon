@@ -29,4 +29,4 @@ Adhiṭṭhāna is determination, resolution, and firm purpose. It is the power 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/ten_perfections](ten_perfections.md)
+*   [[ten_perfections|Ten Perfections]]

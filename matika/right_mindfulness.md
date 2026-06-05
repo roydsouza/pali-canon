@@ -49,4 +49,4 @@ The following suttas and lists in the vault mention, describe, or analyze Right 
 *   [[../mula/sutta/majjhima_nikaya/mn10|MN 10: Satipaṭṭhānasutta]] / [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — The primary canonical texts detailing the instructions and contemplation exercises for all four foundations.
 *   [[../mula/sutta/majjhima_nikaya/mn118|MN 118: Ānāpānasatisutta]] — Demonstrates how practicing mindfulness of breathing (*ānāpānasati*) systematically develops and fulfills all four foundations of mindfulness.
 *   [[../mula/sutta/majjhima_nikaya/mn119|MN 119: Kāyagatāsatisutta]] — Focuses specifically on the cultivation of mindfulness directed to the body and its ten major benefits.
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

@@ -29,4 +29,4 @@ The fifth purification. It is the discernment that distinguishes between the tru
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[seven_purifications|Seven Purifications]]

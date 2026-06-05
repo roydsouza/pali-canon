@@ -36,8 +36,8 @@ Right View is not merely intellectual assent to a set of doctrines; it is a way 
 
 The following suttas in the vault mention, describe, or analyze Right View:
 
-*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md) — A comprehensive discourse by Ven. Sāriputta detailing sixteen distinct aspects through which Right View is established, including the wholesome and unwholesome, nutriments, the four truths, and dependent origination.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45: Maggasaṃyutta]] — the entire connected collection elaborating each path factor including Right View.
 *   [[../mula/sutta/majjhima_nikaya/mn43|MN 43: Mahāvedallasutta]] — Discusses the conditions for the arising of Right View (hearing the Dhamma and wise attention) and the five factors that support its maturation into liberation of mind and liberation by wisdom.
 *   [[../mula/sutta/majjhima_nikaya/mn117|MN 117: Mahācattārīsakasutta]] — Distinguishes between mundane and supramundane Right View and details how it leads, coordinates, and purifies the other seven path factors.
 *   [[../mula/sutta/digha_nikaya/dn22|DN 22: Mahāsatipaṭṭhānasutta]] — Explains Right View in detail under the Truths section of the Dhammānupassanā (contemplation of phenomena).
-*   [[../mula/sutta/samyutta_nikaya/INDEX|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.
+*   [[../mula/sutta/samyutta_nikaya/sn45|SN 45.8: Vibhaṅgasutta]] — The primary path analysis defining each of the eight path factors.

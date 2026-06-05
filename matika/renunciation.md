@@ -29,5 +29,5 @@ Nekkhamma is the perfection of renunciation and letting go. It is the act of ste
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 19: Dvedhāvitakkasutta](../mula/sutta/majjhima_nikaya/mn19.md)
-*   [matika/right_intention](right_intention.md)
+*   [[../mula/sutta/majjhima_nikaya/mn19|MN 19: Dvedhāvitakkasutta]]
+*   [[right_intention|Right Intention]]

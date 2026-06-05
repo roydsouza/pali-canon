@@ -29,5 +29,5 @@ The second purification. It is the development of concentration and silencing of
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [DN 2: Sāmaññaphalasutta](../mula/sutta/digha_nikaya/dn2.md)
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[../mula/sutta/digha_nikaya/dn2|DN 2: Sāmaññaphalasutta]]
+*   [[seven_purifications|Seven Purifications]]

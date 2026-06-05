@@ -29,5 +29,5 @@ Taṇhā is the thirst, desire, or feverish demand for experience. It arises con
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [SN 56.11: Dhammacakkappavattanasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
+*   [[../mula/sutta/samyutta_nikaya/sn12|SN 12: Nidānasaṃyutta]] — the Nidāna-saṃyutta's analysis of each dependent-origination link.
+*   [[../mula/sutta/samyutta_nikaya/sn56|SN 56: Saccasaṃyutta]] — the Sacca-saṃyutta containing the First Wheel of the Dhamma discourse.

@@ -29,5 +29,5 @@ Sīla is ethical conduct, virtue, and moral discipline. It involves guarding one
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [matika/five_precepts](five_precepts.md)
-*   [matika/eight_precepts](eight_precepts.md)
+*   [[five_precepts|Five Precepts]]
+*   [[eight_precepts|Eight Precepts]]

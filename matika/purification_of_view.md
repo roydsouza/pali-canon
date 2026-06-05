@@ -29,5 +29,5 @@ The third purification. It is the direct seeing of name-and-form (*nāmarūpa*) 
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [SN 22.59: Anattalakkhaṇasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
-*   [matika/seven_purifications](seven_purifications.md)
+*   [[../mula/sutta/samyutta_nikaya/sn22|SN 22: Khandhasaṃyutta]] — the Khandha-saṃyutta's systematic refutation of self in the five aggregates.
+*   [[seven_purifications|Seven Purifications]]

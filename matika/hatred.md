@@ -29,5 +29,5 @@ Dosa is hatred, anger, and aversion. It is the mental state of pushing away, rej
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
 
-*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)
-*   [matika/three_unwholesome_roots](three_unwholesome_roots.md)
+*   [[../mula/sutta/majjhima_nikaya/mn20|MN 20: Vitakkasaṇṭhānasutta]] — five techniques for removing aversion and ill-will from the mind.
+*   [[three_unwholesome_roots|Three Unwholesome Roots]]
