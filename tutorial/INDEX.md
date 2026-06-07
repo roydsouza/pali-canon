@@ -71,7 +71,7 @@ Every mūla sutta uses **interleaved Pali/English** formatting:
 **Evaṁ me sutaṁ—**
 *So I have heard.*
 
-**Ekaṁ samayaṁ bhagavā**
+**Ekaṁ samççayaṁ bhagavā**
 *At one time the Buddha*
 
 Bold lines are Pali (Mahāsaṅgīti edition). Italic lines are Bhikkhu Sujato's translation (CC0). You can hide the English at any time with **Cmd+R** to read the Pali alone — useful for recitation and for testing your comprehension.
