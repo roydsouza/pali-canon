@@ -7,7 +7,7 @@ category: factor_note
 
 # Wisdom / Discernment (Paññā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]] / [[ten_perfections|Ten Perfections]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]] / [[ten_perfections|Ten Perfections]]
 
 ---
 

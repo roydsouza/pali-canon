@@ -368,7 +368,7 @@ for sc_id in individual_targets:
         "",
         f"# {nikaya_label}: {display} — {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / {mula_nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / {mula_nav_link}",
         f"**Related Texts**: [[{slug}_att|Commentary (Atthakathā)]] | [[{slug}_tik|Sub-commentary (Tīkā)]]",
         "",
         "---",
@@ -408,7 +408,7 @@ for sc_id in individual_targets:
         f"# Commentary on {nikaya_label}: {pali_title}",
         f"*{display} — {en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / {att_nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {att_nav_link}",
         f"**Mūla**: [[{slug}|{display} — {pali_title}]]",
         f"**Tīkā**: [[{slug}_tik|{pali_title}vaṇṇanāṭīkā (Sub-commentary)]]",
         "",
@@ -448,7 +448,7 @@ for sc_id in individual_targets:
         f"# Sub-commentary on {nikaya_label}: {pali_title}",
         f"*{display} — {en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / {tika_nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / {tika_nav_link}",
         f"**Mūla**: [[{slug}|{display} — {pali_title}]]",
         f"**Atthakathā**: [[{slug}_att|{pali_title}vaṇṇanā (Commentary)]]",
         "",
@@ -465,9 +465,9 @@ for sc_id in individual_targets:
     tika_wc = len(tika_full_content.split())
     
     # 8. Update INDEX files
-    mula_idx = os.path.join(VAULT, "mula/sutta", nikaya_dir, "INDEX.md")
-    att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, "INDEX.md")
-    tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "INDEX.md")
+    mula_idx = os.path.join(VAULT, "mula/sutta", nikaya_dir, {"digha_nikaya": "Mula-Digha-Index.md", "majjhima_nikaya": "Mula-Majjhima-Index.md", "samyutta_nikaya": "Mula-Samyutta-Index.md", "anguttara_nikaya": "Mula-Anguttara-Index.md", "khuddaka_nikaya": "Mula-Khuddaka-Index.md"}[nikaya_dir])
+    att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, {"digha_nikaya": "Atthakatha-Digha-Index.md", "majjhima_nikaya": "Atthakatha-Majjhima-Index.md", "samyutta_nikaya": "Atthakatha-Samyutta-Index.md", "anguttara_nikaya": "Atthakatha-Anguttara-Index.md", "khuddaka_nikaya": "Atthakatha-Khuddaka-Index.md"}[nikaya_dir])
+    tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, {"digha_nikaya": "Tika-Digha-Index.md", "majjhima_nikaya": "Tika-Majjhima-Index.md", "samyutta_nikaya": "Tika-Samyutta-Index.md", "anguttara_nikaya": "Tika-Anguttara-Index.md", "khuddaka_nikaya": "Tika-Khuddaka-Index.md"}[nikaya_dir])
     
     append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
     
@@ -601,7 +601,7 @@ mula_header = "\n".join([
     f"# {nikaya_label}: {display} — {pali_title}",
     f"*{en_title}*",
     "",
-    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / {mula_nav_link}",
+    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / {mula_nav_link}",
     f"**Related Texts**: [[{slug}_att|Commentary (Atthakathā)]] | [[{slug}_tik|Sub-commentary (Tīkā)]]",
     "",
     "---",
@@ -636,7 +636,7 @@ att_header = "\n".join([
     f"# Commentary on {nikaya_label}: {pali_title}",
     f"*{display} — {en_title}*",
     "",
-    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / {att_nav_link}",
+    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {att_nav_link}",
     f"**Mūla**: [[{slug}|{display} — {pali_title}]]",
     f"**Tīkā**: [[{slug}_tik|{pali_title}vaṇṇanāṭīkā (Sub-commentary)]]",
     "",
@@ -690,7 +690,7 @@ tika_header = "\n".join([
     f"# Sub-commentary on {nikaya_label}: {pali_title}",
     f"*{display} — {en_title}*",
     "",
-    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / {tika_nav_link}",
+    f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / {tika_nav_link}",
     f"**Mūla**: [[{slug}|{display} — {pali_title}]]",
     f"**Atthakathā**: [[{slug}_att|{pali_title}vaṇṇanā (Commentary)]]",
     "",
@@ -711,9 +711,9 @@ with open(tika_path, "w", encoding="utf-8") as f:
 tika_wc = len(tika_full_content.split())
 
 # 4. Update INDEX files
-mula_idx = os.path.join(VAULT, "mula/sutta", nikaya_dir, "INDEX.md")
-att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, "INDEX.md")
-tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "INDEX.md")
+mula_idx = os.path.join(VAULT, "mula/sutta", nikaya_dir, {"digha_nikaya": "Mula-Digha-Index.md", "majjhima_nikaya": "Mula-Majjhima-Index.md", "samyutta_nikaya": "Mula-Samyutta-Index.md", "anguttara_nikaya": "Mula-Anguttara-Index.md", "khuddaka_nikaya": "Mula-Khuddaka-Index.md"}[nikaya_dir])
+att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, {"digha_nikaya": "Atthakatha-Digha-Index.md", "majjhima_nikaya": "Atthakatha-Majjhima-Index.md", "samyutta_nikaya": "Atthakatha-Samyutta-Index.md", "anguttara_nikaya": "Atthakatha-Anguttara-Index.md", "khuddaka_nikaya": "Atthakatha-Khuddaka-Index.md"}[nikaya_dir])
+tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, {"digha_nikaya": "Tika-Digha-Index.md", "majjhima_nikaya": "Tika-Majjhima-Index.md", "samyutta_nikaya": "Tika-Samyutta-Index.md", "anguttara_nikaya": "Tika-Anguttara-Index.md", "khuddaka_nikaya": "Tika-Khuddaka-Index.md"}[nikaya_dir])
 
 append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
 

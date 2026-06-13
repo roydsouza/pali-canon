@@ -1,6 +1,6 @@
 # Simile Index (Upamā-saṅgaha)
 
-**Navigation**: [[INDEX|Pali Canon Vault]]
+**Navigation**: [[Texts-Index|Pali Canon Vault]]
 
 This index compiles the most memorable similes (*upamā*) from the Pali Canon. The Buddha was famous for teaching through vivid comparison — these images are designed to be dwelled on, not just read.
 

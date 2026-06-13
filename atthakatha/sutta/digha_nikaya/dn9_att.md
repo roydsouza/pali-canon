@@ -17,7 +17,7 @@ source_notes: "https://suttacentral.net"
 
 # Commentary on Dīgha Nikāya: Poṭṭhapādasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn9|Poṭṭhapādasutta — With Poṭṭhapāda]]
 **Tīkā**: [[dn9_tik|Poṭṭhapādasuttavaṇṇanātīkā (sub-commentary)]]
 

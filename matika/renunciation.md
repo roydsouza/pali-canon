@@ -7,7 +7,7 @@ category: factor_note
 
 # Renunciation (Nekkhamma)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[ten_perfections|Ten Perfections]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---
 

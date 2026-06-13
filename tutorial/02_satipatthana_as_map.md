@@ -11,7 +11,7 @@ tags:
 
 # Tutorial 2: Satipaṭṭhāna as a Complete Practice Map
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/01_breath_practice|Tutorial 1]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/01_breath_practice|Tutorial 1]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**

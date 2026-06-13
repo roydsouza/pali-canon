@@ -11,7 +11,7 @@ tags:
 
 # Brahmavihāra Cultivation: Sublime States Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > The four sublime states (*brahmavihāras*)—loving-kindness (*mettā*), compassion (*karuṇā*), altruistic joy (*muditā*), and equanimity (*upekkhā*)—serve as both powerful concentration exercises and a primary method for cultivating a boundless heart.

@@ -16,7 +16,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Sub-commentary on Aṅguttara Nikāya: Samādhibhāvanāsutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an4_41|Samādhibhāvanāsutta — Four Developments of Immersion]]
 **Atthakathā**: [[an4_41_att|Samādhibhāvanāsuttavaṇṇanā (atthakathā)]]
 

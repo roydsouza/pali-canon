@@ -12,7 +12,7 @@ tags:
 
 # Tutorial 3: The Three Layers
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/02_satipatthana_as_map|Tutorial 2]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/02_satipatthana_as_map|Tutorial 2]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**
@@ -88,7 +88,7 @@ If you are developing your Pali, the commentaries are excellent reading material
 
 ## Going deeper
 
-- **The full commentary index**: [[atthakatha/INDEX|Aṭṭhakathā Index]] — all migrated commentary files
-- **The sub-commentary index**: [[tika/INDEX|Ṭīkā Index]]
+- **The full commentary index**: [[atthakatha/Atthakatha-Index|Aṭṭhakathā Index]] — all migrated commentary files
+- **The sub-commentary index**: [[tika/Tika-Index|Ṭīkā Index]]
 - **For MN 10 specifically**: [[mn10_att|Commentary]] has 362 paragraphs — one of the most detailed canonical treatments of any meditation sutta
 - **Next tutorial**: [[tutorial/04_matika_web|Tutorial 4]] — following a doctrinal theme through the canon using the mātikā web

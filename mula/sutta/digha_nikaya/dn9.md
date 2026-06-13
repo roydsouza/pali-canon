@@ -19,7 +19,7 @@ parallels:
 ---
 # Dīgha Nikāya 9: Poṭṭhapādasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
 **Related Texts**: [[dn9_att|Commentary (Atthakathā)]] | [[dn9_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[matika/five_aggregates|Five Aggregates (Pañcupādānakkhandhā)]]
 

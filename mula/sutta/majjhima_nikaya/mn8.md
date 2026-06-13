@@ -21,7 +21,7 @@ parallels:
 ---
 # Majjhima Nikāya: MN 8 — Sallekhasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
 **Related Texts**: [[mn8_att|Commentary (Atthakathā)]] | [[mn8_tik|Sub-commentary (Tīkā)]]
 
 ---

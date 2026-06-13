@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Sub-commentary on Aṅguttara Nikāya: Paṭhamamaraṇassatisutta
 *AN 6.19 — Mindfulness of Death (1st)*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an6_19|AN 6.19 — Paṭhamamaraṇassatisutta]]
 **Atthakathā**: [[an6_19_att|Paṭhamamaraṇassatisuttavaṇṇanā (Commentary)]]
 

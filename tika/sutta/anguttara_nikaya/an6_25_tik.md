@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Sub-commentary on Aṅguttara Nikāya: Anussatiṭṭhānasutta
 *AN 6.25 — Topics for Recollection*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an6_25|AN 6.25 — Anussatiṭṭhānasutta]]
 **Atthakathā**: [[an6_25_att|Anussatiṭṭhānasuttavaṇṇanā (Commentary)]]
 

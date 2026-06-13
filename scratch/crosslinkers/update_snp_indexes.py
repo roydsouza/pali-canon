@@ -71,7 +71,7 @@ def main():
         "",
         "# Sutta Nipāta — Mūla",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]",
         "",
         "The Sutta Nipāta (\"Anthology of Discourses\") is a collection of early, highly poetic Buddhist discourses.",
         ""
@@ -86,7 +86,7 @@ def main():
             mula_lines.append(f"| [[{s['sc_id']}|{sc_upper}]] | {s['title_pali']} | *{s['title_en']}* |")
         mula_lines.append("")
         
-    mula_dest = os.path.join(mula_dir, "INDEX.md")
+    mula_dest = os.path.join(mula_dir, "Mula-Sutta-Nipata-Index.md")
     with open(mula_dest, "w", encoding="utf-8") as f:
         f.write("\n".join(mula_lines) + "\n")
     print(f"Saved Mūla index to {mula_dest}")
@@ -103,7 +103,7 @@ def main():
         "",
         "# Sutta Nipāta — Atthakathā",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]",
         "",
         "## Commentaries (Paramatthajotikā II)",
         ""
@@ -125,7 +125,7 @@ def main():
             att_lines.append(f"| [[{sc_id}_att|{comm_title}]] | [[{sc_id}]] | CSCD |")
         att_lines.append("")
         
-    att_dest = os.path.join(att_dir, "INDEX.md")
+    att_dest = os.path.join(att_dir, "Mula-Sutta-Nipata-Index.md")
     with open(att_dest, "w", encoding="utf-8") as f:
         f.write("\n".join(att_lines) + "\n")
     print(f"Saved Atthakathā index to {att_dest}")

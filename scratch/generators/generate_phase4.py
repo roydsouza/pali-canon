@@ -125,7 +125,7 @@ def make_mn19_mula(data):
         "",
         "# Majjhima Nikāya 19: Dvedhāvitakkasutta",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]",
         "**Related Texts**: [[mn19_att|Commentary (Atthakathā)]] | [[mn19_tik|Sub-commentary (Ṭīkā)]]",
         "",
         "## Dvedhāvitakkasutta",
@@ -196,7 +196,7 @@ def make_an10_60_mula(data):
         "",
         "# Aṅguttara Nikāya 10.60: Girimānandasutta",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/anguttara_nikaya/Mula-Anguttara-Index|Aṅguttara Nikāya]]",
         "**Related Texts**: [[an10_60_att|Commentary (Atthakathā)]] | (No Ṭīkā available)",
         "",
         "## Girimānandasutta",
@@ -256,7 +256,7 @@ def make_mn19_att(paras, notes_body):
         "",
         "# Commentary on Majjhima Nikāya 19: Dvedhāvitakkasutta",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]",
         "**Mūla**: [[mn19|Dvedhāvitakkasutta — Two Kinds of Thought]]",
         "**Tīkā**: [[mn19_tik|Dvedhāvitakkasuttavaṇṇanātīkā (Sub-commentary)]]",
         "",
@@ -318,7 +318,7 @@ def make_mn19_tik(paras):
         "",
         "# Sub-commentary on Majjhima Nikāya 19: Dvedhāvitakkasutta",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]",
         "**Mūla**: [[mn19|Dvedhāvitakkasutta — Two Kinds of Thought]]",
         "**Atthakathā**: [[mn19_att|Dvedhāvitakkasuttavaṇṇanā (Atthakathā)]]",
         "",
@@ -369,7 +369,7 @@ def make_an10_60_att(paras, notes_body):
         "",
         "# Commentary on Aṅguttara Nikāya 10.60: Girimānandasutta",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]",
         "**Mūla**: [[an10_60|Girimānandasutta — With Girimānanda]]",
         "**Tīkā**: (No Ṭīkā available)",
         "",
@@ -408,7 +408,7 @@ def make_an10_60_att(paras, notes_body):
 # ── Rebuilding indexes ────────────────────────────────────────────────────────
 def clean_and_rebuild_indexes():
     # 1. Majjhima Mūla INDEX
-    mn_mula_idx = os.path.join(VAULT, "mula/sutta/majjhima_nikaya/INDEX.md")
+    mn_mula_idx = os.path.join(VAULT, "mula/sutta/majjhima_nikaya/Mula-Majjhima-Index.md")
     if os.path.exists(mn_mula_idx):
         with open(mn_mula_idx, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -467,7 +467,7 @@ def clean_and_rebuild_indexes():
         content = "\n".join([
             "# Majjhima Nikāya Index",
             "",
-            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]",
             "",
             "This directory contains the Middle Length Discourses (Majjhima Nikāya) from the Sutta Piṭaka.",
             "",
@@ -476,7 +476,7 @@ def clean_and_rebuild_indexes():
             "\n".join(table_lines),
             "",
             "---",
-            "*Back to [[mula/sutta/INDEX|Sutta Index]]*",
+            "*Back to [[mula/sutta/Mula-Sutta-Index|Sutta Index]]*",
             ""
         ])
         with open(mn_mula_idx, "w", encoding="utf-8") as f:
@@ -484,7 +484,7 @@ def clean_and_rebuild_indexes():
         print("Rebuilt Majjhima Mūla index.")
 
     # 2. Majjhima Atthakathā INDEX
-    mn_att_idx = os.path.join(VAULT, "atthakatha/sutta/majjhima_nikaya/INDEX.md")
+    mn_att_idx = os.path.join(VAULT, "atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index.md")
     if os.path.exists(mn_att_idx):
         with open(mn_att_idx, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -531,7 +531,7 @@ def clean_and_rebuild_indexes():
         content = "\n".join([
             "# Majjhima Nikāya Commentary (Papañcasūdanī) Index",
             "",
-            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]",
             "",
             "This directory contains commentaries on the Middle Length Discourses (Majjhima Nikāya), representing sections of the Papañcasūdanī.",
             "",
@@ -540,7 +540,7 @@ def clean_and_rebuild_indexes():
             "\n".join(table_lines),
             "",
             "---",
-            "*Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*",
+            "*Back to [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta Commentaries Index]]*",
             ""
         ])
         with open(mn_att_idx, "w", encoding="utf-8") as f:
@@ -548,7 +548,7 @@ def clean_and_rebuild_indexes():
         print("Rebuilt Majjhima Atthakathā index.")
 
     # 3. Majjhima Ṭīkā INDEX
-    mn_tik_idx = os.path.join(VAULT, "tika/sutta/majjhima_nikaya/INDEX.md")
+    mn_tik_idx = os.path.join(VAULT, "tika/sutta/majjhima_nikaya/Tika-Majjhima-Index.md")
     if os.path.exists(mn_tik_idx):
         with open(mn_tik_idx, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -597,7 +597,7 @@ def clean_and_rebuild_indexes():
             "",
             "# Majjhima Nikāya — Ṭīkā",
             "",
-            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]",
+            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]",
             "",
             "This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Middle Length Discourses.",
             "",
@@ -606,7 +606,7 @@ def clean_and_rebuild_indexes():
             "\n".join(table_lines),
             "",
             "---",
-            "*Back to [[tika/sutta/INDEX|Sutta Sub-commentaries Index]]*",
+            "*Back to [[tika/sutta/Tika-Sutta-Index|Sutta Sub-commentaries Index]]*",
             ""
         ])
         with open(mn_tik_idx, "w", encoding="utf-8") as f:
@@ -614,7 +614,7 @@ def clean_and_rebuild_indexes():
         print("Rebuilt Majjhima Ṭīkā index.")
 
     # 4. Aṅguttara Mūla INDEX
-    an_mula_idx = os.path.join(VAULT, "mula/sutta/anguttara_nikaya/INDEX.md")
+    an_mula_idx = os.path.join(VAULT, "mula/sutta/anguttara_nikaya/Mula-Anguttara-Index.md")
     if os.path.exists(an_mula_idx):
         with open(an_mula_idx, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -679,7 +679,7 @@ def clean_and_rebuild_indexes():
             "",
             "# Aṅguttara Nikāya — Mūla",
             "",
-            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]]",
+            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]",
             "",
             "The Aṅguttara Nikāya (\"Numbered Discourses\") organizes teachings by numerical lists, from ones to elevens.",
             "",
@@ -688,7 +688,7 @@ def clean_and_rebuild_indexes():
             "\n".join(table_lines),
             "",
             "---",
-            "*Back to [[mula/sutta/INDEX|Sutta Index]]*",
+            "*Back to [[mula/sutta/Mula-Sutta-Index|Sutta Index]]*",
             ""
         ])
         with open(an_mula_idx, "w", encoding="utf-8") as f:
@@ -696,7 +696,7 @@ def clean_and_rebuild_indexes():
         print("Rebuilt Aṅguttara Mūla index.")
 
     # 5. Aṅguttara Atthakathā INDEX
-    an_att_idx = os.path.join(VAULT, "atthakatha/sutta/anguttara_nikaya/INDEX.md")
+    an_att_idx = os.path.join(VAULT, "atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index.md")
     if os.path.exists(an_att_idx):
         with open(an_att_idx, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -752,14 +752,14 @@ def clean_and_rebuild_indexes():
             "",
             "# Aṅguttara Nikāya — Atthakathā",
             "",
-            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]",
+            "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]",
             "",
             "## Migrated Texts",
             "",
             "\n".join(table_lines),
             "",
             "---",
-            "*Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*",
+            "*Back to [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta Commentaries Index]]*",
             ""
         ])
         with open(an_att_idx, "w", encoding="utf-8") as f:

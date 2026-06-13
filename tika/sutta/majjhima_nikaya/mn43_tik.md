@@ -16,7 +16,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Sub-commentary on Majjhima Nikāya: Mahāvedallasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn43|Mahāvedallasutta — The Longer Analysis]]
 **Atthakathā**: [[mn43_att|Mahāvedallasuttavaṇṇanā (atthakathā)]]
 

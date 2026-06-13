@@ -11,6 +11,6 @@ commentary_file: /atthakatha/{{PITAKA}}/{{NIKAYA}}/{{ID_LOWER}}_att.md
 
 # Sub-commentary (Tīkā): {{TITLE_PALI}}
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Tīkā]] / [[tika/{{PITAKA}}/INDEX|{{PITAKA_DISPLAY}}]] / [[tika/{{PITAKA}}/{{NIKAYA}}/INDEX|{{NIKAYA_DISPLAY}}]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]] / [[tika/{{PITAKA}}/INDEX|{{PITAKA_DISPLAY}}]] / [[tika/{{PITAKA}}/{{NIKAYA}}/INDEX|{{NIKAYA_DISPLAY}}]]
 **Related Texts**: [[{{ID_LOWER}}|Mūla Sutta]] | [[{{ID_LOWER}}_att|Commentary (Atthakathā)]]
 

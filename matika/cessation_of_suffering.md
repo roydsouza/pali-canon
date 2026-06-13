@@ -7,7 +7,7 @@ category: factor_note
 
 # Cessation of Suffering (Nirodha)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_noble_truths|Four Noble Truths]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]]
 
 ---
 

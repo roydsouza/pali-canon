@@ -22,7 +22,7 @@ covers:
 # Sub-commentary on Aṅguttara Nikāya: Cetanākaraṇīya, etc.
 *AN 11.2–5*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an11_2]], [[an11_3]], [[an11_4]], [[an11_5]]
 **Atthakathā**: [[an11_2_att]], [[an11_3_5_att]]
 

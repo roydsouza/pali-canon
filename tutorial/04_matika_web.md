@@ -11,7 +11,7 @@ tags:
 
 # Tutorial 4: Following a Doctrine Through the Canon
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/03_reading_the_layers|Tutorial 3]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/03_reading_the_layers|Tutorial 3]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**
@@ -25,7 +25,7 @@ tags:
 
 The web is **bidirectional**: every mātikā note links forward to all suttas that treat that doctrine, and every sutta links back to all mātikā lists it touches. This creates a doctrinal navigation layer on top of the chronological/nikāya layer.
 
-Start at [[matika/INDEX|Mātikā Index]] to see all 22 lists.
+Start at [[matika/Matika-Index|Mātikā Index]] to see all 22 lists.
 
 ---
 

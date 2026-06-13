@@ -11,7 +11,7 @@ commentary_file: [[an7_65_att]]
 
 # 1-2. Hiriottappasuttādivaṇṇanā
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Tika]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tika]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an7_65]]
 **Atthakathā**: [[an7_65_att]]
 

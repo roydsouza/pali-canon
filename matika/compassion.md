@@ -7,7 +7,7 @@ category: factor_note
 
 # Compassion (Karuṇā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_sublime_states|Four Sublime States]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_sublime_states|Four Sublime States]]
 
 ---
 

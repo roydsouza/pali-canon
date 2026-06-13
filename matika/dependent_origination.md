@@ -7,7 +7,7 @@ category: list_note
 
 # Dependent Origination (Paṭiccasamuppāda)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 
@@ -15,7 +15,7 @@ category: list_note
    *Ignorance / Delusion*
 2. **[[volitional_formations|Saṅkhārā]]**  
    *Volitional formations / Mental fabrications*
-3. **[[consciousness|Viññāṇa]]**  
+3. **[[consciousness_vinnana|Viññāṇa]]**  
    *Consciousness / Awareness*
 4. **[[name_and_form|Nāmarūpa]]**  
    *Name-and-form / Mind-and-matter*

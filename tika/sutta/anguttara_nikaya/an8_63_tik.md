@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Sub-commentary on Aṅguttara Nikāya: Saṅkhittasutta
 *AN 8.63 — A Teaching in Brief*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an8_63|AN 8.63 — Saṅkhittasutta]]
 **Atthakathā**: [[an8_63_att|Saṅkhittasuttavaṇṇanā (Commentary)]]
 

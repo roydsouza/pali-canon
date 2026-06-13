@@ -2,7 +2,7 @@
 
 A personal Obsidian vault for deep study and sitting practice with the Theravāda Pali Canon — built around meditation, not academic coverage.
 
-> **If you have this vault open in Obsidian, your entry point is [INDEX.md](INDEX.md).**  
+> **If you have this vault open in Obsidian, your entry point is [Texts-Index.md](Texts-Index.md).**  
 > Start there. Everything below is a map of what you will find once you do.
 
 ---
@@ -71,7 +71,7 @@ Content is organized around seven practice domains. Each has a dedicated reading
 | Anussati         | [AN 6.10](mula/sutta/anguttara_nikaya/an6_10.md), [AN 11.12](mula/sutta/anguttara_nikaya/an11_12.md)                                              | [Anussati Practice](paths/anussati_practice.md)    |
 | Gradual Training | [MN 27](mula/sutta/majjhima_nikaya/mn27.md), [DN 2](mula/sutta/digha_nikaya/dn2.md), [AN 8.54](mula/sutta/anguttara_nikaya/an8_54.md)             | [Gradual Training](paths/gradual_training_path.md) |
 | Maraṇasati       | [AN 6.19](mula/sutta/anguttara_nikaya/an6_19.md), [AN 6.20](mula/sutta/anguttara_nikaya/an6_20.md)                                                | [Maraṇasati](paths/maranasati_path.md)             |
-| Paritta          | [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md), [Snp 2.1](mula/sutta/khuddaka_nikaya/sutta_nipata/snp2_1.md)                        | [Paritta Index](paritta/INDEX.md)                  |
+| Paritta          | [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md), [Snp 2.1](mula/sutta/khuddaka_nikaya/sutta_nipata/snp2_1.md)                        | [Paritta Index](paritta/Paritta-Index.md)                  |
 
 Three additional **question-driven paths** answer specific practice situations:
 [Working with the Hindrances](paths/working_with_hindrances.md) ·
@@ -110,7 +110,7 @@ The [`tutorial/`](tutorial/) folder contains six integrated practice tutorials �
 | [05 — Reading Pali](tutorial/05_pali_reading.md) | Toggle, DPD, vocabulary callouts, graded reader |
 | [06 — Building a Sustained Practice](tutorial/06_building_a_practice.md) | Reading paths and long-term practice structure |
 
-→ **[Open the tutorial index in Obsidian](tutorial/INDEX.md)**
+→ **[Open the tutorial index in Obsidian](tutorial/Tutorial-Index.md)**
 
 ---
 

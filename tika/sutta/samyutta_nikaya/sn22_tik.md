@@ -15,7 +15,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Sub-commentary on Saṃyutta Nikāya: Khandhasaṃyutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn22|Khandhasaṃyutta — Linked Discourses on the Aggregates]]
 **Atthakathā**: [[sn22_att|Khandhasaṃyuttavaṇṇanā (Atthakathā)]]
 

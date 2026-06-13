@@ -13,7 +13,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Commentary on Khuddaka Nikāya: Itivuttaka
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Navigation**: [[Atthakatha-Itivuttaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/Atthakatha-Itivuttaka-Index|Itivuttaka]]
 **Mūla**: [[iti20|ITI20: Paduṭṭhacittasutta]]
 **Tīkā**: (No Ṭīkā available)
 

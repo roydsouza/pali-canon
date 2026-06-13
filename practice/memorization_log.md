@@ -9,7 +9,7 @@ tags:
 
 # Verse Memorization Log
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Practice Dashboard]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Practice-Index|Practice Dashboard]]
 
 This log tracks key Pali verses selected for memorization and chanting practice. Active daily recitation aids internalization of the Dhamma.
 

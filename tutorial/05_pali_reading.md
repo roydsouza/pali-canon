@@ -12,7 +12,7 @@ tags:
 
 # Tutorial 5: Reading Pali in This Vault
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/04_matika_web|Tutorial 4]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/04_matika_web|Tutorial 4]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**

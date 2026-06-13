@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Commentary on Aṅguttara Nikāya: Mettāsutta
 *AN 11.15 — The Benefits of Love*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an11_15|AN 11.15 — Mettāsutta]]
 **Tīkā**: [[an11_15_tik|Mettāsuttavaṇṇanāṭīkā (Sub-commentary)]]
 

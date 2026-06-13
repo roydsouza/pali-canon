@@ -7,7 +7,7 @@ category: list_note
 
 # Noble Eightfold Path (Ariyo Aṭṭhaṅgiko Maggo)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 

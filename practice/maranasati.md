@@ -6,7 +6,7 @@ type: practice
 
 # Maraṇasati (Mindfulness of Death)
 
-**Navigation**: [[../INDEX|Pali Canon Vault Index]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---
 

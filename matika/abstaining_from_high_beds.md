@@ -7,7 +7,7 @@ category: factor_note
 
 # Abstaining from High Beds (Uccāsayanamahāsayanā veramaṇī)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[eight_precepts|Eight Precepts]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[eight_precepts|Eight Precepts]]
 
 ---
 

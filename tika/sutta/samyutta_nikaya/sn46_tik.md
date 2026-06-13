@@ -15,7 +15,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Sub-commentary on Saṃyutta Nikāya: Bojjhaṅgasaṃyutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn46|Bojjhaṅgasaṃyutta — Linked Discourses on the Awakening Factors]]
 **Atthakathā**: [[sn46_att|Bojjhaṅgasaṃyuttavaṇṇanā (Atthakathā)]]
 

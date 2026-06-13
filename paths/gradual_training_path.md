@@ -11,7 +11,7 @@ tags:
 
 # Gradual Training: Step-by-Step Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > The gradual training (*anupubbasikkhā*) describes the step-by-step development of a practitioner, from householder morality and generosity, through sensory restraint and contentment, to absorption and final insight.

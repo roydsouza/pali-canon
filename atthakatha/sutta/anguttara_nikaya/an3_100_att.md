@@ -15,7 +15,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Commentary on Aṅguttara Nikāya: Loṇakapallasutta
 *AN 3.100 — A Lump of Salt*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an3_100|Loṇakapallasutta — A Lump of Salt]]
 **Tīkā**: [[an3_100_tik|Loṇakapallasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

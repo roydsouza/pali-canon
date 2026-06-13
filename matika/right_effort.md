@@ -7,7 +7,7 @@ category: factor_note
 
 # Right Effort (Sammāvāyāmo)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
 
 ---
 

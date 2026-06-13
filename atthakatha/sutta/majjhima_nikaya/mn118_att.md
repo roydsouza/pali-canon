@@ -11,7 +11,7 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 
 # Ānāpānasati Suttavaṇṇanā (Atthakatha)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakatha]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Related Texts**: [[mn118|Mūla Sutta]] | [[mn118_tik|Sub-commentary (Tīkā)]]
 
 ### 8. Ānāpānassatisuttavaṇṇanā

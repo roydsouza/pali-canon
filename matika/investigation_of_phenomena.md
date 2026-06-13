@@ -7,7 +7,7 @@ category: factor_note
 
 # Investigation of Phenomena (Dhammavicaya)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]]
 
 ---
 

@@ -6,7 +6,7 @@ type: person
 
 # Mahākassapa Thera
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[people/INDEX|People]]
+**Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Mahākassapa** (born Pipphali Kassapa) was one of the most revered elders in the early Sangha, declared by the Buddha to be the foremost in ascetic practices (*dhutaṅga*).
 
@@ -28,5 +28,5 @@ type: person
 
 ## Key Discourses (Suttas)
 
-*   **[[mula/sutta/samyutta_nikaya/INDEX|SN 16: Kassapasaṃyutta]]** — The Connected Discourses on Kassapa, detailing his conversations with the Buddha regarding the decline of the Dhamma and the value of ascetic practices.
-*   **[[mula/sutta/khuddaka_nikaya/theragatha/INDEX|THAG 18.1]]** — Verses of Mahākassapa in the Theragāthā, describing the joy of dwelling in the forest.
+*   **[[mula/sutta/samyutta_nikaya/Mula-Samyutta-Index|SN 16: Kassapasaṃyutta]]** — The Connected Discourses on Kassapa, detailing his conversations with the Buddha regarding the decline of the Dhamma and the value of ascetic practices.
+*   **[[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|THAG 18.1]]** — Verses of Mahākassapa in the Theragāthā, describing the joy of dwelling in the forest.

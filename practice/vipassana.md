@@ -6,7 +6,7 @@ type: practice
 
 # Vipassanā (Insight Meditation)
 
-**Navigation**: [[../INDEX|Pali Canon Vault Index]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---
 

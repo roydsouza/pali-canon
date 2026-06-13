@@ -11,7 +11,7 @@ tags:
 
 # Tutorial 6: Building a Sustained Practice
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/05_pali_reading|Tutorial 5]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/05_pali_reading|Tutorial 5]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**
@@ -39,7 +39,7 @@ The reading paths are designed to prevent this. Each path is a sequence of texts
 | [[paths/anussati_practice\|Anussati Practice]] | Six recollections | AN 6.10, AN 11.12, AN 6.25 |
 | [[paths/gradual_training_path\|Gradual Training]] | Step-by-step progression | MN 27, MN 51, AN 8.54, DN 2 |
 | [[paths/maranasati_path\|Maraṇasati]] | Death contemplation | AN 6.19, AN 6.20, AN 8.73 |
-| [[paritta/INDEX\|Paritta (Protective Chanting)]] | Recitation practice | Snp 1.8, Snp 2.1, Snp 2.4 |
+| [[paritta/Paritta-Index\|Paritta (Protective Chanting)]] | Recitation practice | Snp 1.8, Snp 2.1, Snp 2.4 |
 
 **Question-driven paths** — anchored to specific practice situations:
 
@@ -85,13 +85,13 @@ Two `practice/` files support your ongoing work:
 
 **[[practice/memorization_log|Memorization Log]]** — Track which verses and passages you are committing to memory. The format has fields for sutta reference, Pali text, English, date added, and review status. Verses worth memorizing early: the opening of Snp 1.8 (Metta Sutta), the refrain from MN 10/DN 22, and the sixteen-step formula from MN 118.
 
-**[[practice/INDEX|Practice Dashboard]]** — An overview of the practice support materials: session notes template, memorization tracker, and links to protective chanting texts.
+**[[practice/Practice-Index|Practice Dashboard]]** — An overview of the practice support materials: session notes template, memorization tracker, and links to protective chanting texts.
 
 ---
 
 ## Using the paritta texts
 
-The [[paritta/INDEX|Paritta Index]] collects the canonical protective chanting texts in recitation order. For daily practice, the standard sequence is:
+The [[paritta/Paritta-Index|Paritta Index]] collects the canonical protective chanting texts in recitation order. For daily practice, the standard sequence is:
 
 1. [[snp1_8|Snp 1.8 — Karaṇīya Mettasutta]] (Metta Sutta) — the most recited paritta in the Theravāda tradition
 2. [[snp2_1|Snp 2.1 — Ratanasutta]] (Jewel Discourse)
@@ -108,4 +108,4 @@ The Dhamma Practice Workstation is a tool. Tools are useful in proportion to how
 
 Use these texts to inform your practice. Use your practice to deepen your reading of these texts. Let the two reinforce each other, and neither will plateau.
 
-*— [[tutorial/INDEX|Back to tutorials]] · [[INDEX|Vault Home]]*
+*— [[tutorial/Tutorial-Index|Back to tutorials]] · [[Tutorial-Index|Vault Home]]*

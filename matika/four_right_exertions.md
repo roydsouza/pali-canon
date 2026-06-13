@@ -7,7 +7,7 @@ category: list_note
 
 # Four Right Exertions (Cattāro Sammappadhānā)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 These four aspects constitute the factor of Right Effort (*Sammā Vāyāma*) in the Noble Eightfold Path.
 

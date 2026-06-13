@@ -97,8 +97,8 @@ def build_att_file(s, pali_body, para_count):
         "",
         f"# Commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / "
-        f"[[atthakatha/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / "
+        f"[[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Tīkā**: {tik_link}",
         "",
@@ -121,7 +121,7 @@ def ensure_samyutta_index(nikaya_dir):
     for layer in ("mula", "atthakatha", "tika"):
         path = os.path.join(VAULT, layer, "sutta", nikaya_dir)
         os.makedirs(path, exist_ok=True)
-        idx = os.path.join(path, "INDEX.md")
+        idx = os.path.join(path, {"mula": "Mula-Samyutta-Index.md", "atthakatha": "Atthakatha-Samyutta-Index.md", "tika": "Tika-Samyutta-Index.md"}[layer])
         if not os.path.exists(idx):
             layer_cap = {"mula": "Mūla", "atthakatha": "Atthakathā", "tika": "Ṭīkā"}[layer]
             content = (
@@ -136,7 +136,7 @@ def ensure_samyutta_index(nikaya_dir):
                 f.write(content)
 
 def append_index(nikaya_dir, slug, sutta_code, pali_title, wc):
-    idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, "Atthakatha-Samyutta-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if f"{slug}_att" in content:

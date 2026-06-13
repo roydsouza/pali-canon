@@ -12,7 +12,7 @@ tags:
 
 # Vsm Chapter VIII — Ānāpānasatikathā
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel
 > This chapter is the most detailed classical commentary on the sixteen-step ānāpānasati practice taught in [[mn118|MN 118]] and practised across [[sn54|SN 54]]. Read alongside [[tutorial/01_breath_practice|Tutorial 1: Sitting with the Ānāpānasati Sutta]].

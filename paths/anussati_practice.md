@@ -11,7 +11,7 @@ tags:
 
 # Anussati Practice: Six Recollections Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > The six recollections (*anussati*)—recollection of the Buddha, Dhamma, Saṅgha, virtue (*sīla*), generosity (*cāga*), and devas—are highly effective lay practices for calming the mind, gladdening the heart, and overcoming fear and anxiety in daily life.

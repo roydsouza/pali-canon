@@ -12,7 +12,7 @@ layer: atthakatha
 
 # Kaṅkhāvitaraṇī (The Dispeller of Doubts)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/vinaya/INDEX|Vinaya Atthakathā]]
+**Navigation**: [[Atthakatha-Vinaya-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/vinaya/Atthakatha-Vinaya-Index|Vinaya Atthakathā]]
 
 *Written by Ācariya Buddhaghosa (5th century CE).*
 

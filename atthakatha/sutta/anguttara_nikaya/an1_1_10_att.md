@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Commentary on Aṅguttara Nikāya: 1. Rūpādivagga
 *AN 1.1–10 — The Chapter on What Occupies the Mind*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an1_1_10|AN 1.1–10 — 1. Rūpādivagga]]
 **Tīkā**: [[an1_1_10_tik|1. Rūpādivaggavaṇṇanāṭīkā (Sub-commentary)]]
 

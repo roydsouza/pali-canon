@@ -200,10 +200,10 @@ def build_chapter_file(chapter_num, pali_name, en_name, slug, verse_range, stori
         "",
         f"# Dhammapada Commentary — Chapter {chapter_num}: {pali_name}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / "
-        "[[atthakatha/sutta/INDEX|Sutta]] / "
-        "[[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / "
-        "[[atthakatha/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / "
+        "[[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / "
+        "[[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / "
+        "[[atthakatha/sutta/khuddaka_nikaya/dhammapada/Atthakatha-Dhammapada-Index|Dhammapada]]",
         f"**Mūla**: [[{slug}|{pali_name} — {en_name}]]",
         "",
         f"## {pali_name}vaṇṇanā — {en_name}",
@@ -232,7 +232,7 @@ layer: atthakatha
 
 # Dhammapada — Atthakathā (Commentary)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
 
 Commentary (Dhammapada-aṭṭhakathā) in English. Translation by Bhante Ānandajoti (revised edition of Burlingame's *Buddhist Legends*, 1921).
 
@@ -278,7 +278,7 @@ def main():
         chapters_done.append((chapter_num, pali_name, en_name, slug, verse_range))
 
     index = build_index(chapters_done)
-    with open(os.path.join(OUTPUT_DIR, "INDEX.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUTPUT_DIR, "Atthakatha-Dhammapada-Index.md"), "w", encoding="utf-8") as f:
         f.write(index)
     print("\nDone.")
 

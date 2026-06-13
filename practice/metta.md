@@ -6,7 +6,7 @@ type: practice
 
 # Mettā (Loving-Kindness Meditation)
 
-**Navigation**: [[../INDEX|Pali Canon Vault Index]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---
 

@@ -7,7 +7,7 @@ category: factor_note
 
 # Path to Cessation (Magga)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_noble_truths|Four Noble Truths]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]]
 
 ---
 

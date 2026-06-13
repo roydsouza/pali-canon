@@ -7,7 +7,7 @@ category: list_note
 
 # Ten Perfections (Dasa Pāramī)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 

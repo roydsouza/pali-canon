@@ -7,7 +7,7 @@ category: factor_note
 
 # Impermanence / Inconstancy (Anicca)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[three_marks|Three Marks]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_marks|Three Marks]]
 
 ---
 

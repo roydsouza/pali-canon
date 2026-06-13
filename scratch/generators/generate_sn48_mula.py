@@ -165,8 +165,8 @@ def build_samyutta_file(s, sutta_blocks, selected_count):
         f"# {nikaya_label}: {pali_title}",
         f"*{en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / {nav_link}",
         f"**Related Texts**: [[{att_slug}|Commentary (Atthakathā)]] | "
         f"[[{tik_slug}|Sub-commentary (Tīkā)]]",
         f"**Mātikā**: [[five_spiritual_faculties|Five Spiritual Faculties]]",

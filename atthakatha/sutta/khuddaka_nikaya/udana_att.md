@@ -12,7 +12,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Commentary on Khuddaka Nikāya: Udāna
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]
+**Navigation**: [[Atthakatha-Khuddaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
 **Mūla**: [[udana|Udāna — Inspired Utterances]]
 
 *Paramatthadīpanī (Udāna-aṭṭhakathā)*

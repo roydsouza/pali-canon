@@ -7,7 +7,7 @@ category: factor_note
 
 # Equanimity (Upekkhā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
 
 ---
 

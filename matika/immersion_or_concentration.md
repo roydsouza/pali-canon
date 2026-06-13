@@ -7,7 +7,7 @@ category: factor_note
 
 # Immersion / Concentration (Samādhi)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]]
 
 ---
 

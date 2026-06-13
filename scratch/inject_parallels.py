@@ -23,7 +23,7 @@ def get_sutta_files():
     sutta_files = []
     for root, _, files in os.walk(MULA_DIR):
         for f in files:
-            if f.endswith(".md") and f != "INDEX.md":
+            if f.endswith(".md") and f != "INDEX.md" and not f.endswith("Index.md"):
                 sutta_files.append(os.path.join(root, f))
     return sutta_files
 

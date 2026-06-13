@@ -7,7 +7,7 @@ category: list_note
 
 # Three Unwholesome Roots (Akusalamūla)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 Also known as the Three Poisons or Fires that drive the cycle of existence.
 

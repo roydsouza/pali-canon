@@ -7,7 +7,7 @@ category: list_note
 
 # Four Sublime States (Cattāro Brahmavihārā)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 Also known as the Four Divine Abodes or Immeasurables.
 

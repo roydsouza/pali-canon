@@ -7,7 +7,7 @@ category: list_note
 
 # Three Marks of Existence (Tilakkhaṇa)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 

@@ -479,7 +479,8 @@ if __name__ == "__main__":
             abs_f = os.path.abspath(f)
             if os.path.exists(abs_f) and abs_f.endswith(".md"):
                 filename = os.path.basename(abs_f)
-                if filename.startswith("FROM-CLAUDE") or "archive" in abs_f.split(os.sep):
+                path_parts = set(abs_f.split(os.sep))
+                if filename.startswith("FROM-CLAUDE") or (path_parts & EXCLUDE_SCAN_DIRS):
                     continue
                 target_files.append(abs_f)
                 

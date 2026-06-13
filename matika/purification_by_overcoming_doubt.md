@@ -7,7 +7,7 @@ category: factor_note
 
 # Purification by Overcoming Doubt (Kaṅkhāvitaraṇa-visuddhi)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_purifications|Seven Purifications]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---
 

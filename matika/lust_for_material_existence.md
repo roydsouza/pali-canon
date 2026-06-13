@@ -7,7 +7,7 @@ category: factor_note
 
 # Lust for Material Existence (Rūparāga)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[ten_fetters|Ten Fetters]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---
 

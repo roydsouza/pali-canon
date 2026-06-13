@@ -7,7 +7,7 @@ category: list_note
 
 # Five Aggregates (Pañcupādānakkhandhā)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 
@@ -19,7 +19,7 @@ category: list_note
    *The aggregate of perception / recognition*
 4. **[[volitional_formations|Saṅkhārakkhandha]]**  
    *The aggregate of volitional formations / mental fabrications*
-5. **[[consciousness|Viññāṇakkhandha]]**  
+5. **[[consciousness_vinnana|Viññāṇakkhandha]]**  
    *The aggregate of consciousness / awareness*
 
 ## Abhidhamma Analysis

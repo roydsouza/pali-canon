@@ -7,7 +7,7 @@ category: factor_note
 
 # Purification by Knowledge & Vision of Path (Maggāmaggañāṇadassana-visuddhi)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_purifications|Seven Purifications]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 
 # Tutorial 1: Sitting with the Ānāpānasati Sutta
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]]
 
 > [!NOTE]
 > **What you will be able to do after this tutorial:**

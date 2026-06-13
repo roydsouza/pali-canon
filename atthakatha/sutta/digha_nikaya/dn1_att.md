@@ -16,7 +16,7 @@ source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 
 # Commentary on Dīgha Nikāya: Brahmajālasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn1|Brahmajālasutta — The Prime Net]]
 **Tīkā**: [[dn1_tik|Brahmajālasuttavaṇṇanātīkā (sub-commentary)]]
 

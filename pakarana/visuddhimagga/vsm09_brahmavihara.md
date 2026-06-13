@@ -15,7 +15,7 @@ tags:
 
 # Vsm Chapter IX — Brahmavihārakathā
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel
 > The canonical source for the brahmavihāras as a path to jhāna is [[dn13|DN 13]], [[mn7|MN 7]], and [[an11_15|AN 11.15]]. The mettā sutta text itself is [[snp1_8|Snp 1.8]]. Chapter IX gives the most precise technical account of how the pervasive radiation of loving-kindness, compassion, sympathetic joy, and equanimity leads to jhāna. Read alongside [[paths/brahmavihara_cultivation|the Brahmavihāra Cultivation path]].

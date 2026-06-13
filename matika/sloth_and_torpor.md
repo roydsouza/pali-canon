@@ -7,7 +7,7 @@ category: factor_note
 
 # Sloth and Torpor (Thīna-middha)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_hindrances|Five Hindrances]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]]
 
 ---
 

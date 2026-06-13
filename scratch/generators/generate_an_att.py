@@ -172,8 +172,8 @@ def build_att_file(entry, pali_body, para_count):
         f"# Commentary on {NIKAYA_LABEL}: {pali_title}",
         f"*{display} — {en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / "
-        f"[[atthakatha/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / "
+        f"[[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Tīkā**: {tik_link}",
         "",
@@ -190,7 +190,7 @@ def build_att_file(entry, pali_body, para_count):
 
 
 def update_index(slug, display, pali_title, wc):
-    idx = os.path.join(VAULT, "atthakatha/sutta", NIKAYA_DIR, "INDEX.md")
+    idx = os.path.join(VAULT, "atthakatha/sutta", NIKAYA_DIR, "Atthakatha-Anguttara-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if f"{slug}_att" in content:

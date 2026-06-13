@@ -24,7 +24,7 @@ parallels:
 ---
 # Majjhima Nikāya: MN 7 — Vatthasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
 **Related Texts**: [[mn7_att|Commentary (Atthakathā)]] | [[mn7_tik|Sub-commentary (Tīkā)]]
 
 ---

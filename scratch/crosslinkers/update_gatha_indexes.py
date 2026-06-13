@@ -58,7 +58,7 @@ def update_collection_index(subcoll, title_pali, title_en, nipata_names):
         "",
         f"# {title_pali} — Mūla",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]",
         "",
         f"The {title_pali} (\"{title_en}\") is a collection of verses attributed to the senior {('monks' if subcoll == 'theragatha' else 'nuns')} of the early Buddhist Sangha, recording their struggles, realizations, and attainment of liberation.",
         ""
@@ -73,7 +73,7 @@ def update_collection_index(subcoll, title_pali, title_en, nipata_names):
             mula_lines.append(f"| [[{s['sc_id']}|{sc_upper}]] | {s['title_pali']} | *{s['title_en']}* |")
         mula_lines.append("")
         
-    mula_dest = os.path.join(mula_dir, "INDEX.md")
+    mula_dest = os.path.join(mula_dir, ("Mula-Theragatha-Index.md" if subcoll == "theragatha" else "Mula-Therigatha-Index.md"))
     with open(mula_dest, "w", encoding="utf-8") as f:
         f.write("\n".join(mula_lines) + "\n")
     print(f"Saved {title_pali} index to {mula_dest}")

@@ -1,6 +1,6 @@
 # Pericope Concordance (Vākya-saṅgaha)
 
-**Navigation**: [[INDEX|Pali Canon Vault]]
+**Navigation**: [[Texts-Index|Pali Canon Vault]]
 
 This concordance maps the recurrent stock formulas (*pericopes*) that repeat across hundreds of suttas. Recognising these formulas dramatically accelerates Pali reading: once the formula is memorised, only the variable parts need to be decoded.
 
@@ -34,7 +34,7 @@ This concordance maps the recurrent stock formulas (*pericopes*) that repeat acr
     > *"Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāti."*
     > *("Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.")*
 *   **Setting detail**: The concentrated mind is directed toward knowledge of the destruction of the taints, knowing the Four Noble Truths directly, which destroys the defilements.
-*   **Loci**: [[mula/sutta/digha_nikaya/dn2|DN 2]] · [[mula/sutta/majjhima_nikaya/mn36|MN 36]] · [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā (all arhant verses)]]
+*   **Loci**: [[mula/sutta/digha_nikaya/dn2|DN 2]] · [[mula/sutta/majjhima_nikaya/mn36|MN 36]] · [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā (all arhant verses)]]
 
 ---
 
@@ -142,7 +142,7 @@ This concordance maps the recurrent stock formulas (*pericopes*) that repeat acr
 *   **Pali Text**:
     > *"Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānātīti."*
     > *("Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.")*
-*   **Loci**: [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā: All Arhant verses]] · [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā: All Arhant verses]] · [[mula/sutta/khuddaka_nikaya/theragatha/thag1_1|THAG 1.1]] · [[mula/sutta/khuddaka_nikaya/therigatha/thig1_1|THIG 1.1]]
+*   **Loci**: [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā: All Arhant verses]] · [[mula/sutta/khuddaka_nikaya/therigatha/Mula-Therigatha-Index|Therīgāthā: All Arhant verses]] · [[mula/sutta/khuddaka_nikaya/theragatha/thag1_1|THAG 1.1]] · [[mula/sutta/khuddaka_nikaya/therigatha/thig1_1|THIG 1.1]]
 
 ### 2. Post-Discourse Closing Formula (*Idamavoca-vāra*)
 *   **Setting**: Closes virtually every sutta in the four main nikāyas.

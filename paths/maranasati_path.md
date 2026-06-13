@@ -11,7 +11,7 @@ tags:
 
 # Maraṇasati Practice: Death Contemplation Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > Mindfulness of death (*maraṇasati*) is not a morbid preoccupation, but a powerful practice for generating spiritual urgency (*saṃvega*), breaking down attachments, and preparing the mind to meet its final moments with clarity and peace.

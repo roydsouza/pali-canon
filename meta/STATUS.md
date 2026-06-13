@@ -155,7 +155,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Vault Infrastructure Status
 
-*   **Vault Index**: [INDEX.md](INDEX.md) (Operational)
+*   **Vault Index**: [Texts-Index.md](../Texts-Index.md) (Operational)
 *   **Obsidian Plugins**: Simsapa DPD, Dataview, Templater (all configured)
 *   **CSS Toggle**: Translation toggle for pure Pali reading
 *   **Templates**: Mūla, Atthakathā, Tīkā sutta templates
@@ -166,7 +166,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Mātikā (Buddhist Lists)
 
-*   **Mātika Index**: [matika/INDEX.md](matika/INDEX.md)
+*   **Mātika Index**: [matika/Matika-Index.md](../matika/Matika-Index.md)
     *   *Status*: **Completed** (22 lists total, cross-linked to canonical sources).
 *   **Migrated Lists**:
     *   [[four_noble_truths|Four Noble Truths (Cattāri Ariyasaccāni)]]
@@ -196,7 +196,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Vinaya Piṭaka (Monastic Discipline)
 
-*   **Vinaya Index**: [mula/vinaya/INDEX.md](mula/vinaya/INDEX.md)
+*   **Vinaya Index**: [mula/vinaya/Mula-Vinaya-Index.md](../mula/vinaya/Mula-Vinaya-Index.md)
     *   *Status*: **Completed Phase 18 Scaffolding**.
 *   **Migrated Rules**:
     *   [[patimokkha_bhikkhu|Bhikkhu Pātimokkha (227 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).
@@ -208,7 +208,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Prosopography & Doctrinal Indices
 
-*   **People Index**: [people/INDEX.md](people/INDEX.md) (Key disciples Sāriputta, Ānanda, Mahāmoggallāna, Mahākassapa, and Uṇṇābha profiled).
-*   **Places Index**: [places/INDEX.md](places/INDEX.md) (Key locations Sāvatthī, Rājagaha, Kosambī, and Vesālī profiled).
+*   **People Index**: [people/People-Index.md](../people/People-Index.md) (Key disciples Sāriputta, Ānanda, Mahāmoggallāna, Mahākassapa, and Uṇṇābha profiled).
+*   **Places Index**: [places/Places-Index.md](../places/Places-Index.md) (Key locations Sāvatthī, Rājagaha, Kosambī, and Vesālī profiled).
 *   **Simile Index**: [meta/SIMILES.md](meta/SIMILES.md) (Index of major similes including the Raft, the Lute, the Six Animals, etc.).
 *   **Pericope Concordance**: [meta/PERICOPES.md](meta/PERICOPES.md) (Index of stock textual formulas like the Jhāna and Dependent Origination formulas).

@@ -7,7 +7,7 @@ category: factor_note
 
 # The Dhamma (Dhamma)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[three_refuges|Three Refuges]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_refuges|Three Refuges]]
 
 ---
 

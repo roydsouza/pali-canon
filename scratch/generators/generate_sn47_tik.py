@@ -101,8 +101,8 @@ def build_tik_file(s, pali_body, para_count, cscd_file):
         "",
         f"# Sub-commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",
@@ -119,7 +119,7 @@ def build_tik_file(s, pali_body, para_count, cscd_file):
 
 
 def append_tik_index(nikaya_dir, slug, sutta_code, pali_title, wc):
-    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "Tika-Samyutta-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if f"{slug}_tik" in content:

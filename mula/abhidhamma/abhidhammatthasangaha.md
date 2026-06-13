@@ -11,7 +11,7 @@ layer: mula
 
 # Abhidhammatthasaṅgaha (A Comprehensive Manual of Abhidhamma)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/abhidhamma/INDEX|Abhidhamma Piṭaka]]
+**Navigation**: [[Mula-Abhidhamma-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/abhidhamma/Mula-Abhidhamma-Index|Abhidhamma Piṭaka]]
 
 *Written by Ācariya Anuruddha (circa 11th–12th century).*
 

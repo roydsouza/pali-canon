@@ -7,7 +7,7 @@ category: factor_note
 
 # Name and Form (Nāmarūpa)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[dependent_origination|Dependent Origination]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---
 

@@ -12,7 +12,7 @@ tags:
 
 # Tutorial 7: Vocabulary Spaced Repetition (SRS)
 
-**Navigation**: [[INDEX|Vault Home]] / [[tutorial/INDEX|Tutorials]] / ← [[tutorial/06_building_a_practice|Tutorial 6]]
+**Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/06_building_a_practice|Tutorial 6]]
 
 ---
 

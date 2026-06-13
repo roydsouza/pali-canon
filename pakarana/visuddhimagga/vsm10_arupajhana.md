@@ -13,7 +13,7 @@ tags:
 
 # Vsm Chapter X — Arūpakathā
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel
 > The canonical description of the formless attainments appears in [[dn2|DN 2]], [[dn9|DN 9 — Poṭṭhapādasutta]], and [[mn36|MN 36]]. DN 9 is the most detailed canonical discussion of perception in relation to the formless attainments. Chapter X gives the technical meditation instructions for each of the four arūpa-jhānas and their relationship to the fourth rūpa-jhāna from which they arise. Read alongside [[pakarana/visuddhimagga/vsm11_samadhi|Ch. XI]] and the [[paths/entering_jhana_path|Entering Jhāna path]].

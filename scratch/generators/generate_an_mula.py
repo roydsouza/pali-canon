@@ -151,8 +151,8 @@ def build_file(entry, sutta_blocks):
         f"# {NIKAYA_LABEL}: {pali_title}",
         f"*{en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / [[mula/sutta/{NIKAYA_DIR}/INDEX|{NIKAYA_LABEL}]]",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/{NIKAYA_DIR}/INDEX|{NIKAYA_LABEL}]]",
         f"**Related Texts**: [[{att_slug}|Commentary (Atthakathā)]] | "
         f"[[{tik_slug}|Sub-commentary (Tīkā)]]",
         "",
@@ -164,7 +164,7 @@ def build_file(entry, sutta_blocks):
 
 
 def append_index(slug, display, pali_title, wc):
-    idx = os.path.join(VAULT, "mula/sutta", NIKAYA_DIR, "INDEX.md")
+    idx = os.path.join(VAULT, "mula/sutta", NIKAYA_DIR, "Mula-Anguttara-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if slug in content:

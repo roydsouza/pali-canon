@@ -13,7 +13,7 @@ tags:
 
 # Vsm Chapters IV–VII — Kasiṇas, Foulness, and Recollections
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallels
 > The recollections in Ch. VII correspond directly to the six *anussati* taught in [[an6_10|AN 6.10]] and expanded in [[an6_25|AN 6.25]]. The foulness contemplations of Ch. VI parallel the *kāyagatāsati* practice in [[mn119|MN 119]]. Read alongside [[paths/anussati_practice|the Anussati path]] and [[paths/entering_jhana_path|the Entering Jhāna path]].

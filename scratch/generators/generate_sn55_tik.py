@@ -96,8 +96,8 @@ def build_tik_file(s, pali_body, para_count, cscd_file):
         "",
         f"# Sub-commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",

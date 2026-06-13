@@ -17,7 +17,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 # Commentary on Dīgha Nikāya: Tevijjasutta
 *DN 13 — Experts in the Three Vedas*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn13|DN 13 — Tevijjasutta]]
 **Tīkā**: [[dn13_tik|Tevijjasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

@@ -113,7 +113,7 @@ def paths_match(ref, target_filepath, vault_dir):
 def validate_frontmatter_file(filepath, content, rel_src, vault_dir):
     errors = []
     filename = os.path.basename(filepath)
-    if filename == "INDEX.md":
+    if filename == "INDEX.md" or filename.endswith("Index.md"):
         return errors
         
     parts = rel_src.split(os.sep)
@@ -238,7 +238,7 @@ def validate_reciprocal_covers(vault_dir):
     for root, dirs, files in os.walk(vault_dir):
         dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
         for file in files:
-            if file.endswith(".md") and not file.startswith("FROM-CLAUDE") and file != "INDEX.md":
+            if file.endswith(".md") and not file.startswith("FROM-CLAUDE") and file != "INDEX.md" and not file.endswith("Index.md"):
                 path = os.path.join(root, file)
                 rel_src = os.path.relpath(path, vault_dir)
                 try:

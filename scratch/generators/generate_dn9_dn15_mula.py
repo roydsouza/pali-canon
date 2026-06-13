@@ -71,8 +71,8 @@ def generate_sutta(sc_id, nikaya_dir, slug, num, pali_title, en_title,
         "",
         f"# {nikaya_label} {num}: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / {nav_link}",
         f"**Related Texts**: [[{att_slug}|Commentary (Atthakathā)]] | "
         f"[[{tik_slug}|Sub-commentary (Tīkā)]]",
         "",
@@ -105,7 +105,7 @@ def generate_sutta(sc_id, nikaya_dir, slug, num, pali_title, en_title,
 
 
 def append_to_nikaya_index(nikaya_dir, layer, slug, sutta_code, pali_title, wc):
-    idx = os.path.join(VAULT, layer, "sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, layer, "sutta", nikaya_dir, {"mula": "Mula-Digha-Index.md", "atthakatha": "Atthakatha-Digha-Index.md", "tika": "Tika-Digha-Index.md"}[layer])
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if slug in content:

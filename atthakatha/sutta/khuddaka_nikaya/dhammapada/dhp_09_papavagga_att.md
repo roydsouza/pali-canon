@@ -16,7 +16,7 @@ source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 
 # Dhammapada Commentary — Chapter 9: Pāpavagga
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Navigation**: [[Atthakatha-Dhammapada-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/dhammapada/Atthakatha-Dhammapada-Index|Dhammapada]]
 **Mūla**: [[dhp_09_papavagga|Pāpavagga — Evil]]
 
 ## Pāpavaggavaṇṇanā — Evil

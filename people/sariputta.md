@@ -6,7 +6,7 @@ type: person
 
 # Sāriputta Thera
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[people/INDEX|People]]
+**Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Sāriputta** (meaning "son of Sārī") was one of the two chief disciples (*aggasāvaka*) of the Buddha, alongside [[people/mahamoggallana|Mahāmoggallāna]]. He was declared by the Buddha to be the foremost in wisdom (*paññā*).
 
@@ -32,8 +32,8 @@ type: person
 *   **[[mula/sutta/majjhima_nikaya/mn28|MN 28: Mahāhatthipadopamasutta]]** — The Great Discourse on the Simile of the Elephant's Footprint. Sāriputta teaches the four noble truths through the four physical elements.
 *   **MN 141: Saccavibhaṅgasutta** (Not migrated) — Sāriputta delivers a detailed exposition of the Four Noble Truths.
 *   **[[mula/sutta/majjhima_nikaya/mn43|MN 43: Mahāvedallasutta]]** — A series of questions and answers between Sāriputta and Mahākoṭṭhita on cognitive categories, wisdom, and right view.
-*   **[[mula/sutta/samyutta_nikaya/INDEX|SN 12.67: Naḷakalāpīsutta]]** — The famous "sheaves of reeds" simile, illustrating the reciprocal conditioning between consciousness (*viññāṇa*) and name-and-form (*nāmarūpa*).
-*   **[[mula/sutta/khuddaka_nikaya/theragatha/INDEX|THAG 17.2]]** — Verses of Sāriputta in the Theragāthā.
+*   **[[mula/sutta/samyutta_nikaya/Mula-Samyutta-Index|SN 12.67: Naḷakalāpīsutta]]** — The famous "sheaves of reeds" simile, illustrating the reciprocal conditioning between consciousness (*viññāṇa*) and name-and-form (*nāmarūpa*).
+*   **[[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|THAG 17.2]]** — Verses of Sāriputta in the Theragāthā.
 
 ---
 

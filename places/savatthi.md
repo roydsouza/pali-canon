@@ -6,7 +6,7 @@ type: place
 
 # Sāvatthī
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[places/INDEX|Places]]
+**Navigation**: [[Places-Index|Pali Canon Vault]] / [[places/Places-Index|Places]]
 
 **Sāvatthī** (Sanskrit: *Śrāvastī*) was the capital of the Kosala kingdom, ruled by King Pasenadi. It was the most important center of early Buddhism, where the Buddha spent twenty-five annual rains retreats (*vassa*) and delivered the majority of his discourses.
 

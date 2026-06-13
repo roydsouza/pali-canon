@@ -112,8 +112,8 @@ def build_tik_file(sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title,
         "",
         f"# Sub-commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",
@@ -128,7 +128,7 @@ def build_tik_file(sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title,
     return header + "\n" + pali_body
 
 def update_tik_index(nikaya_dir, slug, sutta_code, pali_title, wc):
-    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "Tika-Digha-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if slug in content:

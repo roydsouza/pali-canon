@@ -11,7 +11,7 @@ tags:
 
 # Entering Jhāna: Meditative Absorption Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > This reading path is structured systematically to help practitioners move from the ethical foundations of concentration through identifying mental obstacles, stabilizing concentration, and finally using absorption as a vehicle for liberating insight.

@@ -16,7 +16,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Sub-commentary on Dīgha Nikāya: Sāmaññaphalasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn2|Sāmaññaphalasutta — The Fruits of the Ascetic Life]]
 **Atthakathā**: [[dn2_att|Sāmaññaphalasuttavaṇṇanā (atthakathā)]]
 

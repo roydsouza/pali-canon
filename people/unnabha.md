@@ -6,7 +6,7 @@ type: person
 
 # Uṇṇābha Brāhmaṇa
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[people/INDEX|People]]
+**Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Uṇṇābha** was a Brahmin householder who visited Venerable [[people/ananda|Ānanda]] at the Ghositārāma monastery in [[places/kosambi|Kosambī]] to clarify the purpose and limit of the holy life (*brahmacariya*).
 

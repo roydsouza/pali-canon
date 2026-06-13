@@ -6,7 +6,7 @@ type: place
 
 # Rājagaha
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[places/INDEX|Places]]
+**Navigation**: [[Places-Index|Pali Canon Vault]] / [[places/Places-Index|Places]]
 
 **Rājagaha** (meaning "House of the King"; Sanskrit: *Rājagṛha*, modern Rajgir) was the capital of the Magadha kingdom, ruled initially by King Bimbisāra and later by his son Ajātasattu. It is surrounded by five hills that provided natural fortification.
 

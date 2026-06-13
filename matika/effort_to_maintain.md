@@ -7,7 +7,7 @@ category: factor_note
 
 # Effort to Maintain (Anurakkhaṇā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_right_exertions|Four Right Exertions]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_right_exertions|Four Right Exertions]]
 
 ---
 

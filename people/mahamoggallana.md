@@ -6,7 +6,7 @@ type: person
 
 # Mahāmoggallāna Thera
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[people/INDEX|People]]
+**Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Mahāmoggallāna** (also known as Kolita) was the second of the Buddha's two chief disciples (*aggasāvaka*), alongside [[people/sariputta|Sāriputta]]. He was declared by the Buddha to be the foremost in psychic power (*iddhi*).
 
@@ -28,9 +28,9 @@ type: person
 
 ## Key Discourses (Suttas)
 
-*   **[[mula/sutta/samyutta_nikaya/INDEX|SN 35.247: Chappāṇakasutta]]** — The Simile of the Six Animals, demonstrating how sensory restraint anchors the mind.
-*   **[[mula/sutta/khuddaka_nikaya/theragatha/INDEX|THAG 20.1]]** — Verses of Mahāmoggallāna in the Theragāthā.
-*   **[[mula/sutta/anguttara_nikaya/INDEX|AN 7.62: Pacalāyasutta]]** — The Buddha teaches Mahāmoggallāna eight methods to overcome sleepiness during meditation.
+*   **[[mula/sutta/samyutta_nikaya/Mula-Samyutta-Index|SN 35.247: Chappāṇakasutta]]** — The Simile of the Six Animals, demonstrating how sensory restraint anchors the mind.
+*   **[[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|THAG 20.1]]** — Verses of Mahāmoggallāna in the Theragāthā.
+*   **[[mula/sutta/anguttara_nikaya/Mula-Anguttara-Index|AN 7.62: Pacalāyasutta]]** — The Buddha teaches Mahāmoggallāna eight methods to overcome sleepiness during meditation.
 
 ---
 

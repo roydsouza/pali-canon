@@ -106,10 +106,10 @@ def generate(sc_id, num, pali_name, en_name, slug, v_start, v_end, data):
         "",
         f"# Dhammapada — Chapter {num}: {pali_name}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        "[[mula/sutta/INDEX|Sutta]] / "
-        "[[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / "
-        "[[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        "[[mula/sutta/Mula-Sutta-Index|Sutta]] / "
+        "[[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / "
+        "[[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]",
         "",
         f"## {pali_name} — {en_name}",
         f"*Verses {v_start}–{v_end}*",
@@ -162,7 +162,7 @@ text: dhammapada
 
 # Dhammapada (Dhammapadapāḷi)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Dhammapada ("Sayings of the Dhamma") is a collection of 423 verses in 26 chapters, drawn from various parts of the Sutta Piṭaka. It is one of the most widely read texts in the Theravāda canon.
 
@@ -212,7 +212,7 @@ def main():
         time.sleep(0.4)
 
     index = build_index(results)
-    with open(os.path.join(OUTPUT_DIR, "INDEX.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUTPUT_DIR, "Mula-Dhammapada-Index.md"), "w", encoding="utf-8") as f:
         f.write(index)
 
     print(f"\nDone. 26 vaggas, 423 verses, ~{total_words:,} words total.")

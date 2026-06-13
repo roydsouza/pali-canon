@@ -11,7 +11,7 @@ tags:
 
 # Vipassanā Practice: Insight Meditation Path
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > This reading path is designed to broaden insight practice beyond mindfulness of breathing and body posture, introducing structured frameworks for contemplating the sense bases, the feelings, the material elements, and the destruction of the mental taints.

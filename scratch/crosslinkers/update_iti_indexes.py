@@ -73,7 +73,7 @@ def main():
         "",
         "# Itivuttaka — Mūla",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]",
         "",
         "The Itivuttaka (\"As It Was Said\") is a collection of 112 short discourses, organized by numerical group. Each sutta features a prose discourse followed by a summarizing verse.",
         ""
@@ -88,7 +88,7 @@ def main():
             mula_lines.append(f"| [[{s['sc_id']}|{sc_upper}]] | {s['title_pali']} | *{s['title_en']}* |")
         mula_lines.append("")
         
-    mula_dest = os.path.join(mula_dir, "INDEX.md")
+    mula_dest = os.path.join(mula_dir, "Mula-Itivuttaka-Index.md")
     with open(mula_dest, "w", encoding="utf-8") as f:
         f.write("\n".join(mula_lines) + "\n")
     print(f"Saved Mūla index to {mula_dest}")
@@ -105,7 +105,7 @@ def main():
         "",
         "# Itivuttaka — Atthakathā",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]",
         "",
         "## Commentaries (Paramatthadīpanī)",
         ""
@@ -126,7 +126,7 @@ def main():
             att_lines.append(f"| [[{sc_id}_att|{comm_title}]] | [[{sc_id}]] | CSCD |")
         att_lines.append("")
         
-    att_dest = os.path.join(att_dir, "INDEX.md")
+    att_dest = os.path.join(att_dir, "Mula-Itivuttaka-Index.md")
     with open(att_dest, "w", encoding="utf-8") as f:
         f.write("\n".join(att_lines) + "\n")
     print(f"Saved Atthakathā index to {att_dest}")

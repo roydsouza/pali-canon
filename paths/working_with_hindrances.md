@@ -12,7 +12,7 @@ tags:
 
 # Working with the Five Hindrances
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > The five hindrances (*pañca nīvaraṇāni*) — sensual desire, ill will, sloth-and-torpor, restlessness-and-worry, and doubt — are the canonical account of what prevents the mind from settling into concentration and clarity. They are not obscure theory: every meditator encounters them on the cushion. This path moves from recognition through the graduated training, through targeted methods for each hindrance, through the antidote system of the awakening factors, and finally into the samādhi that arises when they are temporarily subdued.

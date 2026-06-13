@@ -87,8 +87,8 @@ def generate_sutta(sc_id, nikaya_dir, slug, num, pali_title, en_title,
         "",
         f"# {nikaya_label} {num}: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / {nav_link}",
         f"**Related Texts**: [[{att_slug}|Commentary (Atthakathā)]] | "
         f"[[{tik_slug}|Sub-commentary (Tīkā)]]",
         "",
@@ -125,7 +125,7 @@ def ensure_dirs(nikaya_dir):
     for layer in ("mula", "atthakatha", "tika"):
         path = os.path.join(VAULT, layer, "sutta", nikaya_dir)
         os.makedirs(path, exist_ok=True)
-        idx = os.path.join(path, "INDEX.md")
+        idx = os.path.join(path, {"mula": "Mula-", "atthakatha": "Atthakatha-", "tika": "Tika-"}[layer] + {"digha_nikaya": "Digha", "majjhima_nikaya": "Majjhima", "samyutta_nikaya": "Samyutta", "anguttara_nikaya": "Anguttara", "khuddaka_nikaya": "Khuddaka"}[nikaya_dir] + "-Index.md")
         if not os.path.exists(idx):
             meta = NIKAYA_META[nikaya_dir]
             layer_cap = {"mula": "Mūla", "atthakatha": "Atthakathā", "tika": "Ṭīkā"}[layer]
@@ -143,7 +143,7 @@ def ensure_dirs(nikaya_dir):
 
 
 def append_to_nikaya_index(nikaya_dir, layer, slug, sutta_code, pali_title, wc):
-    idx = os.path.join(VAULT, layer, "sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, layer, "sutta", nikaya_dir, {"mula": "Mula-", "atthakatha": "Atthakatha-", "tika": "Tika-"}[layer] + {"digha_nikaya": "Digha", "majjhima_nikaya": "Majjhima", "samyutta_nikaya": "Samyutta", "anguttara_nikaya": "Anguttara", "khuddaka_nikaya": "Khuddaka"}[nikaya_dir] + "-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     # Don't double-add

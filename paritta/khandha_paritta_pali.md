@@ -12,7 +12,7 @@ tags:
 
 # Khandhaparitta (Ahirājasutta) — Pali Recitation
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paritta/INDEX|Paritta Collection]]
+**Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
 **Source Discourse**: [[an4_67|AN 4.67]]
 
 ---

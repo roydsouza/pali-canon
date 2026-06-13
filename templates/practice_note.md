@@ -31,7 +31,7 @@ tags:
 
 # Meditation Practice Session: {{date}}
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[practice/INDEX|Practice Dashboard]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[practice/Practice-Index|Practice Dashboard]]
 
 ---
 

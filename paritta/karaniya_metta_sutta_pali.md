@@ -12,7 +12,7 @@ tags:
 
 # Karaṇīyamettasutta — Pali Recitation
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paritta/INDEX|Paritta Collection]]
+**Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
 **Source Discourse**: [[snp1_8|Snp 1.8]]
 
 ---

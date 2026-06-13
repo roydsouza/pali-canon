@@ -6,7 +6,7 @@ type: person
 
 # Ānanda Thera
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[people/INDEX|People]]
+**Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Ānanda** was the Buddha's cousin and his personal attendant (*upatthāka*) for the last twenty-five years of the Buddha's life. He was declared foremost in five categories: great learning (*bahu-sutta*), mindfulness (*sati*), behavior (*gati*), resoluteness (*dhitī*), and ministering (*upatthāka*).
 
@@ -31,8 +31,8 @@ type: person
 ## Key Discourses (Suttas)
 
 *   **[[mula/sutta/digha_nikaya/dn15|DN 15: Mahānidānasutta]]** — The Great Discourse on Causation. It begins with Ānanda saying that Dependent Origination seems simple, and the Buddha rebukes him, warning that it is deep and difficult to see.
-*   **[[mula/sutta/samyutta_nikaya/INDEX|SN 51.15: Unṇābhabrāhmaṇasutta]]** — Ānanda explains to the brahmin Uṇṇābha how desire (*chanda*) is used to end desire.
-*   **[[mula/sutta/khuddaka_nikaya/theragatha/INDEX|THAG 17.3]]** — Verses of Ānanda in the Theragāthā.
+*   **[[mula/sutta/samyutta_nikaya/Mula-Samyutta-Index|SN 51.15: Unṇābhabrāhmaṇasutta]]** — Ānanda explains to the brahmin Uṇṇābha how desire (*chanda*) is used to end desire.
+*   **[[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|THAG 17.3]]** — Verses of Ānanda in the Theragāthā.
 
 ---
 

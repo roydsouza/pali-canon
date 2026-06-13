@@ -13,7 +13,7 @@ tags:
 
 # {{NIKAYA_DISPLAY}} {{SUTTA_NUMBER}}
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/{{PITAKA}}/INDEX|{{PITAKA_DISPLAY}}]] / [[mula/{{PITAKA}}/{{NIKAYA}}/INDEX|{{NIKAYA_DISPLAY}}]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/{{PITAKA}}/INDEX|{{PITAKA_DISPLAY}}]] / [[mula/{{PITAKA}}/{{NIKAYA}}/INDEX|{{NIKAYA_DISPLAY}}]]
 **Related Texts**: [[{{ID_LOWER}}_att|Commentary (Atthakatha)]] | [[{{ID_LOWER}}_tik|Sub-commentary (Tīkā)]]
 
 ## {{TITLE_PALI}} ({{TITLE_EN}})

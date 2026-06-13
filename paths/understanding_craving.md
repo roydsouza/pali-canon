@@ -12,7 +12,7 @@ tags:
 
 # Understanding Craving (Taṇhā)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > Craving (*taṇhā*) is the second noble truth — the origin of suffering — yet the canon is careful not to reduce it to a single thing. It arises through sense contact (*phassa*), feeds on feeling (*vedanā*), and clings to form, sensation, mental formations, and consciousness. Understanding craving means tracing *where* it arises (the six sense doors), *what* it grasps (the five aggregates), *how* it perpetuates itself (dependent origination), and *how* it is released (the seven methods and the way of non-clinging). This path moves from the surface inward.

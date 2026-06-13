@@ -7,7 +7,7 @@ category: factor_note
 
 # Ignorance (Avijjā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[dependent_origination|Dependent Origination]] / [[ten_fetters|Ten Fetters]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]] / [[ten_fetters|Ten Fetters]]
 
 ---
 

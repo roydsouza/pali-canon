@@ -17,7 +17,7 @@ source_notes: "https://suttacentral.net"
 
 # Commentary on Majjhima Nikāya: Aṭṭhakanāgarasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn52|Aṭṭhakanāgarasutta — At Aṭṭhakanāgara]]
 **Tīkā**: [[mn52_tik|Aṭṭhakanāgarasuttavaṇṇanātīkā (sub-commentary)]]
 

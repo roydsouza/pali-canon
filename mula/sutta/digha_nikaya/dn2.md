@@ -38,7 +38,7 @@ parallels:
 ---
 # Dīgha Nikāya 2: Sāmaññaphalasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
 **Related Texts**: [[dn2_att|Commentary (Atthakathā)]] | [[dn2_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[five_hindrances|Five Hindrances]] · [[four_noble_truths|Four Noble Truths]]
 

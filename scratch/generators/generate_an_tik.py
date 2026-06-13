@@ -142,8 +142,8 @@ def build_tik_file(entry, pali_body, para_count):
         f"# Sub-commentary on {NIKAYA_LABEL}: {pali_title}",
         f"*{display} — {en_title}*",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",
@@ -160,7 +160,7 @@ def build_tik_file(entry, pali_body, para_count):
 
 
 def update_index(slug, display, pali_title, wc):
-    idx = os.path.join(VAULT, "tika/sutta", NIKAYA_DIR, "INDEX.md")
+    idx = os.path.join(VAULT, "tika/sutta", NIKAYA_DIR, "Tika-Anguttara-Index.md")
     with open(idx, encoding="utf-8") as f:
         content = f.read()
     if f"{slug}_tik" in content:

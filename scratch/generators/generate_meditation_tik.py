@@ -171,8 +171,8 @@ def build_tik_file(sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title,
         "",
         f"# Sub-commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",
@@ -194,7 +194,7 @@ def ensure_tika_dirs(nikaya_dir, nikaya_label):
     """Create tika/sutta/{nikaya} directory and INDEX.md if needed."""
     tika_dir = os.path.join(VAULT, "tika/sutta", nikaya_dir)
     os.makedirs(tika_dir, exist_ok=True)
-    idx = os.path.join(tika_dir, "INDEX.md")
+    idx = os.path.join(tika_dir, "Tika-Index.md")
     if not os.path.exists(idx):
         short = nikaya_dir.replace('_nikaya', '').capitalize()
         content = "\n".join([
@@ -207,7 +207,7 @@ def ensure_tika_dirs(nikaya_dir, nikaya_label):
             "",
             f"# {nikaya_label} — Ṭīkā",
             "",
-            f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / [[tika/sutta/INDEX|Sutta]]",
+            f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]]",
             "",
             "## Migrated Texts",
             "",
@@ -222,7 +222,7 @@ def ensure_tika_dirs(nikaya_dir, nikaya_label):
 
 def update_tika_index(nikaya_dir, slug, sutta_code, pali_title, word_count):
     """Append a row to the tika nikaya INDEX.md."""
-    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "INDEX.md")
+    idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "Tika-Samyutta-Index.md")
     with open(idx, 'r', encoding='utf-8') as f:
         content = f.read()
     row = f"| [[{slug}|{sutta_code}]] | [[{slug}_tik|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {word_count:,} |\n"
@@ -236,16 +236,16 @@ def main():
     # Ensure top-level tika/sutta INDEX.md exists
     tika_sutta_dir = os.path.join(VAULT, "tika/sutta")
     os.makedirs(tika_sutta_dir, exist_ok=True)
-    top_idx = os.path.join(tika_sutta_dir, "INDEX.md")
+    top_idx = os.path.join(tika_sutta_dir, "Tika-Sutta-Index.md")
     if not os.path.exists(top_idx):
         with open(top_idx, 'w', encoding='utf-8') as f:
             f.write("---\ntype: index\npitaka: sutta\nlayer: tika\n---\n\n"
                     "# Sutta Piṭaka — Ṭīkā\n\n"
-                    "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]]\n\n"
+                    "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]]\n\n"
                     "## Nikāyas\n\n"
-                    "- [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]\n"
-                    "- [[tika/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]\n"
-                    "- [[tika/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]\n")
+                    "- [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]\n"
+                    "- [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]\n"
+                    "- [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]\n")
 
     tracked_nikayas = set()
 

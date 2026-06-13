@@ -7,7 +7,7 @@ category: factor_note
 
 # Volitional Formations (Saṅkhārā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]]
 
 ---
 

@@ -7,7 +7,7 @@ category: factor_note
 
 # Faith / Conviction (Saddhā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]]
 
 ---
 

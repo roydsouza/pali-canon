@@ -15,7 +15,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Commentary on Saṃyutta Nikāya: Ānāpānasaṃyutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn54|Ānāpānasaṃyutta — Linked Discourses on Mindfulness of Breathing]]
 **Tīkā**: [[sn54_tik|Ānāpānasaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

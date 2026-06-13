@@ -19,7 +19,7 @@ tags:
 # Khuddaka Nikāya: Udāna
 *Inspired Utterances*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]]
+**Navigation**: [[Mula-Khuddaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 **Related Texts**: [[udana_att|Commentary (Atthakathā)]]
 **Mātikā**: [[three_marks|Three Marks of Existence]], [[dependent_origination|Dependent Origination]], [[five_precepts|Five Precepts]], [[eight_precepts|Eight Precepts]], [[five_spiritual_faculties|Five Spiritual Faculties]]
 

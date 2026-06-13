@@ -17,7 +17,7 @@ source_notes: "https://suttacentral.net"
 
 # Commentary on Dīgha Nikāya: Mahānidānasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn15|Mahānidānasutta — The Great Discourse on Causation]]
 **Tīkā**: [[dn15_tik|Mahānidānasuttavaṇṇanātīkā (sub-commentary)]]
 

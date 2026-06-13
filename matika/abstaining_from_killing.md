@@ -7,7 +7,7 @@ category: factor_note
 
 # Abstaining from Killing (Pāṇātipātā veramaṇī)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_precepts|Five Precepts]] / [[eight_precepts|Eight Precepts]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_precepts|Five Precepts]] / [[eight_precepts|Eight Precepts]]
 
 ---
 

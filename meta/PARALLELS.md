@@ -6,7 +6,7 @@ type: meta
 
 # Parallel-Texts Layer: Doctrinal Concordance
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[meta/STATUS|Vault Status]]
+**Navigation**: [[Texts-Index|Pali Canon Vault]] / [[meta/STATUS|Vault Status]]
 
 > [!abstract] Concordance Overview
 > The **Parallel-Texts Layer** maps suttas in this vault to their corresponding versions in other transmission lineages (Chinese Āgamas, Sanskrit fragments, Tibetan translations, and other Pali Nikāyas) using SuttaCentral parallel identifiers. This cross-linking exposes the common sectarian core of Early Buddhist Texts (EBTs).

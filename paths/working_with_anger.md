@@ -12,7 +12,7 @@ tags:
 
 # Working with Anger and Ill Will
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[paths/INDEX|Reading Paths]]
+**Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]
 > Ill will (*vyāpāda*) — from irritation to full rage — is one of the five hindrances and one of the three unwholesome roots. The canon approaches it on three levels: **recognition** (seeing it arise without being swept away), **removal** (methods for releasing it when it has arisen), and **transformation** (cultivating loving-kindness and compassion as the mind's natural alternative). This path moves through all three.

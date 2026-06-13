@@ -7,7 +7,7 @@ category: factor_note
 
 # Appreciative / Sympathetic Joy (Muditā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_sublime_states|Four Sublime States]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_sublime_states|Four Sublime States]]
 
 ---
 

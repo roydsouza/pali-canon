@@ -7,7 +7,7 @@ category: list_note
 
 # Five Hindrances (Pañca Nīvaraṇāni)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List
 

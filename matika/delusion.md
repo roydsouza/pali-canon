@@ -7,7 +7,7 @@ category: factor_note
 
 # Delusion / Ignorance (Moha)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ---
 

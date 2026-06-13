@@ -6,7 +6,7 @@ type: practice
 
 # Ānāpānasati (Mindfulness of Breathing)
 
-**Navigation**: [[../INDEX|Pali Canon Vault Index]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---
 

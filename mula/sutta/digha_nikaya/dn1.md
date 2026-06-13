@@ -26,7 +26,7 @@ parallels:
 ---
 # Dīgha Nikāya 1: Brahmajālasutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
 **Related Texts**: [[dn1_att|Commentary (Atthakathā)]] | [[dn1_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[three_marks|Three Marks]] · [[dependent_origination|Dependent Origination]]
 

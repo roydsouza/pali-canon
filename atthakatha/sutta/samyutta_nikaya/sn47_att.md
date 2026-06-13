@@ -15,7 +15,7 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 # Commentary on Saṃyutta Nikāya: Satipaṭṭhānasaṃyutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn47|Satipaṭṭhānasaṃyutta — Linked Discourses on the Foundations of Mindfulness]]
 **Tīkā**: [[sn47_tik|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

@@ -7,7 +7,7 @@ category: factor_note
 
 # Form / Matter (Rūpa)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_aggregates|Five Aggregates]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]]
 
 ---
 

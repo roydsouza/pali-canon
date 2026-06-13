@@ -7,7 +7,7 @@ category: factor_note
 
 # Feeling / Sensation (Vedanā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---
 

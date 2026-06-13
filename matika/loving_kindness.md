@@ -7,7 +7,7 @@ category: factor_note
 
 # Loving-kindness (Mettā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
 
 ---
 

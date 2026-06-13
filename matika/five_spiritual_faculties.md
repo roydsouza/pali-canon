@@ -7,7 +7,7 @@ category: list_note
 
 # Five Spiritual Faculties (Pañcindriya)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 These five qualities are also referred to as the Five Powers (*Pañcabala*) when developed to a degree where they are unshakable.
 

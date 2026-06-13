@@ -16,7 +16,7 @@ source_notes: "https://suttacentral.net"
 
 # Commentary on Aṅguttara Nikāya: Samādhibhāvanāsutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an4_41|Samādhibhāvanāsutta — Four Developments of Immersion]]
 
 *Manorathapūraṇī (Aṅguttara Nikāya Atthakathā)*

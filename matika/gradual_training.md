@@ -7,7 +7,7 @@ category: list_note
 
 # Gradual Training (Anupubbasikkhā)
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[matika/INDEX|Mātika]]
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The Lay Progression (Upāsakānupubba)
 

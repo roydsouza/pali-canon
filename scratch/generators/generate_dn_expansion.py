@@ -189,7 +189,7 @@ def generate_mula(s, data):
     en_title = s["en_title"]
     num = s["num"]
     
-    nav_link = "[[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]"
+    nav_link = "[[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]"
     att_slug = f"{slug}_att"
     tik_slug = f"{slug}_tik"
     
@@ -210,8 +210,8 @@ def generate_mula(s, data):
         "",
         f"# Dīgha Nikāya {num}: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / {nav_link}",
         f"**Related Texts**: [[{att_slug}|Commentary (Atthakathā)]] | "
         f"[[{tik_slug}|Sub-commentary (Tīkā)]]",
         "",
@@ -250,7 +250,7 @@ def build_att_file(s, pali_body):
     en_title = s["en_title"]
     commentary_name = s["commentary_name"]
     
-    nav_link  = "[[atthakatha/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]"
+    nav_link  = "[[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]"
     mula_link = f"[[{slug}|{pali_title} — {en_title}]]"
     tik_link  = f"[[{slug}_tik|{pali_title}vaṇṇanātīkā (sub-commentary)]]"
     
@@ -271,8 +271,8 @@ def build_att_file(s, pali_body):
         "",
         f"# Commentary on Dīgha Nikāya: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / "
-        f"[[atthakatha/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / "
+        f"[[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Tīkā**: {tik_link}",
         "",
@@ -294,7 +294,7 @@ def build_tik_file(s, pali_body):
     en_title = s["en_title"]
     sub_commentary_name = s["sub_commentary_name"]
     
-    nav_link  = "[[tika/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]"
+    nav_link  = "[[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]"
     mula_link = f"[[{slug}|{pali_title} — {en_title}]]"
     att_link  = f"[[{slug}_att|{pali_title}vaṇṇanā (atthakathā)]]"
     
@@ -315,8 +315,8 @@ def build_tik_file(s, pali_body):
         "",
         f"# Sub-commentary on Dīgha Nikāya: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Ṭīkā]] / "
-        f"[[tika/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / "
+        f"[[tika/sutta/Tika-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_link}",
         f"**Atthakathā**: {att_link}",
         "",
@@ -331,7 +331,7 @@ def build_tik_file(s, pali_body):
     return header + "\n" + pali_body
 
 def update_index_file(layer, slug, sutta_code, pali_title, wc):
-    idx_path = os.path.join(VAULT, layer, "sutta/digha_nikaya/INDEX.md")
+    idx_path = os.path.join(VAULT, layer, "sutta/digha_nikaya", {"mula": "Mula-Digha-Index.md", "atthakatha": "Atthakatha-Digha-Index.md", "tika": "Tika-Digha-Index.md"}[layer])
     with open(idx_path, encoding="utf-8") as f:
         content = f.read()
     if slug in content:

@@ -7,7 +7,7 @@ category: factor_note
 
 # Contemplation of the Body (Kāyānupassanā)
 
-**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
+**Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---
 

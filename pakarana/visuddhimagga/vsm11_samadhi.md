@@ -12,7 +12,7 @@ tags:
 
 # Vsm Chapter XI — Samādhikathā
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel
 > This chapter gives the most precise classical definition of the four jhānas and their factors. The canonical treatment of the jhānas is found in [[dn2|DN 2]], [[mn36|MN 36]], [[an9_36|AN 9.36]], and [[mn111|MN 111]]. Read alongside [[tutorial/02_satipatthana_as_map|Tutorial 2]] and the [[paths/entering_jhana_path|Entering Jhāna path]].

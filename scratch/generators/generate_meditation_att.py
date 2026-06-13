@@ -233,8 +233,8 @@ def build_att_file(sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title,
         "",
         f"# Commentary on {nikaya_label}: {pali_title}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / "
-        f"[[atthakatha/sutta/INDEX|Sutta]] / {nav_link}",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / "
+        f"[[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / {nav_link}",
         f"**Mūla**: {mula_slug_link}",
         "",
         f"*{commentary_name}*",

@@ -62,7 +62,7 @@ nikaya: digha
 
 # Dīgha Nikāya — Mūla
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range of topics including cosmology, ethics, meditation, and the gradual training.
 
@@ -80,7 +80,7 @@ nikaya: anguttara
 
 # Aṅguttara Nikāya — Mūla
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical lists, from ones to elevens.
 
@@ -152,8 +152,8 @@ def generate_sutta(sc_id, nikaya_dir, slug, num, pali_title, en_title,
         "",
         f"# {nikaya_label} {num}: {pali_title}",
         "",
-        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / "
-        f"[[mula/sutta/INDEX|Sutta]] / {nav_link}",
+        "**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / "
+        f"[[mula/sutta/Mula-Sutta-Index|Sutta]] / {nav_link}",
         "",
         f"## {pali_title}",
         f"*{en_title}*",
@@ -190,7 +190,7 @@ def ensure_nikaya_dirs(nikaya_dir):
     for layer in ("mula", "atthakatha", "tika"):
         path = os.path.join(VAULT, layer, "sutta", nikaya_dir)
         os.makedirs(path, exist_ok=True)
-        idx = os.path.join(path, "INDEX.md")
+        idx = os.path.join(path, {"digha_nikaya": "Mula-Digha-Index.md", "majjhima_nikaya": "Mula-Majjhima-Index.md", "samyutta_nikaya": "Mula-Samyutta-Index.md", "anguttara_nikaya": "Mula-Anguttara-Index.md", "khuddaka_nikaya": "Mula-Khuddaka-Index.md"}[nikaya_dir])
         if not os.path.exists(idx):
             if layer == "mula" and nikaya_dir in INDEX_TEMPLATES:
                 with open(idx, "w", encoding="utf-8") as f:
@@ -214,7 +214,7 @@ def ensure_nikaya_dirs(nikaya_dir):
 
 def update_mula_sutta_index(results_by_nikaya):
     """Append new sutta entries to mula/sutta/INDEX.md."""
-    idx_path = os.path.join(VAULT, "mula/sutta/INDEX.md")
+    idx_path = os.path.join(VAULT, "mula/sutta/Mula-Sutta-Index.md")
     if not os.path.exists(idx_path):
         return
     with open(idx_path, encoding="utf-8") as f:

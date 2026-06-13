@@ -12,7 +12,7 @@ tags:
 
 # Vsm Chapter III — Kammaṭṭhānagahaṇaniddesā
 
-**Navigation**: [[INDEX|Vault Home]] / [[pakarana/INDEX|Pakaraṇa]] / [[pakarana/visuddhimagga/INDEX|Visuddhimagga]]
+**Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel
 > The gradual training formula — finding a teacher, taking up a meditation subject, going to a quiet place — is the narrative frame of [[dn2|DN 2]] and is repeated throughout the MN, notably in [[mn27|MN 27]] and [[mn51|MN 51]]. Chapter III gives the detailed technical exposition that underpins those canonical descriptions. Read alongside [[paths/gradual_training_path|the Gradual Training path]].
