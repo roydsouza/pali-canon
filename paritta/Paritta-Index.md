@@ -3,9 +3,9 @@ id: paritta_index
 type: index
 title: "Paritta: Canonical Protection Chant Collection"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Paritta Collection (Protective Chanting)
-
 **Navigation**: [[Paritta-Index|Pali Canon Vault]]
 
 > [!NOTE]

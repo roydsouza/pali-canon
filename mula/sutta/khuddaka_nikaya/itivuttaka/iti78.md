@@ -22,9 +22,11 @@ parallels:
   - 'Thag 3.16 (thag3.16) · Pali · Vimalattheragāthā'
   - 'Mil 7.7.4 (mil7.7.4) · Pali · Pavanaṅgapañha'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti78_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

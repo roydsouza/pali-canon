@@ -4,9 +4,9 @@ title_pali: Buddha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # The Buddha (Buddha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_refuges|Three Refuges]]
 
 ---

@@ -15,11 +15,13 @@ covers:
   - mula/sutta/anguttara_nikaya/an11_4.md
   - mula/sutta/anguttara_nikaya/an11_5.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya: Upanisa Suttas
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 11.3–5*
 
-**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an11_3]], [[an11_4]], [[an11_5]]
 **Tīkā**: [[an11_2_5_tik|Sub-commentary (Tīkā)]]
 

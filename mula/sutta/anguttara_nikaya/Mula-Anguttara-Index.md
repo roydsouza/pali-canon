@@ -8,9 +8,9 @@ sutta_number: INDEX
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Aṅguttara Nikāya — Mūla
-
 **Navigation**: [[Mula-Anguttara-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical lists, from ones to elevens.

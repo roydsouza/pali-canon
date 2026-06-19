@@ -13,10 +13,11 @@ layer: tika
 att_file: [[dn21_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Dīgha Nikāya: Sakkapañhasutta
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn21|Sakkapañhasutta — Sakka’s Questions]]
 **Atthakathā**: [[dn21_att|Sakkapañhasuttavaṇṇanā (atthakathā)]]
 

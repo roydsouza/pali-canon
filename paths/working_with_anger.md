@@ -9,9 +9,9 @@ tags:
   - hindrances
   - path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Working with Anger and Ill Will
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

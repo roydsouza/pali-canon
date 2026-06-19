@@ -12,10 +12,11 @@ samyutta: sn54
 att_file: [[sn54_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Saṃyutta Nikāya: Ānāpānasaṃyutta
-
 **Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn54|Ānāpānasaṃyutta — Linked Discourses on Mindfulness of Breathing]]
 **Atthakathā**: [[sn54_att|Ānāpānasaṃyuttavaṇṇanā (Atthakathā)]]
 

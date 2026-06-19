@@ -15,10 +15,11 @@ tags:
   - tika
   - path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya: Itivuttaka
-
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti74_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

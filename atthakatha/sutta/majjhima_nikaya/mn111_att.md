@@ -14,10 +14,11 @@ att_file: [[mn111_att]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya: Anupadasutta
-
 **Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn111|Anupadasutta — One by One]]
 **Tīkā**: [[mn111_tik|Anupadasuttavaṇṇanātīkā (sub-commentary)]]
 

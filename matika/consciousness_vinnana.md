@@ -4,9 +4,9 @@ title_pali: Viññāṇa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Consciousness / Awareness (Viññāṇa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]]
 
 ---

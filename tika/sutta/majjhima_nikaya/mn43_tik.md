@@ -13,10 +13,11 @@ layer: tika
 att_file: [[mn43_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya: Mahāvedallasutta
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn43|Mahāvedallasutta — The Longer Analysis]]
 **Atthakathā**: [[mn43_att|Mahāvedallasuttavaṇṇanā (atthakathā)]]
 

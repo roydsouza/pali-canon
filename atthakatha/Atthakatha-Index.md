@@ -1,5 +1,6 @@
-# Atthakathā (Commentaries) Index
+🏠 [[INDEX|Dashboard]]
 
+# Atthakathā (Commentaries) Index
 **Navigation**: [[Atthakatha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]]
 
 This directory contains traditional commentaries (Atthakathā) explaining the root Pali Canonical texts.

@@ -4,9 +4,9 @@ title_pali: Maggāmaggañāṇadassana-visuddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Purification by Knowledge & Vision of Path (Maggāmaggañāṇadassana-visuddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---

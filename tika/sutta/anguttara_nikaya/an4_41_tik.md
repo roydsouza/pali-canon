@@ -13,10 +13,11 @@ layer: tika
 att_file: [[an4_41_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: Samādhibhāvanāsutta
-
 **Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 **Mūla**: [[an4_41|Samādhibhāvanāsutta — Four Developments of Immersion]]
 **Atthakathā**: [[an4_41_att|Samādhibhāvanāsuttavaṇṇanā (atthakathā)]]
 

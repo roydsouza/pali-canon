@@ -13,9 +13,9 @@ verse_range: 76–89
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 6: Paṇḍitavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Paṇḍitavagga — The Wise

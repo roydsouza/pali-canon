@@ -11,11 +11,13 @@ title_en: Commentary on Pañcaṅgikasutta (With Five Factors)
 tika_file: [[an5_28_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya: Pañcaṅgikasutta
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 5.28 — With Five Factors*
 
-**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an5_28|Pañcaṅgikasutta — With Five Factors]]
 **Tīkā**: [[an5_28_tik|Pañcaṅgikasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

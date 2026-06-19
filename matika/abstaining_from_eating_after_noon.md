@@ -4,9 +4,9 @@ title_pali: Vikālabhojanā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from Eating After Noon (Vikālabhojanā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[eight_precepts|Eight Precepts]]
 
 ---

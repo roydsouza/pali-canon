@@ -15,10 +15,11 @@ tags:
   - body_contemplation
   - four_foundations_of_mindfulness
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya: Itivuttaka
-
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti85_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]]
 

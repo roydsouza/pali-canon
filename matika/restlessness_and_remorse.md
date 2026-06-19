@@ -4,9 +4,9 @@ title_pali: Uddhacca-kukkucca
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Restlessness and Remorse (Uddhacca-kukkucca)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]] / [[ten_fetters|Ten Fetters]]
 
 ---

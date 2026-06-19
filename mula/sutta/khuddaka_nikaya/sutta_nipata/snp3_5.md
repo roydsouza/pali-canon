@@ -15,10 +15,11 @@ tags:
   - going_forth
   - path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya: Sutta Nipāta
-
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp3_5_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

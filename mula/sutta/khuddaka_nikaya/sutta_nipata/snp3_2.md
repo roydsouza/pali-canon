@@ -18,9 +18,11 @@ parallels:
   - 'San Lo Mvu 55 (san-lo-mvu55) · SAN · The Temptation by Māra'
   - 'Lal 18 (lal18) · SAN · Nairañjanāparivartaḥ'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp3_2_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

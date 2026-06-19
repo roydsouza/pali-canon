@@ -13,10 +13,11 @@ layer: tika
 att_file: [[mn121_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya: Cūḷasuññatasutta
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn121|Cūḷasuññatasutta — The Shorter Discourse on Emptiness]]
 **Atthakathā**: [[mn121_att|Cūḷasuññatasuttavaṇṇanā (atthakathā)]]
 

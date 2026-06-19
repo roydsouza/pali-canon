@@ -18,9 +18,11 @@ parallels:
   - 'SN 36.5 (sn36.5) · Pali · Daṭṭhabbasutta'
   - 'Thag 17.2 (thag17.2) · Pali · Sāriputtattheragāthā'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti53_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_aggregates|Five Aggregates]] | [[three_marks|Three Marks]]
 

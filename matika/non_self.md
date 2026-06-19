@@ -4,9 +4,9 @@ title_pali: Anattā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Non-self / Egolessness (Anattā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_marks|Three Marks]]
 
 ---

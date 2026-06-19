@@ -11,11 +11,13 @@ title_en: Commentary on Ānisaṃsasuttāni (Benefits (AN 10.2–6))
 tika_file: [[an10_2_6_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya: Ānisaṃsasuttāni
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 10.2–6 — Benefits (AN 10.2–6)*
 
-**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an10_2_6|Ānisaṃsasuttāni — Benefits (AN 10.2–6)]]
 **Tīkā**: [[an10_2_6_tik|Ānisaṃsasuttānivaṇṇanāṭīkā (Sub-commentary)]]
 

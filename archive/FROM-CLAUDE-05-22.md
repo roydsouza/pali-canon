@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # FROM-CLAUDE: Errors, Omissions & Improvements
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > FROM-CLAUDE: Errors, Omissions & Improvements
 
 *Quality-review notes from Claude Sonnet 4.6, 2026-05-22.*
 *Covers the AntiGravity session ending with commit 9071cdd.*

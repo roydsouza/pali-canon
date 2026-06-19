@@ -4,9 +4,9 @@ title_pali: Nekkhamma
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Renunciation (Nekkhamma)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

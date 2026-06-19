@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[an9_34_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya: Nibbānasukhasutta
+**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 9.34 — Extinguishment is Bliss*
 
-**Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an9_34|AN 9.34 — Nibbānasukhasutta]]
 **Tīkā**: [[an9_34_tik|Nibbānasukhasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

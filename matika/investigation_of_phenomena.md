@@ -4,9 +4,9 @@ title_pali: Dhammavicaya
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Investigation of Phenomena (Dhammavicaya)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]]
 
 ---

@@ -3,9 +3,9 @@ id: kosambi
 name: Kosambī
 type: place
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Kosambī
-
 **Navigation**: [[Places-Index|Pali Canon Vault]] / [[places/Places-Index|Places]]
 
 **Kosambī** (Sanskrit: *Kauśāmbī*) was the capital of the Vatsa (Vaṃsa) kingdom, situated on the banks of the Yamunā river, ruled by King Udena. It was an important commercial hub.

@@ -1,5 +1,6 @@
-# Sutta Commentaries Index
+🏠 [[INDEX|Dashboard]]
 
+# Sutta Commentaries Index
 **Navigation**: [[Atthakatha-Sutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]]
 
 This directory contains commentaries on the Sutta Piṭaka.

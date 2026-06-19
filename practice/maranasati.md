@@ -3,9 +3,9 @@ id: maranasati
 title: Maraṇasati (Mindfulness of Death)
 type: practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Maraṇasati (Mindfulness of Death)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---

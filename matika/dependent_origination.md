@@ -4,9 +4,9 @@ title_pali: Paṭiccasamuppāda
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dependent Origination (Paṭiccasamuppāda)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

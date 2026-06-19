@@ -9,9 +9,9 @@ tags:
   - samadhi
   - vipassana
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Visuddhimagga — Path of Purification
-
 **Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]]
 
 > [!NOTE]

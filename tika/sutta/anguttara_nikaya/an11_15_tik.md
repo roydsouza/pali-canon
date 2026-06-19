@@ -13,11 +13,13 @@ layer: tika
 att_file: [[an11_15_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: Mettāsutta
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 11.15 — The Benefits of Love*
 
-**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an11_15|AN 11.15 — Mettāsutta]]
 **Atthakathā**: [[an11_15_att|Mettāsuttavaṇṇanā (Commentary)]]
 

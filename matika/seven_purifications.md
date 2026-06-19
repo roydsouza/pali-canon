@@ -4,9 +4,9 @@ title_pali: Satta Visuddhi
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Seven Purifications (Satta Visuddhi)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 The Seven Purifications (*satta visuddhi*) describe the stage-by-stage progression of ethical and mental purification that leads to the eradication of defilements and final liberation (Arahantship). They serve as the structural framework for the classical Theravada commentarial text, the *Visuddhimagga* (The Path of Purification).

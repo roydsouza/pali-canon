@@ -8,10 +8,11 @@ sutta_number: an7.65
 mula_file: [[an7_65]]
 tika_file: [[an7_65_tik]]
 ---
+🏠 [[INDEX|Dashboard]]
 
 # 1. Hiriottappasuttavaṇṇanā
-
 **Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 **Mūla**: [[an7_65]]
 **Tīkā**: [[an7_65_tik]]
 
@@ -26,5 +27,5 @@ tika_file: [[an7_65_tik]]
 
 
 > [!abstract]- Tīkā §65
-> [[an7_65_tik#§65|Sub-commentary §65]]
+> [[an7_65_tik#§65-66|Sub-commentary §65]]
 

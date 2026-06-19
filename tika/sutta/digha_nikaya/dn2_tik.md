@@ -13,10 +13,11 @@ layer: tika
 att_file: [[dn2_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Dīgha Nikāya: Sāmaññaphalasutta
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn2|Sāmaññaphalasutta — The Fruits of the Ascetic Life]]
 **Atthakathā**: [[dn2_att|Sāmaññaphalasuttavaṇṇanā (atthakathā)]]
 

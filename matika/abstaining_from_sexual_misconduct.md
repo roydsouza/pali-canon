@@ -4,9 +4,9 @@ title_pali: Kāmesumicchācārā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from Sexual Misconduct (Kāmesumicchācārā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_precepts|Five Precepts]]
 
 ---

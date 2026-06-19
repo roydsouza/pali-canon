@@ -4,9 +4,9 @@ title_pali: Kāyānupassanā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Contemplation of the Body (Kāyānupassanā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---

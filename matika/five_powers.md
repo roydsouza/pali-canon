@@ -4,9 +4,9 @@ title_pali: Pañcabala
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Five Powers (Pañcabala)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 The Five Powers (*pañcabala*) are spiritual qualities that correspond exactly in name to the Five Spiritual Faculties (*pañcindriya*). They are called "powers" because they have been developed to a degree where they are established and cannot be overthrown by their opposite unwholesome states.

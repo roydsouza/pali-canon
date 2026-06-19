@@ -3,9 +3,9 @@ id: metta
 title: Mettā (Loving-Kindness Meditation)
 type: practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Mettā (Loving-Kindness Meditation)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---

@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[sn36_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Saṃyutta Nikāya: Vedanāsaṃyutta
+**Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
+
 *SN 36 — Linked Discourses on Feeling*
 
-**Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn36|SN 36 — Vedanāsaṃyutta]]
 **Tīkā**: [[sn36_tik|Vedanāsaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

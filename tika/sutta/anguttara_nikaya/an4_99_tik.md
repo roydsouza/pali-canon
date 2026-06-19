@@ -13,11 +13,13 @@ layer: tika
 att_file: [[an4_99_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: Sikkhāpadasutta
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 4.99 — Training Rules*
 
-**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an4_99|AN 4.99 — Sikkhāpadasutta]]
 **Atthakathā**: [[an4_99_att|Sikkhāpadasuttavaṇṇanā (Commentary)]]
 

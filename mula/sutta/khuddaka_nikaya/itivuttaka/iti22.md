@@ -18,9 +18,11 @@ parallels:
   - 'AN 7.62 (an7.62) · Pali · Mettasutta'
   - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti22_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[four_sublime_states|Four Sublime States]]
 

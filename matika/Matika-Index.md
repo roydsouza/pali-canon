@@ -1,6 +1,7 @@
-# Mātika (Buddhist Lists Index)
+🏠 [[INDEX|Dashboard]]
 
-**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
+# Mātika (Buddhist Lists Index)
+*Back to [[Matika-Index|Vault Home]]*
 
 This directory contains systematic registers of Buddhist lists (*mātika*) compiled from the Pali Canon. Each list is stored in a dedicated file with Romanized Pali and item-by-item English translations, fully cross-referenced. Each list also has individual **factor detail files** with canonical definitions, practice descriptions, and sutta links.
 
@@ -47,4 +48,3 @@ SORT file.name ASC
 ```
 
 ---
-*Back to [[Matika-Index|Vault Home]]*

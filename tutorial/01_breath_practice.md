@@ -8,9 +8,9 @@ tags:
   - breath
   - meditation
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 1: Sitting with the Ānāpānasati Sutta
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]]
 
 > [!NOTE]

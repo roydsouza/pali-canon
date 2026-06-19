@@ -4,9 +4,9 @@ title_pali: Upekkhā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Equanimity (Upekkhā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
 
 ---

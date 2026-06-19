@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[mn7_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya: Vatthasutta
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 *MN 7 — The Simile of the Cloth*
 
-**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn7|MN 7 — Vatthasutta]]
 **Tīkā**: [[mn7_tik|Vatthasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

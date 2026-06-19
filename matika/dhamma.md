@@ -4,9 +4,9 @@ title_pali: Dhamma
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # The Dhamma (Dhamma)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_refuges|Three Refuges]]
 
 ---

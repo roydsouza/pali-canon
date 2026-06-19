@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[mn8_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya: Sallekhasutta
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 *MN 8 — Self-Effacement*
 
-**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn8|MN 8 — Sallekhasutta]]
 **Tīkā**: [[mn8_tik|Sallekhasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

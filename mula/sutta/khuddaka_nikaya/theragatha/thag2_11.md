@@ -19,9 +19,11 @@ parallels:
   - 'SN 6.13 (sn6.13) · Pali · Andhakavindasutta'
   - 'Mil 7.6.3 (mil7.6.3) · Pali · Peṇāhikaṅgapañha'
 ---
-# Khuddaka Nikāya: Theragāthā
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Theragāthā
 **Navigation**: [[Mula-Theragatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā]]
+
 **Related Texts**: (No Commentary or Ṭīkā migrated)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
 

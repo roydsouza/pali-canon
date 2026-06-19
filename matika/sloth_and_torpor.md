@@ -4,9 +4,9 @@ title_pali: Thīna-middha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sloth and Torpor (Thīna-middha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]]
 
 ---

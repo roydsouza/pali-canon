@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Pali Canon Vault Index
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Canon Vault Index
 
 <div class="db-header">
   <h1>Obsidian Pali Canon Vault</h1>

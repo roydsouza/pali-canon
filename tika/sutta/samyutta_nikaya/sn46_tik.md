@@ -12,10 +12,11 @@ samyutta: sn46
 att_file: [[sn46_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Saṃyutta Nikāya: Bojjhaṅgasaṃyutta
-
 **Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn46|Bojjhaṅgasaṃyutta — Linked Discourses on the Awakening Factors]]
 **Atthakathā**: [[sn46_att|Bojjhaṅgasaṃyuttavaṇṇanā (Atthakathā)]]
 

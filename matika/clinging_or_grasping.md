@@ -4,9 +4,9 @@ title_pali: Upādāna
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Clinging / Grasping (Upādāna)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

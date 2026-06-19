@@ -3,9 +3,9 @@ id: jhana
 title: Jhāna (Meditative Absorption)
 type: practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Jhāna (Meditative Absorption)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---

@@ -9,10 +9,11 @@ tags:
   - chanting
   - pali_only
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khandhaparitta (Ahirājasutta) — Pali Recitation
-
 **Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
+
 **Source Discourse**: [[an4_67|AN 4.67]]
 
 ---

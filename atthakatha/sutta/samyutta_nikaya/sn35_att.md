@@ -12,10 +12,11 @@ samyutta: sn35
 tika_file: [[sn35_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Saṃyutta Nikāya: Saḷāyatanasaṃyutta
-
 **Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn35|Saḷāyatanasaṃyutta — Linked Discourses on the Six Sense Bases]]
 **Tīkā**: [[sn35_tik|Saḷāyatanasaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

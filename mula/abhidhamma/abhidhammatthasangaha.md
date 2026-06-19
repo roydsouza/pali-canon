@@ -8,9 +8,9 @@ nikaya: None
 sutta_number: abhidhammatthasangaha
 layer: mula
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abhidhammatthasaṅgaha (A Comprehensive Manual of Abhidhamma)
-
 **Navigation**: [[Mula-Abhidhamma-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/abhidhamma/Mula-Abhidhamma-Index|Abhidhamma Piṭaka]]
 
 *Written by Ācariya Anuruddha (circa 11th–12th century).*

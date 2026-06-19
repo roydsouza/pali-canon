@@ -13,9 +13,9 @@ verse_range: 320–333
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 23: Nāgavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Nāgavagga — The Elephant

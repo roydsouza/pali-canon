@@ -18,9 +18,11 @@ tags:
 parallels:
   - 'G3-Dhp 11–20 (g3dhp11-20) · Gandhari · Gāndhārī 3rd Dharmapada Verses 11–20'
 ---
-# Khuddaka Nikāya: Theragāthā
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Theragāthā
 **Navigation**: [[Mula-Theragatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā]]
+
 **Related Texts**: (No Commentary or Ṭīkā migrated)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
 

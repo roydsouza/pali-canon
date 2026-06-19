@@ -9,9 +9,9 @@ commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 subcollection: sutta_nipata
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sutta Nipāta — Mūla
-
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Sutta Nipāta ("Anthology of Discourses") is a collection of early, highly poetic Buddhist discourses.

@@ -13,10 +13,11 @@ layer: tika
 att_file: [[dn15_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Dīgha Nikāya: Mahānidānasutta
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn15|Mahānidānasutta — The Great Discourse on Causation]]
 **Atthakathā**: [[dn15_att|Mahānidānasuttavaṇṇanā (atthakathā)]]
 

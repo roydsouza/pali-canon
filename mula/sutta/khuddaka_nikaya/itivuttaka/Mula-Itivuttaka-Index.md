@@ -9,9 +9,9 @@ commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 subcollection: itivuttaka
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Itivuttaka — Mūla
-
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Itivuttaka ("As It Was Said") is a collection of 112 short discourses, organized by numerical group. Each sutta features a prose discourse followed by a summarizing verse.

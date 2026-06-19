@@ -4,9 +4,9 @@ title_pali: Dasa Saṃyojanā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ten Fetters (Dasa Saṃyojanā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 The Ten Fetters (*dasa saṃyojanā*) are the mental bonds that bind sentient beings to saṃsāra (the cycle of birth, aging, and death). They are systematically severed as a practitioner progresses through the four stages of awakening.

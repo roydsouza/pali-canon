@@ -10,9 +10,9 @@ tags:
   - samadhi
   - meditation-subject
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vsm Chapters IV–VII — Kasiṇas, Foulness, and Recollections
-
 **Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallels

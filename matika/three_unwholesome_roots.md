@@ -4,9 +4,9 @@ title_pali: Akusalamūla
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Three Unwholesome Roots (Akusalamūla)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 Also known as the Three Poisons or Fires that drive the cycle of existence.

@@ -16,9 +16,11 @@ tags:
 parallels:
   - 'SF 199 (sf199) · SAN · Ekottarikāgama 14'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti15_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[ten_fetters|Ten Fetters]]
 

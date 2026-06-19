@@ -4,9 +4,9 @@ title_pali: Cattāro Brahmavihārā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Four Sublime States (Cattāro Brahmavihārā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 Also known as the Four Divine Abodes or Immeasurables.

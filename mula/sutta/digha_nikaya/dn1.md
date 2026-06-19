@@ -24,9 +24,11 @@ parallels:
   - 'SN 41.3 (sn41.3) · Pali · Dutiyaisidattasutta'
   - 'Vb 17 (vb17) · Pali · Khuddakavatthuvibhaṅga'
 ---
-# Dīgha Nikāya 1: Brahmajālasutta
+🏠 [[INDEX|Dashboard]]
 
+# Dīgha Nikāya 1: Brahmajālasutta
 **Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
+
 **Related Texts**: [[dn1_att|Commentary (Atthakathā)]] | [[dn1_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[three_marks|Three Marks]] · [[dependent_origination|Dependent Origination]]
 

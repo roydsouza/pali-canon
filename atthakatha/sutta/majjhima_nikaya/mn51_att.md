@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[mn51_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya: Kandarakasutta
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 *MN 51 — With Kandaraka*
 
-**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn51|MN 51 — Kandarakasutta]]
 **Tīkā**: [[mn51_tik|Kandarakasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

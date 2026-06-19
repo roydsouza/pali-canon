@@ -1,5 +1,6 @@
-# Mūla (Canonical Texts) Index
+🏠 [[INDEX|Dashboard]]
 
+# Mūla (Canonical Texts) Index
 **Navigation**: [[Mula-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]]
 
 This directory contains the root Pali Canonical texts (Tipiṭaka). The structure follows the traditional classification of Pitakas and Nikayas.

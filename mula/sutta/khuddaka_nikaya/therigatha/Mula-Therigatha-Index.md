@@ -9,9 +9,9 @@ commentary_file: /atthakatha/sutta/khuddaka_nikaya/therigatha/INDEX.md
 sub_commentary_file: (No Ṭīkā available)
 subcollection: therigatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Therīgāthā — Mūla
-
 **Navigation**: [[Mula-Therigatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Therīgāthā ("Verses of the Senior Nuns") is a collection of verses attributed to the senior nuns of the early Buddhist Sangha, recording their struggles, realizations, and attainment of liberation.

@@ -13,11 +13,13 @@ layer: atthakatha
 tika_file: [[mn128_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya: Upakkilesasutta
+**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 *MN 128 — Corruptions*
 
-**Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn128|MN 128 — Upakkilesasutta]]
 **Tīkā**: [[mn128_tik|Upakkilesasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

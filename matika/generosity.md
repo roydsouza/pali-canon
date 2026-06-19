@@ -4,9 +4,9 @@ title_pali: Dāna
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Generosity (Dāna)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

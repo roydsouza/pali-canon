@@ -4,9 +4,9 @@ title_pali: Anicca
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Impermanence / Inconstancy (Anicca)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_marks|Three Marks]]
 
 ---

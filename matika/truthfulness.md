@@ -4,9 +4,9 @@ title_pali: Sacca
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Truthfulness (Sacca)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

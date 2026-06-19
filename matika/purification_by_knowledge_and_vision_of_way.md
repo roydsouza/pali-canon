@@ -4,9 +4,9 @@ title_pali: Paṭipadāñāṇadassana-visuddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Purification by Knowledge & Vision of Way (Paṭipadāñāṇadassana-visuddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---

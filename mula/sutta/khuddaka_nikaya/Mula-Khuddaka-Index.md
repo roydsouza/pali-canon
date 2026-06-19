@@ -8,9 +8,9 @@ sutta_number: INDEX
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya — Mūla
-
 **Navigation**: [[Mula-Khuddaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 The Khuddaka Nikāya ("Collection of Minor Works") is the fifth and largest nikāya of the Sutta Piṭaka, comprising 18 books.

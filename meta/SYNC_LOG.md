@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Sync Log
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Sync Log
 
 ## [2026-06-03 08:00:00-07:00 — Phase 20A: Visuddhimagga Samādhi Arc (Claude Sonnet 4.6)]
 

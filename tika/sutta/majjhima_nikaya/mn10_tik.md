@@ -13,10 +13,11 @@ layer: tika
 att_file: [[mn10_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya: Satipaṭṭhānasutta
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn10|Satipaṭṭhānasutta — Mindfulness Meditation]]
 **Atthakathā**: [[mn10_att|Satipaṭṭhānasuttavaṇṇanā (atthakathā)]]
 

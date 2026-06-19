@@ -6,9 +6,9 @@ tags:
   - pakarana
   - treatise
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Pakaraṇa — Post-Canonical Treatises
-
 **Navigation**: [[Pakarana-Index|Vault Home]]
 
 > [!NOTE]

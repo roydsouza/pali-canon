@@ -10,10 +10,11 @@ title_en: Commentary on the Anonymous Nun's Verse
 subcollection: therigatha
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Khuddaka Nikāya: Therīgāthā
-
 **Navigation**: [[Atthakatha-Therigatha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/therigatha/Atthakatha-Therigatha-Index|Therīgāthā]]
+
 **Mūla**: [[thig1_1|THIG1.1: Aññatarātherīgāthā]]
 **Tīkā**: (No Ṭīkā available)
 

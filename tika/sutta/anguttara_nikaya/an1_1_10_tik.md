@@ -13,11 +13,13 @@ layer: tika
 att_file: [[an1_1_10_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: 1. Rūpādivagga
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 1.1–10 — The Chapter on What Occupies the Mind*
 
-**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an1_1_10|AN 1.1–10 — 1. Rūpādivagga]]
 **Atthakathā**: [[an1_1_10_att|1. Rūpādivaggavaṇṇanā (Commentary)]]
 

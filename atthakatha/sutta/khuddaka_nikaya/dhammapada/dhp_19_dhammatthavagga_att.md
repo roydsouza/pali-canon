@@ -13,10 +13,11 @@ verse_range: 256–272
 translator: Bhante Ānandajoti (revised Burlingame)
 source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada Commentary — Chapter 19: Dhammaṭṭhavagga
-
 **Navigation**: [[Atthakatha-Dhammapada-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/dhammapada/Atthakatha-Dhammapada-Index|Dhammapada]]
+
 **Mūla**: [[dhp_19_dhammatthavagga|Dhammaṭṭhavagga — The Just]]
 
 ## Dhammaṭṭhavaggavaṇṇanā — The Just

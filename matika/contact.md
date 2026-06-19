@@ -4,9 +4,9 @@ title_pali: Phassa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Contact / Sensory Impingement (Phassa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

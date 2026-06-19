@@ -10,9 +10,9 @@ sub_commentary_file: /tika/abhidhamma/INDEX.md
 text: dhammapada
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Atthakathā (Commentary)
-
 **Navigation**: [[Atthakatha-Dhammapada-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
 
 Commentary (Dhammapada-aṭṭhakathā) in English. Translation by Bhante Ānandajoti (revised edition of Burlingame's *Buddhist Legends*, 1921).

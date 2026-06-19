@@ -9,9 +9,9 @@ tags:
   - vocabulary
   - graded-reader
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 5: Reading Pali in This Vault
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/04_matika_web|Tutorial 4]]
 
 > [!NOTE]

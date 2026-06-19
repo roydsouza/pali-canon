@@ -20,9 +20,11 @@ parallels:
   - 'SA2 268 (sa-2.268) · Chinese · 旃陀羅'
   - 'SA 102 (sa102) · Chinese · 旃陀羅'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp1_7_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_precepts|Five Precepts]]
 

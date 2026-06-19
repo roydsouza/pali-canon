@@ -10,10 +10,11 @@ title_en: Commentary on Before the Breakup
 subcollection: sutta_nipata
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta
-
 **Navigation**: [[Atthakatha-Sutta-Nipata-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/sutta_nipata/Atthakatha-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Mūla**: [[snp4_10|SNP4.10: Purābhedasutta]]
 **Tīkā**: (No Ṭīkā available)
 

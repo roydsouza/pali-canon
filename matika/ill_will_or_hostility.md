@@ -4,9 +4,9 @@ title_pali: Vyāpāda / Paṭigha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ill Will / Hostility (Vyāpāda / Paṭigha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]] / [[ten_fetters|Ten Fetters]]
 
 ---

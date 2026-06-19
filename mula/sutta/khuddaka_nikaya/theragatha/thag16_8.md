@@ -27,9 +27,11 @@ parallels:
   - 'UVS 16 (uvs16) · SAN · Prakīrṇakavarga'
   - 'Thag 10.3 (thag10.3) · Pali · Mahākappinattheragāthā'
 ---
-# Khuddaka Nikāya: Theragāthā
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Theragāthā
 **Navigation**: [[Mula-Theragatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā]]
+
 **Related Texts**: (No Commentary or Ṭīkā migrated)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
 

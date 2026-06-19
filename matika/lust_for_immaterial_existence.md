@@ -4,9 +4,9 @@ title_pali: Arūparāga
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Lust for Immaterial Existence (Arūparāga)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---

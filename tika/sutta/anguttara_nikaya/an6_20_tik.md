@@ -13,11 +13,13 @@ layer: tika
 att_file: [[an6_20_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: Dutiyamaraṇassatisutta
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 6.20 — Mindfulness of Death (2nd)*
 
-**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an6_20|AN 6.20 — Dutiyamaraṇassatisutta]]
 **Atthakathā**: [[an6_20_att|Dutiyamaraṇassatisuttavaṇṇanā (Commentary)]]
 

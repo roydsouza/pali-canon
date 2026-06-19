@@ -13,10 +13,11 @@ layer: tika
 att_file: [[mn19_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya 19: Dvedhāvitakkasutta
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn19|Dvedhāvitakkasutta — Two Kinds of Thought]]
 **Atthakathā**: [[mn19_att|Dvedhāvitakkasuttavaṇṇanā (Atthakathā)]]
 

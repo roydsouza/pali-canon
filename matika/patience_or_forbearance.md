@@ -4,9 +4,9 @@ title_pali: Khanti
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Patience / Forbearance (Khanti)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

@@ -9,9 +9,9 @@ mula_file: /mula/abhidhamma/INDEX.md
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 layer: tika
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Majjhima Nikāya — Ṭīkā
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
 
 This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Middle Length Discourses.

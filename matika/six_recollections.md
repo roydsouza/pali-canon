@@ -4,9 +4,9 @@ title_pali: Cha Anussati
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Six Recollections (Cha Anussati)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

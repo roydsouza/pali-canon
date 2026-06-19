@@ -4,9 +4,9 @@ title_pali: Sīlabbataparāmāsa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Clinging to Rites & Rituals (Sīlabbataparāmāsa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---

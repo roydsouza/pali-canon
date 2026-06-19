@@ -1,5 +1,6 @@
-# Majjhima Nikāya Index
+🏠 [[INDEX|Dashboard]]
 
+# Majjhima Nikāya Index
 **Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
 
 This directory contains the Middle Length Discourses (Majjhima Nikāya) from the Sutta Piṭaka.

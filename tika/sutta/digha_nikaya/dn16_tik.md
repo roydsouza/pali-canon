@@ -13,10 +13,11 @@ layer: tika
 att_file: [[dn16_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Dīgha Nikāya: Mahāparinibbānasutta
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn16|Mahāparinibbānasutta — The Great Discourse on the Buddha’s Extinction]]
 **Atthakathā**: [[dn16_att|Mahāparinibbānasuttavaṇṇanā (atthakathā)]]
 

@@ -4,9 +4,9 @@ title_pali: Karuṇā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Compassion (Karuṇā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_sublime_states|Four Sublime States]]
 
 ---

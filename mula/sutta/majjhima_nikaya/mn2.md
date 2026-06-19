@@ -23,9 +23,11 @@ parallels:
   - 'Up 2.069 (up2.069) · Khotanese · Untitled'
   - 'Mnd 16 (mnd16) · Pali · Sāriputtasuttaniddesa'
 ---
-# Majjhima Nikāya: MN 2 — Sabbāsavasutta
+🏠 [[INDEX|Dashboard]]
 
+# Majjhima Nikāya: MN 2 — Sabbāsavasutta
 **Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
+
 **Related Texts**: [[mn2_att|Commentary (Atthakathā)]] | [[mn2_tik|Sub-commentary (Tīkā)]]
 
 ---

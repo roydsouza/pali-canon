@@ -9,10 +9,11 @@ tags:
   - chanting
   - pali_only
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Maṅgalasutta — Pali Recitation
-
 **Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
+
 **Source Discourse**: [[snp2_4|Snp 2.4]]
 
 ---

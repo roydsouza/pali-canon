@@ -1,5 +1,6 @@
-# Sutta Piṭaka Index
+🏠 [[INDEX|Dashboard]]
 
+# Sutta Piṭaka Index
 **Navigation**: [[Mula-Sutta-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 This directory contains the Sutta Piṭaka (Discourse Collection) canonical texts, categorized by Nikaya (Collection).

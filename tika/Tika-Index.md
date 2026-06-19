@@ -1,5 +1,6 @@
-# Tīkā (Sub-commentaries) Index
+🏠 [[INDEX|Dashboard]]
 
+# Tīkā (Sub-commentaries) Index
 **Navigation**: [[Tika-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]]
 
 This directory contains sub-commentaries (Tīkā) explaining the commentaries of the Pali Canon.

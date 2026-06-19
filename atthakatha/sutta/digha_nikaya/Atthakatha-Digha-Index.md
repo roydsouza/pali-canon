@@ -9,9 +9,9 @@ mula_file: /mula/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dīgha Nikāya — Atthakatha
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]]
 
 ## Migrated Texts

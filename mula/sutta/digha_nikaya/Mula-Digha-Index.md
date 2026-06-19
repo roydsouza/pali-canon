@@ -8,9 +8,9 @@ sutta_number: INDEX
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dīgha Nikāya — Mūla
-
 **Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range of topics including cosmology, ethics, meditation, and the gradual training.

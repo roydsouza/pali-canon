@@ -12,10 +12,11 @@ samyutta: sn55
 tika_file: [[sn55_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Saṃyutta Nikāya: Sotāpattisaṃyutta
-
 **Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn55|Sotāpattisaṃyutta — Linked Discourses on Stream-Entry]]
 **Tīkā**: [[sn55_tik|Sotāpattisaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

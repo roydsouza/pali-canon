@@ -23,9 +23,11 @@ parallels:
   - 'T 213.3 (t213.3) · Chinese · 法集要頌經貪品第三'
   - 'Uv Kg 3 (uv-kg3) · Khotanese · Lust'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti58_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

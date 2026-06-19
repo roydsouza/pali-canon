@@ -4,9 +4,9 @@ title_pali: Magga
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Path to Cessation (Magga)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]]
 
 ---

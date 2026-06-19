@@ -8,9 +8,9 @@ tags:
   - path
   - meditation
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Entering Jhāna: Meditative Absorption Path
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

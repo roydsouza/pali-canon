@@ -4,9 +4,9 @@ title_pali: Kāmacchanda / Kāmarāga
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sensual Desire (Kāmacchanda / Kāmarāga)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]] / [[ten_fetters|Ten Fetters]]
 
 ---

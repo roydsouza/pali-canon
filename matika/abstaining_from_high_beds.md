@@ -4,9 +4,9 @@ title_pali: Uccāsayanamahāsayanā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from High Beds (Uccāsayanamahāsayanā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[eight_precepts|Eight Precepts]]
 
 ---

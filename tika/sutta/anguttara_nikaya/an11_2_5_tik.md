@@ -18,11 +18,13 @@ covers:
   - mula/sutta/anguttara_nikaya/an11_4.md
   - mula/sutta/anguttara_nikaya/an11_5.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Aṅguttara Nikāya: Cetanākaraṇīya, etc.
+**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 *AN 11.2–5*
 
-**Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an11_2]], [[an11_3]], [[an11_4]], [[an11_5]]
 **Atthakathā**: [[an11_2_att]], [[an11_3_5_att]]
 

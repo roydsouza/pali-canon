@@ -4,9 +4,9 @@ title_pali: Saṃvara
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Effort to Prevent (Saṃvara)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_right_exertions|Four Right Exertions]]
 
 ---

@@ -3,9 +3,9 @@ id: ananda
 name: Ānanda
 type: person
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ānanda Thera
-
 **Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Ānanda** was the Buddha's cousin and his personal attendant (*upatthāka*) for the last twenty-five years of the Buddha's life. He was declared foremost in five categories: great learning (*bahu-sutta*), mindfulness (*sati*), behavior (*gati*), resoluteness (*dhitī*), and ministering (*upatthāka*).

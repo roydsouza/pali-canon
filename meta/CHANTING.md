@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Audio Chanting Integration Guide
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Audio Chanting Integration Guide
 
 This guide describes how audio chanting recitations are integrated into the Pali Canon Vault to support recitation, memorization, and daily meditation practice.
 

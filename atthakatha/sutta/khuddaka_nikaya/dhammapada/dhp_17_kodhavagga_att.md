@@ -13,10 +13,11 @@ verse_range: 221–234
 translator: Bhante Ānandajoti (revised Burlingame)
 source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada Commentary — Chapter 17: Kodhavagga
-
 **Navigation**: [[Atthakatha-Dhammapada-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/dhammapada/Atthakatha-Dhammapada-Index|Dhammapada]]
+
 **Mūla**: [[dhp_17_kodhavagga|Kodhavagga — Anger]]
 
 ## Kodhavaggavaṇṇanā — Anger

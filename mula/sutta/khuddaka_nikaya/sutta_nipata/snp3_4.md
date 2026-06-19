@@ -17,9 +17,11 @@ tags:
 parallels:
   - 'SN 7.9 (sn7.9) · Pali · Sundarikasutta'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp3_4_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
 

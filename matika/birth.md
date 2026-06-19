@@ -4,9 +4,9 @@ title_pali: Jāti
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Birth (Jāti)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

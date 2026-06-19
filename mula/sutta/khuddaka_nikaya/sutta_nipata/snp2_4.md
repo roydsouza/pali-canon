@@ -19,9 +19,11 @@ parallels:
   - 'Kp 5 (kp5) · Pali · Maṅgalasutta'
   - 'T 211.39 (t211.39) · Chinese · 法句譬喻經吉祥品第三十九'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp2_4_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_precepts|Five Precepts]] | [[three_refuges|Three Refuges]]
 

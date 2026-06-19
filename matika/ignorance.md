@@ -4,9 +4,9 @@ title_pali: Avijjā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ignorance (Avijjā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]] / [[ten_fetters|Ten Fetters]]
 
 ---

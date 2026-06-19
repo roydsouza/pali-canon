@@ -4,9 +4,9 @@ title_pali: Anurakkhaṇā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Effort to Maintain (Anurakkhaṇā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_right_exertions|Four Right Exertions]]
 
 ---

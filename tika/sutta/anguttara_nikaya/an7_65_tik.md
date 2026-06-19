@@ -8,10 +8,11 @@ sutta_number: an7.65
 mula_file: [[an7_65]]
 commentary_file: [[an7_65_att]]
 ---
+🏠 [[INDEX|Dashboard]]
 
 # 1-2. Hiriottappasuttādivaṇṇanā
-
 **Navigation**: [[Tika-Anguttara-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tika]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/anguttara_nikaya/Tika-Anguttara-Index|Aṅguttara Nikāya]]
+
 **Mūla**: [[an7_65]]
 **Atthakathā**: [[an7_65_att]]
 

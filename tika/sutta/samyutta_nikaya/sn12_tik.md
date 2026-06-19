@@ -12,10 +12,11 @@ samyutta: sn12
 att_file: [[sn12_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Saṃyutta Nikāya: Nidānasaṃyutta
-
 **Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn12|Nidānasaṃyutta — Linked Discourses on Causation]]
 **Atthakathā**: [[sn12_att|Nidānasaṃyuttavaṇṇanā (Atthakathā)]]
 

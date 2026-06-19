@@ -13,10 +13,11 @@ tika_file: (No Ṭīkā available)
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya 10.60: Girimānandasutta
-
 **Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 **Mūla**: [[an10_60|Girimānandasutta — With Girimānanda]]
 **Tīkā**: (No Ṭīkā available)
 

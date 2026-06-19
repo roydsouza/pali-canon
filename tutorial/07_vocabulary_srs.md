@@ -9,9 +9,9 @@ tags:
   - vocabulary
   - nlp
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 7: Vocabulary Spaced Repetition (SRS)
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/06_building_a_practice|Tutorial 6]]
 
 ---

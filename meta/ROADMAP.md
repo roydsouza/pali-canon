@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Roadmap: Pali Canon Vault
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Roadmap: Pali Canon Vault
 
 *Created 2026-05-22. Tracks execution phases from current state to full practicing Buddhist's canonical library.*
 *Companion to [VISION.md](VISION.md) (scope & principles) and [TASKS.md](TASKS.md) (granular checklist).*

@@ -4,9 +4,9 @@ title_pali: Rūpa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Form / Matter (Rūpa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]]
 
 ---

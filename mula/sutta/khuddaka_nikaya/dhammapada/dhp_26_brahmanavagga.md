@@ -13,9 +13,9 @@ verse_range: 383–423
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 26: Brāhmaṇavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Brāhmaṇavagga — The Brahmin

@@ -4,9 +4,9 @@ title_pali: Nirodha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Cessation of Suffering (Nirodha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]]
 
 ---

@@ -4,9 +4,9 @@ title_pali: Jarāmaraṇa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Aging and Death (Jarāmaraṇa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

@@ -12,10 +12,11 @@ samyutta: sn48
 tika_file: [[sn48_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Saṃyutta Nikāya: Indriyasaṃyutta
-
 **Navigation**: [[Atthakatha-Samyutta-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn48|Indriyasaṃyutta — Linked Discourses on the Spiritual Faculties]]
 **Tīkā**: [[sn48_tik|Indriyasaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

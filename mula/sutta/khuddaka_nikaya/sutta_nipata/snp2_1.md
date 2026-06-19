@@ -18,9 +18,11 @@ parallels:
   - 'Kp 6 (kp6) · Pali · Ratanasutta'
   - 'San Lo Mvu 29 (san-lo-mvu29) · SAN · The Buddha in Veśālī'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp2_1_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[three_refuges|Three Refuges]]
 

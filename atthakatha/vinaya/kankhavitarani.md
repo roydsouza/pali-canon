@@ -9,9 +9,9 @@ sutta_number: kankhavitarani
 mula_file: /mula/vinaya/patimokkha_bhikkhu.md
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Kaṅkhāvitaraṇī (The Dispeller of Doubts)
-
 **Navigation**: [[Atthakatha-Vinaya-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/vinaya/Atthakatha-Vinaya-Index|Vinaya Atthakathā]]
 
 *Written by Ācariya Buddhaghosa (5th century CE).*

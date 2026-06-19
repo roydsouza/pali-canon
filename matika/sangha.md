@@ -4,9 +4,9 @@ title_pali: Sangha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # The Sangha (Sangha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_refuges|Three Refuges]]
 
 ---

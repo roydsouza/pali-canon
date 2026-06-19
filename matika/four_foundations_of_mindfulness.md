@@ -4,9 +4,9 @@ title_pali: Cattāro Satipaṭṭhānā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Four Foundations of Mindfulness (Cattāro Satipaṭṭhānā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

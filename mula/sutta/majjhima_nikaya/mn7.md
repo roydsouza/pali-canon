@@ -22,9 +22,11 @@ parallels:
   - 'SA2 98 (sa-2.98) · Chinese · 孫陀利'
   - 'SA 1185 (sa1185) · Chinese · 孫陀利'
 ---
-# Majjhima Nikāya: MN 7 — Vatthasutta
+🏠 [[INDEX|Dashboard]]
 
+# Majjhima Nikāya: MN 7 — Vatthasutta
 **Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
+
 **Related Texts**: [[mn7_att|Commentary (Atthakathā)]] | [[mn7_tik|Sub-commentary (Tīkā)]]
 
 ---

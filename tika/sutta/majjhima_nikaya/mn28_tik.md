@@ -13,11 +13,13 @@ layer: tika
 att_file: [[mn28_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya: Mahāhatthipadopamasutta
+**Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 *MN 28 — The Longer Simile of the Elephant’s Footprint*
 
-**Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn28|MN 28 — Mahāhatthipadopamasutta]]
 **Atthakathā**: [[mn28_att|Mahāhatthipadopamasuttavaṇṇanā (Commentary)]]
 

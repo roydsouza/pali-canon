@@ -4,9 +4,9 @@ title_pali: Saññā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Perception / Recognition (Saññā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]]
 
 ---

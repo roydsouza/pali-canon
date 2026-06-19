@@ -4,9 +4,9 @@ title_pali: Adhiṭṭhāna
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Determination / Resolve (Adhiṭṭhāna)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

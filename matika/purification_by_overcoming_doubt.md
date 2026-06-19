@@ -4,9 +4,9 @@ title_pali: Kaṅkhāvitaraṇa-visuddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Purification by Overcoming Doubt (Kaṅkhāvitaraṇa-visuddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---

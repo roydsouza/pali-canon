@@ -4,9 +4,9 @@ title_pali: Abrahmacariyā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from Unchastity (Abrahmacariyā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[eight_precepts|Eight Precepts]]
 
 ---

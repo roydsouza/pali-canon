@@ -10,10 +10,11 @@ title_en: Commentary on Searches (1st)
 subcollection: itivuttaka
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Khuddaka Nikāya: Itivuttaka
-
 **Navigation**: [[Atthakatha-Itivuttaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/Atthakatha-Itivuttaka-Index|Itivuttaka]]
+
 **Mūla**: [[iti54|ITI54: Paṭhamaesanāsutta]]
 **Tīkā**: (No Ṭīkā available)
 

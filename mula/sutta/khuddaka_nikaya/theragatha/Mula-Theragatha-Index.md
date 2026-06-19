@@ -9,9 +9,9 @@ commentary_file: /atthakatha/sutta/khuddaka_nikaya/theragatha/INDEX.md
 sub_commentary_file: (No Ṭīkā available)
 subcollection: theragatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Theragāthā — Mūla
-
 **Navigation**: [[Mula-Theragatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Theragāthā ("Verses of the Senior Monks") is a collection of verses attributed to the senior monks of the early Buddhist Sangha, recording their struggles, realizations, and attainment of liberation.

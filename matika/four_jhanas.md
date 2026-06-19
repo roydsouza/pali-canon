@@ -4,9 +4,9 @@ title_pali: Cattāri Jhānāni
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Four Jhānas (Cattāri Jhānāni)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

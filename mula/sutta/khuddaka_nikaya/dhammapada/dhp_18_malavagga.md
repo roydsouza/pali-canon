@@ -14,9 +14,9 @@ tags:
   - dhammapada
   - precepts
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 18: Malavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Malavagga — Impurity

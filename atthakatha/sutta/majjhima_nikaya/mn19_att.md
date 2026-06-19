@@ -14,10 +14,11 @@ tika_file: [[mn19_tik]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Majjhima Nikāya 19: Dvedhāvitakkasutta
-
 **Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn19|Dvedhāvitakkasutta — Two Kinds of Thought]]
 **Tīkā**: [[mn19_tik|Dvedhāvitakkasuttavaṇṇanātīkā (Sub-commentary)]]
 

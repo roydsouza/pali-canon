@@ -4,9 +4,9 @@ title_pali: Anupubbasikkhā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Gradual Training (Anupubbasikkhā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The Lay Progression (Upāsakānupubba)

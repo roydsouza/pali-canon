@@ -6,8 +6,10 @@ tags:
   - graded-reader
   - pali-nlp
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Pali Graded Reader
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Graded Reader
 
 518 suttas ranked easiest to hardest by vocabulary difficulty. Use it as a reading ladder:
 start at the beginning of your current tier and work forward until each sutta feels comfortable

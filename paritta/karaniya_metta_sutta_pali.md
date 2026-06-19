@@ -9,10 +9,11 @@ tags:
   - chanting
   - pali_only
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Karaṇīyamettasutta — Pali Recitation
-
 **Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
+
 **Source Discourse**: [[snp1_8|Snp 1.8]]
 
 ---

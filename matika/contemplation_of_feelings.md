@@ -4,9 +4,9 @@ title_pali: Vedanānupassanā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Contemplation of Feelings (Vedanānupassanā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---

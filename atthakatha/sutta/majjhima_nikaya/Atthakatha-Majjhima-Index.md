@@ -1,5 +1,6 @@
-# Majjhima Nikāya Commentary (Papañcasūdanī) Index
+🏠 [[INDEX|Dashboard]]
 
+# Majjhima Nikāya Commentary (Papañcasūdanī) Index
 **Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 
 This directory contains commentaries on the Middle Length Discourses (Majjhima Nikāya), representing sections of the Papañcasūdanī.

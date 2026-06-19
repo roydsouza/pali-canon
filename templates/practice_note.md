@@ -28,9 +28,9 @@ tags:
   - practice/session
   - meditation
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Meditation Practice Session: {{date}}
-
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[practice/Practice-Index|Practice Dashboard]]
 
 ---

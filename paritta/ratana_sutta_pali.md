@@ -9,10 +9,11 @@ tags:
   - chanting
   - pali_only
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ratanasutta — Pali Recitation
-
 **Navigation**: [[Paritta-Index|Pali Canon Vault]] / [[paritta/Paritta-Index|Paritta Collection]]
+
 **Source Discourse**: [[snp2_1|Snp 2.1]]
 
 ---

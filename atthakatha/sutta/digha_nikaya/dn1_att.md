@@ -13,10 +13,11 @@ layer: atthakatha
 att_file: [[dn1_att]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Dīgha Nikāya: Brahmajālasutta
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn1|Brahmajālasutta — The Prime Net]]
 **Tīkā**: [[dn1_tik|Brahmajālasuttavaṇṇanātīkā (sub-commentary)]]
 

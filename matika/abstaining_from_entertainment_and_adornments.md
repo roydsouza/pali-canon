@@ -4,9 +4,9 @@ title_pali: Naccagītavāditavisūkadassanāmālāgandhavilepana...
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from Entertainment & Adornments (Naccagītavāditavisūkadassanāmālāgandhavilepana...)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[eight_precepts|Eight Precepts]]
 
 ---

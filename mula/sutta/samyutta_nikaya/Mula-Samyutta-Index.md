@@ -9,9 +9,9 @@ commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 layer: mula
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Saṃyutta Nikāya — Mūla
-
 **Navigation**: [[Mula-Samyutta-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]]
 
 ## Migrated Texts

@@ -4,9 +4,9 @@ title_pali: Ñāṇadassana-visuddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Purification by Knowledge and Vision (Ñāṇadassana-visuddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---

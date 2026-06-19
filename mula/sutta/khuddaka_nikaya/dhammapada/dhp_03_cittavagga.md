@@ -14,9 +14,9 @@ tags:
   - dhammapada
   - meditation
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 3: Cittavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Cittavagga — The Mind

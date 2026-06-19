@@ -4,9 +4,9 @@ title_pali: Sammākammanto
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Right Action (Sammākammanto)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
 
 ---

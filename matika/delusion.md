@@ -4,9 +4,9 @@ title_pali: Moha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Delusion / Ignorance (Moha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ---

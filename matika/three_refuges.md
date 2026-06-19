@@ -4,9 +4,9 @@ title_pali: Tisarana
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Three Refuges (Tisarana / Tiratana)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

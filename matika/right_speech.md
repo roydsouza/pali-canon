@@ -4,9 +4,9 @@ title_pali: Sammāvācā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Right Speech (Sammāvācā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
 
 ---

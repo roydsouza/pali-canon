@@ -8,9 +8,9 @@ tags:
   - reading-paths
   - long-term
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 6: Building a Sustained Practice
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/05_pali_reading|Tutorial 5]]
 
 > [!NOTE]

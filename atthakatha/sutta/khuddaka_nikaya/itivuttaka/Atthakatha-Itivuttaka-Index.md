@@ -10,9 +10,9 @@ sub_commentary_file: /tika/abhidhamma/INDEX.md
 subcollection: itivuttaka
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Itivuttaka — Atthakathā
-
 **Navigation**: [[Atthakatha-Itivuttaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
 
 ## Commentaries (Paramatthadīpanī)

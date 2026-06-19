@@ -4,9 +4,9 @@ title_pali: Satta Bojjhaṅgā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Seven Awakening Factors (Satta Bojjhaṅgā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

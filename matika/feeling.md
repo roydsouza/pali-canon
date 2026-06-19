@@ -4,9 +4,9 @@ title_pali: Vedanā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Feeling / Sensation (Vedanā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---

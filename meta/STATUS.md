@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Pali Canon Vault Status
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Canon Vault Status
 
 This document captures the current status of the Pali Canon Obsidian Vault migration, cataloging what has been completed, what is in progress, and overall progress metrics.
 

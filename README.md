@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Dhamma Practice Workstation
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Dhamma Practice Workstation
 
 A personal Obsidian vault for deep study and sitting practice with the Theravāda Pali Canon — built around meditation, not academic coverage.
 

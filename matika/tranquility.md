@@ -4,9 +4,9 @@ title_pali: Passaddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tranquility (Passaddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]]
 
 ---

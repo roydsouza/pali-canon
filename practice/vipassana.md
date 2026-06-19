@@ -3,9 +3,9 @@ id: vipassana
 title: Vipassanā (Insight Meditation)
 type: practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vipassanā (Insight Meditation)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---

@@ -9,9 +9,9 @@ tags:
   - jhana
   - path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Working with the Five Hindrances
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

@@ -4,9 +4,9 @@ title_pali: Saṅkhārā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Volitional Formations (Saṅkhārā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]]
 
 ---

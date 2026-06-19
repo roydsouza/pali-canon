@@ -13,10 +13,11 @@ layer: atthakatha
 att_file: [[dn21_att]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Dīgha Nikāya: Sakkapañhasutta
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn21|Sakkapañhasutta — Sakka’s Questions]]
 **Tīkā**: [[dn21_tik|Sakkapañhasuttavaṇṇanātīkā (sub-commentary)]]
 

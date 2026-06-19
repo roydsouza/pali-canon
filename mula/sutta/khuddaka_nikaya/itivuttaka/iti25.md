@@ -24,9 +24,11 @@ parallels:
   - 'UV 9 (uv9) · SAN · Karmavarga'
   - 'UVS 9 (uvs9) · SAN · Karmavarga'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti25_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_precepts|Five Precepts]]
 

@@ -4,9 +4,9 @@ title_pali: Sakkāyadiṭṭhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Identity View / Self-view (Sakkāyadiṭṭhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---

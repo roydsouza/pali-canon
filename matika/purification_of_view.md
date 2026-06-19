@@ -4,9 +4,9 @@ title_pali: Diṭṭhi-visuddhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Purification of View (Diṭṭhi-visuddhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_purifications|Seven Purifications]]
 
 ---

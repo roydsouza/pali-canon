@@ -14,10 +14,11 @@ att_file: [[dn15_att]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Dīgha Nikāya: Mahānidānasutta
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn15|Mahānidānasutta — The Great Discourse on Causation]]
 **Tīkā**: [[dn15_tik|Mahānidānasuttavaṇṇanātīkā (sub-commentary)]]
 

@@ -4,9 +4,9 @@ title_pali: Rūparāga
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Lust for Material Existence (Rūparāga)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---

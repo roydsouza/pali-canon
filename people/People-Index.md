@@ -1,5 +1,6 @@
-# Prosopography — Key Individuals (People)
+🏠 [[INDEX|Dashboard]]
 
+# Prosopography — Key Individuals (People)
 **Navigation**: [[People-Index|Pali Canon Vault]]
 
 This section profiles the key disciples, contemporaries, and interlocutors of the Buddha who feature prominently in the discourses.

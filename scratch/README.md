@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Pali Canon Obsidian Vault — Scratch Tooling
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Canon Obsidian Vault — Scratch Tooling
 
 This directory contains utility scripts, generators, inspectors, and testing tools designed to automate the curation, migration, indexing, and link integrity of the Pali Canon Obsidian Vault.
 

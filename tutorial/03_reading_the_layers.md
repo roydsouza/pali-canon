@@ -9,9 +9,9 @@ tags:
   - tika
   - study
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 3: The Three Layers
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/02_satipatthana_as_map|Tutorial 2]]
 
 > [!NOTE]

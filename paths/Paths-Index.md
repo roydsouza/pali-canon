@@ -3,9 +3,9 @@ id: INDEX
 title: Index
 type: path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Thematic Reading Paths
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]]
 
 Welcome to the practice-oriented reading paths of the Pali Canon Vault. These paths are designed to guide your study and practice systematically across the seven primary practice domains of a practicing Buddhist.

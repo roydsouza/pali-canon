@@ -4,9 +4,9 @@ title_pali: Bhava
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Existence / Becoming (Bhava)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

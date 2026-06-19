@@ -13,9 +13,9 @@ verse_range: 146–156
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 11: Jarāvagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Jarāvagga — Old Age

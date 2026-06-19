@@ -4,9 +4,9 @@ title_pali: Pīti
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Rapture / Joy (Pīti)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]]
 
 ---

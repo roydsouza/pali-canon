@@ -9,10 +9,11 @@ mula_file: /mula/sutta/khuddaka_nikaya/udana.md
 title_en: Commentary on Udāna
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Khuddaka Nikāya: Udāna
-
 **Navigation**: [[Atthakatha-Khuddaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
+
 **Mūla**: [[udana|Udāna — Inspired Utterances]]
 
 *Paramatthadīpanī (Udāna-aṭṭhakathā)*

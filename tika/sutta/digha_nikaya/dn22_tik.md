@@ -13,10 +13,11 @@ layer: tika
 att_file: [[dn22_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Dīgha Nikāya: Mahāsatipaṭṭhānasutta
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn22|Mahāsatipaṭṭhānasutta — The Longer Discourse on Mindfulness Meditation]]
 **Atthakathā**: [[dn22_att|Mahāsatipaṭṭhānasuttavaṇṇanā (atthakathā)]]
 

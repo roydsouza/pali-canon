@@ -12,9 +12,9 @@ tags:
   - samadhi
   - jhana
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vsm Chapter IX — Brahmavihārakathā
-
 **Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel

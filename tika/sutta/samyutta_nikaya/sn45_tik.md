@@ -12,10 +12,11 @@ samyutta: sn45
 atthakatha_file: [[sn45_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Saṃyutta Nikāya: Maggasaṃyutta
-
 **Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn45|Maggasaṃyutta — Linked Discourses on the Path]]
 **Atthakathā**: [[sn45_att|Maggasaṃyuttavaṇṇanā (Commentary)]]
 

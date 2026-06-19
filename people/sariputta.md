@@ -3,9 +3,9 @@ id: sariputta
 name: Sāriputta
 type: person
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sāriputta Thera
-
 **Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Sāriputta** (meaning "son of Sārī") was one of the two chief disciples (*aggasāvaka*) of the Buddha, alongside [[people/mahamoggallana|Mahāmoggallāna]]. He was declared by the Buddha to be the foremost in wisdom (*paññā*).

@@ -4,9 +4,9 @@ title_pali: Lobha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Greed / Desire (Lobha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ---

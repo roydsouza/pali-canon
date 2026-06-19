@@ -4,9 +4,9 @@ title_pali: Dosa
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Hatred / Anger (Dosa)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ---

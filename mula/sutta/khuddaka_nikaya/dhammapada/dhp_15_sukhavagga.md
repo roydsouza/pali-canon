@@ -13,9 +13,9 @@ verse_range: 197–208
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 15: Sukhavagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
 
 ## Sukhavagga — Happiness

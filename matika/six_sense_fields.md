@@ -4,9 +4,9 @@ title_pali: Saḷāyatana
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Six Sense Fields (Saḷāyatana)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[dependent_origination|Dependent Origination]]
 
 ---

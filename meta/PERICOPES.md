@@ -1,5 +1,6 @@
-# Pericope Concordance (Vākya-saṅgaha)
+🏠 [[INDEX|Dashboard]]
 
+# Pericope Concordance (Vākya-saṅgaha)
 **Navigation**: [[Texts-Index|Pali Canon Vault]]
 
 This concordance maps the recurrent stock formulas (*pericopes*) that repeat across hundreds of suttas. Recognising these formulas dramatically accelerates Pali reading: once the formula is memorised, only the variable parts need to be decoded.

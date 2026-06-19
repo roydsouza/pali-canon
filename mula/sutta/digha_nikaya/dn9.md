@@ -17,9 +17,11 @@ parallels:
   - 'SF 297 (sf297) · SAN · Untitled'
   - 'SF 59 (sf59) · SAN · Untitled'
 ---
-# Dīgha Nikāya 9: Poṭṭhapādasutta
+🏠 [[INDEX|Dashboard]]
 
+# Dīgha Nikāya 9: Poṭṭhapādasutta
 **Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
+
 **Related Texts**: [[dn9_att|Commentary (Atthakathā)]] | [[dn9_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[matika/five_aggregates|Five Aggregates (Pañcupādānakkhandhā)]]
 

@@ -3,9 +3,9 @@ id: mahakassapa
 name: Mahākassapa
 type: person
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Mahākassapa Thera
-
 **Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Mahākassapa** (born Pipphali Kassapa) was one of the most revered elders in the early Sangha, declared by the Buddha to be the foremost in ascetic practices (*dhutaṅga*).

@@ -3,9 +3,9 @@ id: mahamoggallana
 name: Mahāmoggallāna
 type: person
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Mahāmoggallāna Thera
-
 **Navigation**: [[People-Index|Pali Canon Vault]] / [[people/People-Index|People]]
 
 **Mahāmoggallāna** (also known as Kolita) was the second of the Buddha's two chief disciples (*aggasāvaka*), alongside [[people/sariputta|Sāriputta]]. He was declared by the Buddha to be the foremost in psychic power (*iddhi*).

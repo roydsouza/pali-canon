@@ -4,9 +4,9 @@ title_pali: Pañca Nīvaraṇāni
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Five Hindrances (Pañca Nīvaraṇāni)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

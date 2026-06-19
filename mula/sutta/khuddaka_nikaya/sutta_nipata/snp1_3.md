@@ -21,9 +21,11 @@ parallels:
   - 'San Lo Mvu 33 (san-lo-mvu33) · SAN · The History of the Deer Park'
   - 'Tha Ap 2 (tha-ap2) · Pali · Paccekabuddhaapadāna'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp1_3_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_hindrances|Five Hindrances]] | [[three_marks|Three Marks]]
 

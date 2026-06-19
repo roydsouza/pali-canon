@@ -4,9 +4,9 @@ title_pali: Aṭṭhaṅgasīla
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Eight Precepts (Aṭṭhaṅgasīla)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Project Tasks Checklist
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Project Tasks Checklist
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.

@@ -4,9 +4,9 @@ title_pali: Dasa Pāramī
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ten Perfections (Dasa Pāramī)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

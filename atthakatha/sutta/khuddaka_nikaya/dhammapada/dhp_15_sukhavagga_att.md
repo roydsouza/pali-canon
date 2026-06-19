@@ -13,10 +13,11 @@ verse_range: 197–208
 translator: Bhante Ānandajoti (revised Burlingame)
 source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada Commentary — Chapter 15: Sukhavagga
-
 **Navigation**: [[Atthakatha-Dhammapada-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/dhammapada/Atthakatha-Dhammapada-Index|Dhammapada]]
+
 **Mūla**: [[dhp_15_sukhavagga|Sukhavagga — Happiness]]
 
 ## Sukhavaggavaṇṇanā — Happiness

@@ -13,10 +13,11 @@ layer: atthakatha
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Dīgha Nikāya: Sāmaññaphalasutta
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn2|Sāmaññaphalasutta — The Fruits of the Ascetic Life]]
 
 *Sumaṅgalavilāsinī (Dīgha Nikāya Atthakathā)*

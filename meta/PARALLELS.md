@@ -3,9 +3,9 @@ id: parallels_dashboard
 title: "Parallel-Texts Layer: Doctrinal Concordance"
 type: meta
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Parallel-Texts Layer: Doctrinal Concordance
-
 **Navigation**: [[Texts-Index|Pali Canon Vault]] / [[meta/STATUS|Vault Status]]
 
 > [!abstract] Concordance Overview

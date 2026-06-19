@@ -9,9 +9,9 @@ commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 text: dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada (Dhammapadapāḷi)
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]]
 
 The Dhammapada ("Sayings of the Dhamma") is a collection of 423 verses in 26 chapters, drawn from various parts of the Sutta Piṭaka. It is one of the most widely read texts in the Theravāda canon.

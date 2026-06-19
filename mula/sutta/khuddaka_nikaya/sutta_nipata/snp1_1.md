@@ -26,9 +26,11 @@ parallels:
   - 'UV 32 (uv32) · SAN · Bhikṣuvarga'
   - 'UVS 18 (uvs18) · SAN · Puṣpavarga'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp1_1_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[three_unwholesome_roots|Three Unwholesome Roots]] | [[ten_fetters|Ten Fetters]]
 

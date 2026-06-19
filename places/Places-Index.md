@@ -1,5 +1,6 @@
-# Geography — Key Locations (Places)
+🏠 [[INDEX|Dashboard]]
 
+# Geography — Key Locations (Places)
 **Navigation**: [[Places-Index|Pali Canon Vault]]
 
 This section explores the primary cities, kingdoms, and monastic sites where the Buddha lived, taught, and established the Sangha.

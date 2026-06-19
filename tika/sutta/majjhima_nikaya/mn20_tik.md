@@ -13,10 +13,11 @@ layer: tika
 att_file: [[mn20_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Majjhima Nikāya: Vitakkasaṇṭhānasutta
-
 **Navigation**: [[Tika-Majjhima-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
+
 **Mūla**: [[mn20|Vitakkasaṇṭhānasutta — The Relaxation of Thoughts]]
 **Atthakathā**: [[mn20_att|Vitakkasaṇṭhānasuttavaṇṇanā (atthakathā)]]
 

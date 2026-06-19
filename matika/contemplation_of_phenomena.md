@@ -4,9 +4,9 @@ title_pali: Dhammānupassanā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Contemplation of Phenomena (Dhammānupassanā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
 
 ---

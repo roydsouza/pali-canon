@@ -14,10 +14,11 @@ att_file: [[dn22_att]]
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Dīgha Nikāya: Mahāsatipaṭṭhānasutta
-
 **Navigation**: [[Atthakatha-Digha-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/digha_nikaya/Atthakatha-Digha-Index|Dīgha Nikāya]]
+
 **Mūla**: [[dn22|Mahāsatipaṭṭhānasutta — The Longer Discourse on Mindfulness Meditation]]
 **Tīkā**: [[dn22_tik|Mahāsatipaṭṭhānasuttavaṇṇanātīkā (sub-commentary)]]
 

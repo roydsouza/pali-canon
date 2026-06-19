@@ -4,9 +4,9 @@ title_pali: Tilakkhaṇa
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Three Marks of Existence (Tilakkhaṇa)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

@@ -4,9 +4,9 @@ title_pali: Māna
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Conceit / Pride (Māna)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_fetters|Ten Fetters]]
 
 ---

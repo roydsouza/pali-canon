@@ -12,10 +12,11 @@ samyutta: sn56
 att_file: [[sn56_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sub-commentary on Saṃyutta Nikāya: Saccasaṃyutta
-
 **Navigation**: [[Tika-Samyutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/samyutta_nikaya/Tika-Samyutta-Index|Saṃyutta Nikāya]]
+
 **Mūla**: [[sn56|Saccasaṃyutta — Linked Discourses on the Truths]]
 **Atthakathā**: [[sn56_att|Saccasaṃyuttavaṇṇanā (Atthakathā)]]
 

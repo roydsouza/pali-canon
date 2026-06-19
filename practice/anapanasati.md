@@ -3,9 +3,9 @@ id: anapanasati
 title: Ānāpānasati (Mindfulness of Breathing)
 type: practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ānāpānasati (Mindfulness of Breathing)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault Index]]
 
 ---

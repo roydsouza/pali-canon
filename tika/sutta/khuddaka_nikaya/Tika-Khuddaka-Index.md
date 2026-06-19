@@ -9,9 +9,9 @@ mula_file: /mula/abhidhamma/INDEX.md
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 layer: tika
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya — Tīkā
-
 **Navigation**: [[Tika-Khuddaka-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]]
 
 ## Migrated Texts

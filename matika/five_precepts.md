@@ -4,9 +4,9 @@ title_pali: Pañcasīla
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Five Precepts (Pañcasīla)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

@@ -9,9 +9,9 @@ commentary_file: /atthakatha/vinaya/INDEX.md
 sub_commentary_file: /tika/vinaya/INDEX.md
 layer: mula
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vinaya Piṭaka — Mūla
-
 **Navigation**: [[Mula-Vinaya-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]]
 
 The Vinaya Piṭaka ("Discipline Basket") contains the rules and regulations for the monastic Saṅgha, and is the primary canonical source for the Buddhist precepts.

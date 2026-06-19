@@ -9,9 +9,9 @@ mula_file: /mula/sutta/khuddaka_nikaya/INDEX.md
 sub_commentary_file: (No Ṭīkā available)
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Khuddaka Nikāya — Atthakathā
-
 **Navigation**: [[Atthakatha-Khuddaka-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]]
 
 ## Migrated Texts

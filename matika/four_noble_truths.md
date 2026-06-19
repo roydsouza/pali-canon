@@ -4,9 +4,9 @@ title_pali: Cattāri Ariyasaccāni
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Four Noble Truths (Cattāri Ariyasaccāni)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

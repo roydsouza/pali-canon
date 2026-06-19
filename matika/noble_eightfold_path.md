@@ -4,9 +4,9 @@ title_pali: Ariyo Aṭṭhaṅgiko Maggo
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Noble Eightfold Path (Ariyo Aṭṭhaṅgiko Maggo)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

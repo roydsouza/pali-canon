@@ -9,9 +9,9 @@ tags:
   - concentration
   - pakarana
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vsm Chapter XI — Samādhikathā
-
 **Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel

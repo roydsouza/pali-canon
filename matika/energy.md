@@ -4,9 +4,9 @@ title_pali: Viriya
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Energy / Effort (Viriya)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]] / [[ten_perfections|Ten Perfections]]
 
 ---

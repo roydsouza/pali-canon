@@ -8,9 +8,9 @@ tags:
   - doctrine
   - study
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 4: Following a Doctrine Through the Canon
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/03_reading_the_layers|Tutorial 3]]
 
 > [!NOTE]

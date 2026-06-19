@@ -4,9 +4,9 @@ title_pali: Paññā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Wisdom / Discernment (Paññā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_spiritual_faculties|Five Spiritual Faculties]] / [[five_powers|Five Powers]] / [[ten_perfections|Ten Perfections]]
 
 ---

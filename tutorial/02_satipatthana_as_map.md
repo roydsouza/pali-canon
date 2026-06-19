@@ -8,9 +8,9 @@ tags:
   - vipassana
   - meditation
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Tutorial 2: Satipaṭṭhāna as a Complete Practice Map
-
 **Navigation**: [[Tutorial-Index|Vault Home]] / [[tutorial/Tutorial-Index|Tutorials]] / ← [[tutorial/01_breath_practice|Tutorial 1]]
 
 > [!NOTE]

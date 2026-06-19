@@ -4,9 +4,9 @@ title_pali: Vicikicchā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Skeptical Doubt (Vicikicchā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_hindrances|Five Hindrances]] / [[ten_fetters|Ten Fetters]]
 
 ---

@@ -9,9 +9,9 @@ mula_file: /mula/vinaya/INDEX.md
 commentary_file: /atthakatha/vinaya/INDEX.md
 layer: tika
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vinaya Piṭaka — Tīkā
-
 **Navigation**: [[Tika-Vinaya-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]]
 
 ## Migrated Texts

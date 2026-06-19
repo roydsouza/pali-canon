@@ -4,9 +4,9 @@ title_pali: Pāṇātipātā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from Killing (Pāṇātipātā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_precepts|Five Precepts]] / [[eight_precepts|Eight Precepts]]
 
 ---

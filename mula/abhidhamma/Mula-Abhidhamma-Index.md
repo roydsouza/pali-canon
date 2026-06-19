@@ -9,9 +9,9 @@ commentary_file: /atthakatha/abhidhamma/INDEX.md
 sub_commentary_file: /tika/abhidhamma/INDEX.md
 layer: mula
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abhidhamma Piṭaka — Mūla
-
 **Navigation**: [[Mula-Abhidhamma-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]]
 
 The Abhidhamma Piṭaka ("Higher Teaching Basket") is the third piṭaka of the Tipiṭaka, comprising seven books of systematic philosophical analysis.

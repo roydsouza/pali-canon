@@ -3,9 +3,9 @@ id: vesali
 name: Vesālī
 type: place
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vesālī
-
 **Navigation**: [[Places-Index|Pali Canon Vault]] / [[places/Places-Index|Places]]
 
 **Vesālī** (Sanskrit: *Vaiśālī*) was the capital of the Vajji confederacy, ruled by the Licchavi clan. It was a prosperous and democratic republic, which the Buddha praised for its unity and public assemblies.

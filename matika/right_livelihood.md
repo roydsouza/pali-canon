@@ -4,9 +4,9 @@ title_pali: Sammāājīvo
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Right Livelihood (Sammāājīvo)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
 
 ---

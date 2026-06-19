@@ -26,9 +26,11 @@ parallels:
   - 'Uv Kg 16 (uv-kg16) · Khotanese · Miscellaneous'
   - 'UV 16 (uv16) · SAN · Prakīrṇakavarga'
 ---
-# Khuddaka Nikāya: Theragāthā
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Theragāthā
 **Navigation**: [[Mula-Theragatha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā]]
+
 **Related Texts**: (No Commentary or Ṭīkā migrated)
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
 

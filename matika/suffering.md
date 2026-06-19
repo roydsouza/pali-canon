@@ -4,9 +4,9 @@ title_pali: Dukkha
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Suffering / Unsatisfactoriness (Dukkha)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]] / [[three_marks|Three Marks]]
 
 ---

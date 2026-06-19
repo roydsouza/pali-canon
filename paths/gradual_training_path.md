@@ -8,9 +8,9 @@ tags:
   - precepts
   - lay-practice
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Gradual Training: Step-by-Step Path
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

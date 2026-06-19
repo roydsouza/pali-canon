@@ -1,5 +1,6 @@
-# Sutta Sub-commentaries Index
+🏠 [[INDEX|Dashboard]]
 
+# Sutta Sub-commentaries Index
 **Navigation**: [[Tika-Sutta-Index|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]]
 
 This directory contains sub-commentaries on the Sutta Piṭaka.

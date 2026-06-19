@@ -4,9 +4,9 @@ title_pali: Sammādiṭṭhi
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Right View (Sammādiṭṭhi)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[noble_eightfold_path|Noble Eightfold Path]]
 
 ---

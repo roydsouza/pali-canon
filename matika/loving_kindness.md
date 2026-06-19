@@ -4,9 +4,9 @@ title_pali: Mettā
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Loving-kindness (Mettā)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
 
 ---

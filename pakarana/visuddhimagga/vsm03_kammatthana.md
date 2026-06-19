@@ -9,9 +9,9 @@ tags:
   - samadhi
   - meditation-subject
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Vsm Chapter III — Kammaṭṭhānagahaṇaniddesā
-
 **Navigation**: [[Visuddhimagga-Index|Vault Home]] / [[pakarana/Pakarana-Index|Pakaraṇa]] / [[pakarana/visuddhimagga/Visuddhimagga-Index|Visuddhimagga]]
 
 > [!INFO]- ✦ Canonical parallel

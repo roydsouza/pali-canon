@@ -36,9 +36,11 @@ parallels:
   - 'T 1444.1 (t1444.1) · Chinese · 根本說一切有部毘奈耶:出家事'
   - 'T 1450.10 (t1450.10) · Chinese · 根本說一切有部毘奈耶:破僧事'
 ---
-# Dīgha Nikāya 2: Sāmaññaphalasutta
+🏠 [[INDEX|Dashboard]]
 
+# Dīgha Nikāya 2: Sāmaññaphalasutta
 **Navigation**: [[Mula-Digha-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/digha_nikaya/Mula-Digha-Index|Dīgha Nikāya]]
+
 **Related Texts**: [[dn2_att|Commentary (Atthakathā)]] | [[dn2_tik|Sub-commentary (Tīkā)]]
 **Mātikā**: [[five_hindrances|Five Hindrances]] · [[four_noble_truths|Four Noble Truths]]
 

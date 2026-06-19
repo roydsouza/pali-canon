@@ -20,9 +20,11 @@ parallels:
   - 'Kv 13.1 (kv13.1) · Pali · Kappaṭṭhakathā'
   - 'Kv 20.1 (kv20.1) · Pali · Asañciccakathā'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti18_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_precepts|Five Precepts]]
 

@@ -4,9 +4,9 @@ title_pali: Pañcupādānakkhandhā
 type: matika
 category: list_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Five Aggregates (Pañcupādānakkhandhā)
-
 **Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
 ## The List

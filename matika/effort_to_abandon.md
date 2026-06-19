@@ -4,9 +4,9 @@ title_pali: Pahāna
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Effort to Abandon (Pahāna)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_right_exertions|Four Right Exertions]]
 
 ---

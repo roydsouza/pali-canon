@@ -4,9 +4,9 @@ title_pali: Samudaya
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Origin of Suffering (Samudaya)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[four_noble_truths|Four Noble Truths]]
 
 ---

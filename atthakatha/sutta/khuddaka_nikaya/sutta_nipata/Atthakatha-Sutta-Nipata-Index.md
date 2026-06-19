@@ -10,9 +10,9 @@ sub_commentary_file: /tika/abhidhamma/INDEX.md
 subcollection: sutta_nipata
 layer: atthakatha
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Sutta Nipāta — Atthakathā
-
 **Navigation**: [[Atthakatha-Sutta-Nipata-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/Atthakatha-Khuddaka-Index|Khuddaka Nikāya]]
 
 ## Commentaries (Paramatthajotikā II)

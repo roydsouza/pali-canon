@@ -9,9 +9,9 @@ mula_file: /mula/abhidhamma/INDEX.md
 commentary_file: /atthakatha/abhidhamma/INDEX.md
 layer: tika
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dīgha Nikāya — Ṭīkā
-
 **Navigation**: [[Tika-Digha-Index|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]]
 
 This directory contains sub-commentaries (Sumaṅgalavilāsinī-ṭīkā) on the Long Discourses.

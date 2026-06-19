@@ -8,9 +8,9 @@ tags:
   - path
   - urgency
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Maraṇasati Practice: Death Contemplation Path
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

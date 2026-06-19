@@ -4,9 +4,9 @@ title_pali: Sīla
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Virtue / Ethical Conduct (Sīla)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[ten_perfections|Ten Perfections]]
 
 ---

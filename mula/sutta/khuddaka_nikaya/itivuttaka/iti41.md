@@ -25,9 +25,11 @@ parallels:
   - 'Pe 2 (pe2) · Pali · Sāsanapaṭṭhānadutiyabhūmi'
   - 'Pe 3 (pe3) · Pali · Suttādhiṭṭhānatatiyabhūmi'
 ---
-# Khuddaka Nikāya: Itivuttaka
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Itivuttaka
 **Navigation**: [[Mula-Itivuttaka-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]]
+
 **Related Texts**: [[iti41_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[five_precepts|Five Precepts]]
 

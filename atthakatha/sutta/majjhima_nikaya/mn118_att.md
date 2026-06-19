@@ -8,10 +8,11 @@ sutta_number: 118
 mula_file: /mula/sutta/majjhima_nikaya/mn118.md
 sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Ānāpānasati Suttavaṇṇanā (Atthakatha)
-
 **Navigation**: [[Atthakatha-Majjhima-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakatha]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
+
 **Related Texts**: [[mn118|Mūla Sutta]] | [[mn118_tik|Sub-commentary (Tīkā)]]
 
 ### 8. Ānāpānassatisuttavaṇṇanā

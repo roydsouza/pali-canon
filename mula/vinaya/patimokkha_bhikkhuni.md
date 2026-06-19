@@ -8,10 +8,11 @@ sutta_number: patimokkha_bhikkhuni
 commentary_file: /atthakatha/vinaya/kankhavitarani.md
 layer: mula
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Bhikkhunī Pātimokkha (The Code of Monastic Discipline for Nuns)
-
 **Navigation**: [[Mula-Vinaya-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/vinaya/Mula-Vinaya-Index|Vinaya Piṭaka]]
+
 **Related Precepts**: [[matika/five_precepts|Five Precepts (Pañcasīla)]] | [[matika/eight_precepts|Eight Precepts (Aṭṭhaṅgasīla)]]
 **Commentary**: [[atthakatha/vinaya/kankhavitarani|Kaṅkhāvitaraṇī (The Dispeller of Doubts)]]
 

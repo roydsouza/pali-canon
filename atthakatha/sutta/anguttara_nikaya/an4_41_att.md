@@ -13,10 +13,11 @@ layer: atthakatha
 source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 source_notes: "https://suttacentral.net"
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Commentary on Aṅguttara Nikāya: Samādhibhāvanāsutta
-
 **Navigation**: [[Atthakatha-Anguttara-Index|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
+
 **Mūla**: [[an4_41|Samādhibhāvanāsutta — Four Developments of Immersion]]
 
 *Manorathapūraṇī (Aṅguttara Nikāya Atthakathā)*

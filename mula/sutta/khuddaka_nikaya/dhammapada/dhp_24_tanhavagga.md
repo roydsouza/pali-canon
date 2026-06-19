@@ -13,10 +13,11 @@ verse_range: 334–359
 tags:
   - dhammapada
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhammapada — Chapter 24: Taṇhāvagga
-
 **Navigation**: [[Mula-Dhammapada-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]]
+
 **Mātikā**: [[dependent_origination|Dependent Origination]] · [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ## Taṇhāvagga — Craving

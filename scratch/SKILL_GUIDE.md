@@ -1,4 +1,7 @@
+🏠 [[INDEX|Dashboard]]
+
 # Agent Skill Guide — Vault Migration & Cross-linking
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Agent Skill Guide — Vault Migration & Cross-linking
 
 This guide details the custom agent skills, automated workflows, and validation guardrails developed for the Pali Canon Obsidian Vault. Any future agent starting a session in this vault should review this document to align on methodology.
 

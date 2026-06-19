@@ -4,9 +4,9 @@ title_pali: Musāvādā veramaṇī
 type: matika
 category: factor_note
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Abstaining from False Speech (Musāvādā veramaṇī)
-
 **Navigation**: [[../Texts-Index|Pali Canon Vault]] / [[Matika-Index|Mātika]] / [[five_precepts|Five Precepts]] / [[eight_precepts|Eight Precepts]]
 
 ---

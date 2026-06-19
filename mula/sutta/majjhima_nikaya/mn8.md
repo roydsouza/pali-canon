@@ -19,9 +19,11 @@ parallels:
   - 'MA 91 (ma91) · Chinese · 周那問見'
   - 'EA 47.9 (ea47.9) · Chinese · Untitled'
 ---
-# Majjhima Nikāya: MN 8 — Sallekhasutta
+🏠 [[INDEX|Dashboard]]
 
+# Majjhima Nikāya: MN 8 — Sallekhasutta
 **Navigation**: [[Mula-Majjhima-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/majjhima_nikaya/Mula-Majjhima-Index|Majjhima Nikāya]]
+
 **Related Texts**: [[mn8_att|Commentary (Atthakathā)]] | [[mn8_tik|Sub-commentary (Tīkā)]]
 
 ---

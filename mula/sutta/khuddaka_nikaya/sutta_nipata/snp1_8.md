@@ -17,9 +17,11 @@ tags:
 parallels:
   - 'Kp 9 (kp9) · Pali · Mettāsutta'
 ---
-# Khuddaka Nikāya: Sutta Nipāta
+🏠 [[INDEX|Dashboard]]
 
+# Khuddaka Nikāya: Sutta Nipāta
 **Navigation**: [[Mula-Sutta-Nipata-Index|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/khuddaka_nikaya/Mula-Khuddaka-Index|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]]
+
 **Related Texts**: [[snp1_8_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
 **Mātikā**: [[four_sublime_states|Four Sublime States]] | [[three_refuges|Three Refuges]]
 

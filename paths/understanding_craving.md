@@ -9,9 +9,9 @@ tags:
   - second-noble-truth
   - path
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Understanding Craving (Taṇhā)
-
 **Navigation**: [[Paths-Index|Pali Canon Vault]] / [[paths/Paths-Index|Reading Paths]]
 
 > [!NOTE]

@@ -6,9 +6,9 @@ tags:
   - tutorial
   - getting-started
 ---
+🏠 [[INDEX|Dashboard]]
 
 # Dhamma Practice Workstation
-
 **Navigation**: [[Tutorial-Index|Vault Home]]
 
 > [!NOTE]
