@@ -3,6 +3,9 @@
 # Pali Canon Vault Index
 [[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Canon Vault Index
 
+> [!INFO] ⭐ Serves the [[nexus/mission/Mission|North Star]]
+> Root teachings of the Buddha (Mūla suttas, Satipaṭṭhāna, Ānāpānasati) providing the direct phenomenological instruction for mental discipline, concentration, and equanimity.
+
 <div class="db-header">
   <h1>Obsidian Pali Canon Vault</h1>
   <p>An offline study and practice library for the Theravāda tradition</p>
