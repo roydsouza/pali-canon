@@ -36,6 +36,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn72|MN 72]] | Aggivacchasutta | With Vacchagotta on Fire | 2,727 |
 | [[mn21|MN 21]] | Kakacūpamasutta | The Simile of the Saw | 4,508 |
 | [[mn122|MN 122]] | Mahāsuññatasutta | The Longer Discourse on Emptiness | 4,100 |
+| [[mn130|MN 130]] | Devadūtasutta | Messengers of the Gods | 4,450 |
 
 ---
 
