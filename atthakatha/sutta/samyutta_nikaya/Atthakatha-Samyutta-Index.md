@@ -37,3 +37,4 @@ layer: atthakatha
 | [[sn22.15|SN22.15]] | [[sn22.15_att|Yadaniccasuttavaṇṇanā]] | CSCD | 1 Sujato notes | 164 |
 | [[sn35.85|SN35.85]] | [[sn35.85_att|Suññatalokasuttavaṇṇanā]] | CSCD | 1 Sujato notes | 155 |
 | [[sn52.10|SN52.10]] | [[sn52.10_att|Bāḷhagilānasuttavaṇṇanā]] | CSCD | — | 158 |
+| [[sn36.7|SN36.7]] | [[sn36.7_att|Paṭhamagelaññasuttavaṇṇanā]] | CSCD | 5 Sujato notes | 397 |

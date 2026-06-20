@@ -37,3 +37,4 @@ layer: tika
 | [[sn22.15|SN22.15]] | [[sn22.15_tik|Yadaniccasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 146 |
 | [[sn35.85|SN35.85]] | [[sn35.85_tik|Suññatalokasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 103 |
 | [[sn52.10|SN52.10]] | [[sn52.10_tik|Bāḷhagilānasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 140 |
+| [[sn36.7|SN36.7]] | [[sn36.7_tik|Paṭhamagelaññasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 161 |

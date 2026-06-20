@@ -36,3 +36,4 @@ layer: mula
 | [[sn22.15|SN22.15]] | Yadaniccasutta | That Which is Impermanent | 253 |
 | [[sn35.85|SN35.85]] | Suññatalokasutta | The World is Empty | 288 |
 | [[sn52.10|SN52.10]] | Bāḷhagilānasutta | Gravely Ill | 292 |
+| [[sn36.7|SN36.7]] | Paṭhamagelaññasutta | The Infirmary (1st) | 1,384 |
