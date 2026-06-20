@@ -33,3 +33,4 @@ layer: mula
 | [[sn51.15|SN 51.15]] | Uṇṇābhabrāhmaṇasutta | 906 |
 | [[sn51.20|SN 51.20]] | Vibhaṅgasutta | 1,629 |
 | [[sn1|SN1]] | Devatāsaṃyutta | 15,115 |
+| [[sn22.15|SN22.15]] | Yadaniccasutta | That Which is Impermanent | 253 |
