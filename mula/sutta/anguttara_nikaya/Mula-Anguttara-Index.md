@@ -76,6 +76,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_394_574|AN 1.394–574]] | 29. Aparaaccharāsaṅghātavagga | Another Chapter on a Finger-Snap | 2,042 |
 | [[an1_575_615|AN 1.575–615]] | 30. Kāyagatāsativagga | The Chapter on Mindfulness of the Body | 1,266 |
 | [[an1_616_627|AN 1.616–627]] | 31. Amatavagga | The Chapter on Freedom From Death | 688 |
+| [[an3_47|AN 3.47]] | Saṅkhatalakkhaṇasutta | Characteristics of the Conditioned | 189 |
 
 ---
 
