@@ -79,6 +79,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an3_47|AN 3.47]] | Saṅkhatalakkhaṇasutta | Characteristics of the Conditioned | 189 |
 | [[an6_55|AN 6.55]] | Soṇasutta | With Soṇa | 1,938 |
 | [[an10_176|AN 10.176]] | Cundasutta | With Cunda | 2,588 |
+| [[an10_208|AN 10.208]] | Karajakāyasutta | The Body Born of Deeds | 963 |
 
 ---
 
