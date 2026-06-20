@@ -27,3 +27,4 @@ The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range
 | [[dn16\|DN 16]] | Mahāparinibbānasutta | The Great Extinguishing | 35,942 |
 | [[dn21\|DN 21]] | Sakkapañhasutta | Sakka's Questions | 8,213 |
 | [[dn22\|DN 22]] | Mahāsatipaṭṭhānasutta | The Great Discourse on Mindfulness | 8,892 |
+| [[dn31|DN 31]] | Siṅgālasutta | Advice to Sigālaka | 4,537 |
