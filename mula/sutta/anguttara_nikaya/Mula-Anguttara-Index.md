@@ -78,6 +78,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_616_627|AN 1.616–627]] | 31. Amatavagga | The Chapter on Freedom From Death | 688 |
 | [[an3_47|AN 3.47]] | Saṅkhatalakkhaṇasutta | Characteristics of the Conditioned | 189 |
 | [[an6_55|AN 6.55]] | Soṇasutta | With Soṇa | 1,938 |
+| [[an10_176|AN 10.176]] | Cundasutta | With Cunda | 2,588 |
 
 ---
 

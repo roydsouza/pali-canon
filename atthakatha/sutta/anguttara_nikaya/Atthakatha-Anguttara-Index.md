@@ -75,6 +75,7 @@ layer: atthakatha
 | [[an1_616_627|AN 1.616–627]] | [[an1_616_627_att|31. Amatavaggavaṇṇanā]] | CSCD | — | 93 |
 | [[an3_47|AN 3.47]] | [[an3_47_att|Saṅkhatalakkhaṇasuttavaṇṇanā]] | CSCD | — | 170 |
 | [[an6_55|AN 6.55]] | [[an6_55_att|Soṇasuttavaṇṇanā]] | CSCD | — | 675 |
+| [[an10_176|AN 10.176]] | [[an10_176_att|Cundasuttavaṇṇanā]] | CSCD | — | 120 |
 
 ---
 
