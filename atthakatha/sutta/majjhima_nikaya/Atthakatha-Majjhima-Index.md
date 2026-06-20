@@ -25,6 +25,7 @@ This directory contains commentaries on the Middle Length Discourses (Majjhima N
 | [[mn51|MN 51]] | [[mn51_att|Kandarakasuttavaṇṇanā]] | CSCD | 16 Sujato notes | 2,400 |
 | [[mn22|MN 22]] | [[mn22_att|Alagaddūpamasuttavaṇṇanā]] | CSCD | 49 Sujato notes | 6,288 |
 | [[mn117|MN 117]] | [[mn117_att|Mahācattārīsakasuttavaṇṇanā]] | CSCD | 22 Sujato notes | 2,102 |
+| [[mn21|MN 21]] | [[mn21_att|Kakacūpamasuttavaṇṇanā]] | CSCD | 24 Sujato notes | 2,734 |
 
 ---
 
