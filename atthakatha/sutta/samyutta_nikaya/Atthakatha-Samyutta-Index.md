@@ -36,3 +36,4 @@ layer: atthakatha
 | [[sn1|SN1]] | [[sn1_att|Devatāsaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 16,989 |
 | [[sn22.15|SN22.15]] | [[sn22.15_att|Yadaniccasuttavaṇṇanā]] | CSCD | 1 Sujato notes | 164 |
 | [[sn35.85|SN35.85]] | [[sn35.85_att|Suññatalokasuttavaṇṇanā]] | CSCD | 1 Sujato notes | 155 |
+| [[sn52.10|SN52.10]] | [[sn52.10_att|Bāḷhagilānasuttavaṇṇanā]] | CSCD | — | 158 |
