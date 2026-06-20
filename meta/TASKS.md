@@ -1,11 +1,11 @@
 🏠 [[INDEX|Dashboard]]
 
 # Project Tasks Checklist
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Project Tasks Checklist
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Project Tasks Checklist
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
-**Last updated**: 2026-06-04
+**Last updated**: 2026-06-20
 
 ---
 
@@ -63,10 +63,10 @@ Vault review covering content quality, learning UX, and interface integrity. Ite
 
 ### Phase 21A — High-Priority Suttas (not yet in vault)
 
-- [ ] **MN 26: Ariyapariyesanā** — the First Teaching narrative; Buddha's hesitation before teaching; noble vs ignoble search
-- [ ] **MN 63: Cūḷamāluṅkya** — the poisoned arrow; unanswered metaphysical questions; what the teaching is and isn't for
-- [ ] **MN 72: Aggivacchagotta** — fire simile for nibbāna; clearest canonical statement on what happens to a Tathāgata after liberation
-- [ ] **SN 1 (Devatāsaṃyutta)** — short verse dialogues with devas; highly readable; excellent graded-reader Tier 1 material
+- [x] **MN 26: Ariyapariyesanā** — the First Teaching narrative; Buddha's hesitation before teaching; noble vs ignoble search ✅ (2026-06-19)
+- [x] **MN 63: Cūḷamāluṅkya** — the poisoned arrow; unanswered metaphysical questions; what the teaching is and isn't for ✅ (2026-06-19)
+- [x] **MN 72: Aggivacchagotta** — fire simile for nibbāna; clearest canonical statement on what happens to a Tathāgata after liberation ✅ (2026-06-19)
+- [x] **SN 1 (Devatāsaṃyutta)** — short verse dialogues with devas; highly readable; excellent graded-reader Tier 1 material ✅ (2026-06-19)
 
 ### Phase 21B — Commentary Expansion
 

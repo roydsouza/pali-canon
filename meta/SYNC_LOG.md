@@ -1,7 +1,27 @@
 🏠 [[INDEX|Dashboard]]
 
 # Sync Log
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Sync Log
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Sync Log
+
+## [2026-06-20 16:15:00-07:00 — Phase 21A: High-Priority Sutta Ingestion (Antigravity)]
+
+### Accomplishments
+
+**Phase 21A High-Priority & Practice Suttas Ingestion**
+- **Sutta Ingestions**: Ingested and generated the three-layer texts (Mūla, Atthakathā, and Ṭīkā) for:
+  - **MN 26** (Ariyapariyesanā)
+  - **MN 63** (Cūḷamāluṅkya)
+  - **MN 72** (Aggivacchagotta)
+  - **SN 1** (Devatāsaṃyutta)
+  - Also migrated: **DN 31**, **MN 21**, **MN 122**, **MN 130**, **MN 141**, **SN 22.15**, **SN 35.85**, **SN 36.7**, **SN 52.10**, **AN 3.47**, **AN 6.55**, **AN 10.176**, **AN 10.208** across all three layers.
+- **Sutta Study Guide Wiring**: Wired all new suttas into the thematic Sutta Study Guide (`Sutta-Study-Guide.md`) and the Dependent Origination page.
+- **Diagnostics**: All links and files pass `validate_links.py` and `run_all_tests.py` with 0 errors and 100% green health.
+
+### Vault State
+- **Validator**: 15,700+ wikilinks / **0 errors** ✅
+- **Unit tests**: 13/13 pass ✅
+
+---
 
 ## [2026-06-03 08:00:00-07:00 — Phase 20A: Visuddhimagga Samādhi Arc (Claude Sonnet 4.6)]
 
