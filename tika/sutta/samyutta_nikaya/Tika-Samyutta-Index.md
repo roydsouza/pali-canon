@@ -35,3 +35,4 @@ layer: tika
 
 | [[sn1|SN1]] | [[sn1_tik|Devatāsaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 19,950 |
 | [[sn22.15|SN22.15]] | [[sn22.15_tik|Yadaniccasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 146 |
+| [[sn35.85|SN35.85]] | [[sn35.85_tik|Suññatalokasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 103 |

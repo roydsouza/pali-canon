@@ -34,3 +34,4 @@ layer: mula
 | [[sn51.20|SN 51.20]] | Vibhaṅgasutta | 1,629 |
 | [[sn1|SN1]] | Devatāsaṃyutta | 15,115 |
 | [[sn22.15|SN22.15]] | Yadaniccasutta | That Which is Impermanent | 253 |
+| [[sn35.85|SN35.85]] | Suññatalokasutta | The World is Empty | 288 |
