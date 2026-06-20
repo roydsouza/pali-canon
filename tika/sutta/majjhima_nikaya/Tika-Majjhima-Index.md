@@ -37,6 +37,7 @@ This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Midd
 | [[mn22|MN 22]] | [[mn22_tik|Alagaddūpamasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 3,577 |
 | [[mn117|MN 117]] | [[mn117_tik|Mahācattārīsakasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,073 |
 | [[mn21|MN 21]] | [[mn21_tik|Kakacūpamasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 951 |
+| [[mn122|MN 122]] | [[mn122_tik|Mahāsuññatasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,209 |
 
 ---
 
