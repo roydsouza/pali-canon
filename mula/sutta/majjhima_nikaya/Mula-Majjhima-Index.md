@@ -37,6 +37,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn21|MN 21]] | Kakacūpamasutta | The Simile of the Saw | 4,508 |
 | [[mn122|MN 122]] | Mahāsuññatasutta | The Longer Discourse on Emptiness | 4,100 |
 | [[mn130|MN 130]] | Devadūtasutta | Messengers of the Gods | 4,450 |
+| [[mn141|MN 141]] | Saccavibhaṅgasutta | The Analysis of the Truths | 2,462 |
 
 ---
 
