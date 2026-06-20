@@ -33,3 +33,4 @@ layer: tika
 | [[sn51.15|SN 51.15]] | [[sn51.15_tik|Uṇṇābhabrāhmaṇasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 46 |
 | [[sn51.20|SN 51.20]] | [[sn51.20_tik|Vibhaṅgasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 200 |
 
+| [[sn1|SN1]] | [[sn1_tik|Devatāsaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 19,950 |

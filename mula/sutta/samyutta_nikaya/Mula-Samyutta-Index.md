@@ -32,5 +32,4 @@ layer: mula
 | [[sn51.1|SN 51.1]] | Apārasutta | 224 |
 | [[sn51.15|SN 51.15]] | Uṇṇābhabrāhmaṇasutta | 906 |
 | [[sn51.20|SN 51.20]] | Vibhaṅgasutta | 1,629 |
-
-
+| [[sn1|SN1]] | Devatāsaṃyutta | 15,115 |

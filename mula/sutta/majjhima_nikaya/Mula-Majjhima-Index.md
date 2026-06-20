@@ -31,6 +31,9 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn148\|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
 | [[mn22|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 6,958 |
 | [[mn117|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,126 |
+| [[mn26|MN 26]] | Pāsarāsisutta | The Noble Quest | 8,437 |
+| [[mn63|MN 63]] | Cūḷamālukyasutta | The Shorter Discourse With Māluṅkyaputta | 2,925 |
+| [[mn72|MN 72]] | Aggivacchasutta | With Vacchagotta on Fire | 2,727 |
 
 ---
 

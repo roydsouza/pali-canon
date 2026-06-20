@@ -3,15 +3,15 @@
     "att": [
       {
         "file": "s0101a.att13.xml",
-        "heading": "13. Tevijjasuttava\u1e47\u1e47an\u0101",
-        "pattern": "13\\.\\s+Tevijjasuttava\u1e47\u1e47an\u0101"
+        "heading": "13. Tevijjasuttavaṇṇanā",
+        "pattern": "13\\.\\s+Tevijjasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0101t.tik13.xml",
-        "heading": "13. Tevijjasuttava\u1e47\u1e47an\u0101",
-        "pattern": "13\\.\\s+Tevijjasuttava\u1e47\u1e47an\u0101"
+        "heading": "13. Tevijjasuttavaṇṇanā",
+        "pattern": "13\\.\\s+Tevijjasuttavaṇṇanā"
       }
     ]
   },
@@ -19,15 +19,15 @@
     "att": [
       {
         "file": "s0202a.att0.xml",
-        "heading": "1. Kandarakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Kandarakasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Kandarakasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Kandarakasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0202t.tik0.xml",
-        "heading": "1. Kandarakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Kandarakasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Kandarakasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Kandarakasuttavaṇṇanā"
       }
     ]
   },
@@ -35,15 +35,15 @@
     "att": [
       {
         "file": "s0201a.att1.xml",
-        "heading": "2. Sabb\u0101savasuttava\u1e47\u1e47an\u0101",
-        "pattern": "2\\.\\s+Sabb\u0101savasuttava\u1e47\u1e47an\u0101"
+        "heading": "2. Sabbāsavasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Sabbāsavasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik1.xml",
-        "heading": "2. Sabb\u0101savasuttava\u1e47\u1e47an\u0101",
-        "pattern": "2\\.\\s+Sabb\u0101savasuttava\u1e47\u1e47an\u0101"
+        "heading": "2. Sabbāsavasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Sabbāsavasuttavaṇṇanā"
       }
     ]
   },
@@ -51,15 +51,15 @@
     "att": [
       {
         "file": "s0201a.att1.xml",
-        "heading": "7. Vatthasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Vatthasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Vatthasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Vatthasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik1.xml",
-        "heading": "7. Vatthasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Vatthasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Vatthasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Vatthasuttavaṇṇanā"
       }
     ]
   },
@@ -67,15 +67,15 @@
     "att": [
       {
         "file": "s0201a.att1.xml",
-        "heading": "8. Sallekhasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Sallekhasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Sallekhasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Sallekhasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik1.xml",
-        "heading": "8. Sallekhasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Sallekhasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Sallekhasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Sallekhasuttavaṇṇanā"
       }
     ]
   },
@@ -83,15 +83,15 @@
     "att": [
       {
         "file": "s0203a.att2.xml",
-        "heading": "8. Upakkilesasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Upakkilesasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Upakkilesasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Upakkilesasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0203t.tik2.xml",
-        "heading": "8. Upakkilesasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Upakkilesasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Upakkilesasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Upakkilesasuttavaṇṇanā"
       }
     ]
   },
@@ -99,15 +99,15 @@
     "att": [
       {
         "file": "s0201a.att3.xml",
-        "heading": "7. C\u016b\u1e37ahatthipadopamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+C\u016b\u1e37ahatthipadopamasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Cūḷahatthipadopamasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Cūḷahatthipadopamasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik3.xml",
-        "heading": "7. C\u016b\u1e37ahatthipadopamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+C\u016b\u1e37ahatthipadopamasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Cūḷahatthipadopamasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Cūḷahatthipadopamasuttavaṇṇanā"
       }
     ]
   },
@@ -115,15 +115,15 @@
     "att": [
       {
         "file": "s0201a.att3.xml",
-        "heading": "8. Mah\u0101hatthipadopamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Mah\u0101hatthipadopamasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Mahāhatthipadopamasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Mahāhatthipadopamasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik3.xml",
-        "heading": "8. Mah\u0101hatthipadopamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Mah\u0101hatthipadopamasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Mahāhatthipadopamasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Mahāhatthipadopamasuttavaṇṇanā"
       }
     ]
   },
@@ -131,15 +131,15 @@
     "att": [
       {
         "file": "s0203a.att3.xml",
-        "heading": "10. Dh\u0101tuvibha\u1e45gasuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Dh\u0101tuvibha\u1e45gasuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Dhātuvibhaṅgasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Dhātuvibhaṅgasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0203t.tik3.xml",
-        "heading": "10. Dh\u0101tuvibha\u1e45gasuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Dh\u0101tuvibha\u1e45gasuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Dhātuvibhaṅgasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Dhātuvibhaṅgasuttavaṇṇanā"
       }
     ]
   },
@@ -147,15 +147,15 @@
     "att": [
       {
         "file": "s0203a.att4.xml",
-        "heading": "6. Chachakkasuttava\u1e47\u1e47an\u0101",
-        "pattern": "6\\.\\s+Chachakkasuttava\u1e47\u1e47an\u0101"
+        "heading": "6. Chachakkasuttavaṇṇanā",
+        "pattern": "6\\.\\s+Chachakkasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0203t.tik4.xml",
-        "heading": "6. Chachakkasuttava\u1e47\u1e47an\u0101",
-        "pattern": "6\\.\\s+Chachakkasuttava\u1e47\u1e47an\u0101"
+        "heading": "6. Chachakkasuttavaṇṇanā",
+        "pattern": "6\\.\\s+Chachakkasuttavaṇṇanā"
       }
     ]
   },
@@ -163,15 +163,15 @@
     "att": [
       {
         "file": "s0304a.att1.xml",
-        "heading": "1. Rahogatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Rahogatasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Rahogatasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Rahogatasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0304t.tik1.xml",
-        "heading": "1. Rahogatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Rahogatasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Rahogatasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Rahogatasuttavaṇṇanā"
       }
     ]
   },
@@ -179,15 +179,15 @@
     "att": [
       {
         "file": "s0304a.att1.xml",
-        "heading": "1. S\u012bvakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+S\u012bvakasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Sīvakasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Sīvakasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0304t.tik1.xml",
-        "heading": "1. S\u012bvakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+S\u012bvakasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Sīvakasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Sīvakasuttavaṇṇanā"
       }
     ]
   },
@@ -195,15 +195,15 @@
     "att": [
       {
         "file": "s0305a.att1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0305t.tik1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       }
     ]
   },
@@ -211,30 +211,30 @@
     "att": [
       {
         "file": "s0305a.att1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       },
       {
         "file": "s0404a.att0.xml",
-        "heading": "1. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "1. Mettāsuttavaṇṇanā",
+        "pattern": "1\\.\\s+Mettāsuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0305t.tik1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       },
       {
         "file": "s0404t.tik0.xml",
-        "heading": "1. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "1. Mettāsuttavaṇṇanā",
+        "pattern": "1\\.\\s+Mettāsuttavaṇṇanā"
       },
       {
         "file": "s0404t.tik27.xml",
-        "heading": "5. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "5. Mettāsuttavaṇṇanā",
+        "pattern": "5\\.\\s+Mettāsuttavaṇṇanā"
       }
     ]
   },
@@ -242,30 +242,30 @@
     "att": [
       {
         "file": "s0305a.att1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       },
       {
         "file": "s0404a.att0.xml",
-        "heading": "1. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "1. Mettāsuttavaṇṇanā",
+        "pattern": "1\\.\\s+Mettāsuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0305t.tik1.xml",
-        "heading": "4. Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mett\u0101sahagatasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mettāsahagatasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mettāsahagatasuttavaṇṇanā"
       },
       {
         "file": "s0404t.tik0.xml",
-        "heading": "1. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "1. Mettāsuttavaṇṇanā",
+        "pattern": "1\\.\\s+Mettāsuttavaṇṇanā"
       },
       {
         "file": "s0404t.tik27.xml",
-        "heading": "5. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "5. Mettāsuttavaṇṇanā",
+        "pattern": "5\\.\\s+Mettāsuttavaṇṇanā"
       }
     ]
   },
@@ -273,15 +273,15 @@
     "att": [
       {
         "file": "s0404a.att32.xml",
-        "heading": "5. Mettasuttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Mettasuttava\u1e47\u1e47an\u0101"
+        "heading": "5. Mettasuttavaṇṇanā",
+        "pattern": "5\\.\\s+Mettasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik27.xml",
-        "heading": "5. Mett\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Mett\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "5. Mettāsuttavaṇṇanā",
+        "pattern": "5\\.\\s+Mettāsuttavaṇṇanā"
       }
     ]
   },
@@ -289,30 +289,30 @@
     "att": [
       {
         "file": "s0305a.att2.xml",
-        "heading": "3. Cundasuttava\u1e47\u1e47an\u0101",
-        "pattern": "3\\.\\s+Cundasuttava\u1e47\u1e47an\u0101"
+        "heading": "3. Cundasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Cundasuttavaṇṇanā"
       },
       {
         "file": "s0403a.att30.xml",
-        "heading": "4. Mah\u0101cundasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mah\u0101cundasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mahācundasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mahācundasuttavaṇṇanā"
       },
       {
         "file": "s0404a.att17.xml",
-        "heading": "4. Mah\u0101cundasuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+Mah\u0101cundasuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Mahācundasuttavaṇṇanā",
+        "pattern": "4\\.\\s+Mahācundasuttavaṇṇanā"
       },
       {
         "file": "s0404a.att28.xml",
-        "heading": "10. Cundasuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Cundasuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Cundasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Cundasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0305t.tik2.xml",
-        "heading": "3. Cundasuttava\u1e47\u1e47an\u0101",
-        "pattern": "3\\.\\s+Cundasuttava\u1e47\u1e47an\u0101"
+        "heading": "3. Cundasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Cundasuttavaṇṇanā"
       }
     ]
   },
@@ -320,15 +320,15 @@
     "att": [
       {
         "file": "s0402a.att42.xml",
-        "heading": "7. Ahir\u0101jasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Ahir\u0101jasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Ahirājasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Ahirājasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0402t.tik40.xml",
-        "heading": "7. Ahir\u0101jasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Ahir\u0101jasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Ahirājasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Ahirājasuttavaṇṇanā"
       }
     ]
   },
@@ -336,15 +336,15 @@
     "att": [
       {
         "file": "s0403a.att28.xml",
-        "heading": "5. Anussati\u1e6d\u1e6dh\u0101nasuttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Anussati\u1e6d\u1e6dh\u0101nasuttava\u1e47\u1e47an\u0101"
+        "heading": "5. Anussatiṭṭhānasuttavaṇṇanā",
+        "pattern": "5\\.\\s+Anussatiṭṭhānasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0403t.tik25.xml",
-        "heading": "5. Anussati\u1e6d\u1e6dh\u0101nasuttava\u1e47\u1e47an\u0101",
-        "pattern": "5\\.\\s+Anussati\u1e6d\u1e6dh\u0101nasuttava\u1e47\u1e47an\u0101"
+        "heading": "5. Anussatiṭṭhānasuttavaṇṇanā",
+        "pattern": "5\\.\\s+Anussatiṭṭhānasuttavaṇṇanā"
       }
     ]
   },
@@ -352,15 +352,15 @@
     "att": [
       {
         "file": "s0403a.att26.xml",
-        "heading": "10. Mah\u0101n\u0101masuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Mah\u0101n\u0101masuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Mahānāmasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Mahānāmasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0403t.tik23.xml",
-        "heading": "10. Mah\u0101n\u0101masuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Mah\u0101n\u0101masuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Mahānāmasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Mahānāmasuttavaṇṇanā"
       }
     ]
   },
@@ -368,15 +368,15 @@
     "att": [
       {
         "file": "s0404a.att32.xml",
-        "heading": "1-2. Mah\u0101n\u0101masuttadvayava\u1e47\u1e47an\u0101",
-        "pattern": "1-2\\.\\s+Mah\u0101n\u0101masuttadvayava\u1e47\u1e47an\u0101"
+        "heading": "1-2. Mahānāmasuttadvayavaṇṇanā",
+        "pattern": "1-2\\.\\s+Mahānāmasuttadvayavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik27.xml",
-        "heading": "1-4. Pa\u1e6dhamamah\u0101n\u0101masutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "1-4\\.\\s+Pa\u1e6dhamamah\u0101n\u0101masutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "1-4. Paṭhamamahānāmasuttādivaṇṇanā",
+        "pattern": "1-4\\.\\s+Paṭhamamahānāmasuttādivaṇṇanā"
       }
     ]
   },
@@ -384,15 +384,15 @@
     "att": [
       {
         "file": "s0403a.att27.xml",
-        "heading": "9. Pa\u1e6dhamamara\u1e47assatisuttava\u1e47\u1e47an\u0101",
-        "pattern": "9\\.\\s+Pa\u1e6dhamamara\u1e47assatisuttava\u1e47\u1e47an\u0101"
+        "heading": "9. Paṭhamamaraṇassatisuttavaṇṇanā",
+        "pattern": "9\\.\\s+Paṭhamamaraṇassatisuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0403t.tik24.xml",
-        "heading": "9. Pa\u1e6dhamamara\u1e47assatisuttava\u1e47\u1e47an\u0101",
-        "pattern": "9\\.\\s+Pa\u1e6dhamamara\u1e47assatisuttava\u1e47\u1e47an\u0101"
+        "heading": "9. Paṭhamamaraṇassatisuttavaṇṇanā",
+        "pattern": "9\\.\\s+Paṭhamamaraṇassatisuttavaṇṇanā"
       }
     ]
   },
@@ -400,15 +400,15 @@
     "att": [
       {
         "file": "s0403a.att27.xml",
-        "heading": "10. Dutiyamara\u1e47assatisuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Dutiyamara\u1e47assatisuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Dutiyamaraṇassatisuttavaṇṇanā",
+        "pattern": "10\\.\\s+Dutiyamaraṇassatisuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0403t.tik24.xml",
-        "heading": "10. Dutiyamara\u1e47assatisuttava\u1e47\u1e47an\u0101",
-        "pattern": "10\\.\\s+Dutiyamara\u1e47assatisuttava\u1e47\u1e47an\u0101"
+        "heading": "10. Dutiyamaraṇassatisuttavaṇṇanā",
+        "pattern": "10\\.\\s+Dutiyamaraṇassatisuttavaṇṇanā"
       }
     ]
   },
@@ -416,15 +416,15 @@
     "att": [
       {
         "file": "s0404a.att7.xml",
-        "heading": "3-9. Mara\u1e47assatisuttadvay\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "3-9\\.\\s+Mara\u1e47assatisuttadvay\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "3-9. Maraṇassatisuttadvayādivaṇṇanā",
+        "pattern": "3-9\\.\\s+Maraṇassatisuttadvayādivaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik7.xml",
-        "heading": "1-10. Saddh\u0101sutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "1-10\\.\\s+Saddh\u0101sutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "1-10. Saddhāsuttādivaṇṇanā",
+        "pattern": "1-10\\.\\s+Saddhāsuttādivaṇṇanā"
       }
     ]
   },
@@ -432,15 +432,15 @@
     "att": [
       {
         "file": "s0404a.att5.xml",
-        "heading": "4. D\u012bghaj\u0101\u1e47usuttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+D\u012bghaj\u0101\u1e47usuttava\u1e47\u1e47an\u0101"
+        "heading": "4. Dīghajāṇusuttavaṇṇanā",
+        "pattern": "4\\.\\s+Dīghajāṇusuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik5.xml",
-        "heading": "4-5. D\u012bghaj\u0101\u1e47usutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "4-5\\.\\s+D\u012bghaj\u0101\u1e47usutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "4-5. Dīghajāṇusuttādivaṇṇanā",
+        "pattern": "4-5\\.\\s+Dīghajāṇusuttādivaṇṇanā"
       }
     ]
   },
@@ -448,15 +448,15 @@
     "att": [
       {
         "file": "s0404a.att13.xml",
-        "heading": "3. Nibb\u0101nasukhasuttava\u1e47\u1e47an\u0101",
-        "pattern": "3\\.\\s+Nibb\u0101nasukhasuttava\u1e47\u1e47an\u0101"
+        "heading": "3. Nibbānasukhasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Nibbānasukhasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik11.xml",
-        "heading": "2-3. Anupubbavih\u0101rasam\u0101pattisutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "2-3\\.\\s+Anupubbavih\u0101rasam\u0101pattisutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "2-3. Anupubbavihārasamāpattisuttādivaṇṇanā",
+        "pattern": "2-3\\.\\s+Anupubbavihārasamāpattisuttādivaṇṇanā"
       }
     ]
   },
@@ -464,15 +464,15 @@
     "att": [
       {
         "file": "s0404a.att13.xml",
-        "heading": "4. G\u0101v\u012bupam\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+G\u0101v\u012bupam\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "4. Gāvīupamāsuttavaṇṇanā",
+        "pattern": "4\\.\\s+Gāvīupamāsuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik11.xml",
-        "heading": "4. G\u0101v\u012bupam\u0101suttava\u1e47\u1e47an\u0101",
-        "pattern": "4\\.\\s+G\u0101v\u012bupam\u0101suttava\u1e47\u1e47an\u0101"
+        "heading": "4. Gāvīupamāsuttavaṇṇanā",
+        "pattern": "4\\.\\s+Gāvīupamāsuttavaṇṇanā"
       }
     ]
   },
@@ -480,15 +480,15 @@
     "att": [
       {
         "file": "s0404a.att6.xml",
-        "heading": "3. Sa\u1e43khittasuttava\u1e47\u1e47an\u0101",
-        "pattern": "3\\.\\s+Sa\u1e43khittasuttava\u1e47\u1e47an\u0101"
+        "heading": "3. Saṃkhittasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Saṃkhittasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik6.xml",
-        "heading": "1-5. Icch\u0101sutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "1-5\\.\\s+Icch\u0101sutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "1-5. Icchāsuttādivaṇṇanā",
+        "pattern": "1-5\\.\\s+Icchāsuttādivaṇṇanā"
       }
     ]
   },
@@ -496,15 +496,15 @@
     "att": [
       {
         "file": "s0304a.att1.xml",
-        "heading": "6. Sallasuttava\u1e47\u1e47an\u0101",
-        "pattern": "6\\.\\s+Sallasuttava\u1e47\u1e47an\u0101"
+        "heading": "6. Sallasuttavaṇṇanā",
+        "pattern": "6\\.\\s+Sallasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0304t.tik1.xml",
-        "heading": "6. Sallasuttava\u1e47\u1e47an\u0101",
-        "pattern": "6\\.\\s+Sallasuttava\u1e47\u1e47an\u0101"
+        "heading": "6. Sallasuttavaṇṇanā",
+        "pattern": "6\\.\\s+Sallasuttavaṇṇanā"
       }
     ]
   },
@@ -512,15 +512,15 @@
     "att": [
       {
         "file": "s0402a.att45.xml",
-        "heading": "8. Attahitasuttava\u1e47\u1e47an\u0101",
-        "pattern": "8\\.\\s+Attahitasuttava\u1e47\u1e47an\u0101"
+        "heading": "8. Attahitasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Attahitasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0402t.tik43.xml",
-        "heading": "7-10. Khippanisantisutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "7-10\\.\\s+Khippanisantisutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "7-10. Khippanisantisuttādivaṇṇanā",
+        "pattern": "7-10\\.\\s+Khippanisantisuttādivaṇṇanā"
       }
     ]
   },
@@ -528,15 +528,15 @@
     "att": [
       {
         "file": "s0403a.att45.xml",
-        "heading": "1. Hiriottappasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Hiriottappasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Hiriottappasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Hiriottappasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0403t.tik39.xml",
-        "heading": "1-2. Hiriottappasutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "1-2\\.\\s+Hiriottappasutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "1-2. Hiriottappasuttādivaṇṇanā",
+        "pattern": "1-2\\.\\s+Hiriottappasuttādivaṇṇanā"
       }
     ]
   },
@@ -544,15 +544,15 @@
     "att": [
       {
         "file": "s0404a.att5.xml",
-        "heading": "1. Gotam\u012bsuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Gotam\u012bsuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Gotamīsuttavaṇṇanā",
+        "pattern": "1\\.\\s+Gotamīsuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik5.xml",
-        "heading": "1-3. Gotam\u012bsutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "1-3\\.\\s+Gotam\u012bsutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "1-3. Gotamīsuttādivaṇṇanā",
+        "pattern": "1-3\\.\\s+Gotamīsuttādivaṇṇanā"
       }
     ]
   },
@@ -560,15 +560,15 @@
     "att": [
       {
         "file": "s0404a.att15.xml",
-        "heading": "1. Kimatthiyasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Kimatthiyasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Kimatthiyasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Kimatthiyasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik13.xml",
-        "heading": "1. Kimatthiyasuttava\u1e47\u1e47an\u0101",
-        "pattern": "1\\.\\s+Kimatthiyasuttava\u1e47\u1e47an\u0101"
+        "heading": "1. Kimatthiyasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Kimatthiyasuttavaṇṇanā"
       }
     ]
   },
@@ -576,15 +576,15 @@
     "att": [
       {
         "file": "s0404a.att15.xml",
-        "heading": "2. Cetan\u0101kara\u1e47\u012byasuttava\u1e47\u1e47an\u0101",
-        "pattern": "2\\.\\s+Cetan\u0101kara\u1e47\u012byasuttava\u1e47\u1e47an\u0101"
+        "heading": "2. Cetanākaraṇīyasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Cetanākaraṇīyasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik13.xml",
-        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "2-5. Cetanākaraṇīyasuttādivaṇṇanā",
+        "pattern": "2-5\\.\\s+Cetanākaraṇīyasuttādivaṇṇanā"
       }
     ]
   },
@@ -592,15 +592,15 @@
     "att": [
       {
         "file": "s0404a.att15.xml",
-        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
-        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+        "heading": "3-5. Upanisasuttattayavaṇṇanā",
+        "pattern": "3-5\\.\\s+Upanisasuttattayavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik13.xml",
-        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "2-5. Cetanākaraṇīyasuttādivaṇṇanā",
+        "pattern": "2-5\\.\\s+Cetanākaraṇīyasuttādivaṇṇanā"
       }
     ]
   },
@@ -608,15 +608,15 @@
     "att": [
       {
         "file": "s0404a.att15.xml",
-        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
-        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+        "heading": "3-5. Upanisasuttattayavaṇṇanā",
+        "pattern": "3-5\\.\\s+Upanisasuttattayavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik13.xml",
-        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "2-5. Cetanākaraṇīyasuttādivaṇṇanā",
+        "pattern": "2-5\\.\\s+Cetanākaraṇīyasuttādivaṇṇanā"
       }
     ]
   },
@@ -624,15 +624,15 @@
     "att": [
       {
         "file": "s0404a.att15.xml",
-        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
-        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+        "heading": "3-5. Upanisasuttattayavaṇṇanā",
+        "pattern": "3-5\\.\\s+Upanisasuttattayavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0404t.tik13.xml",
-        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
-        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+        "heading": "2-5. Cetanākaraṇīyasuttādivaṇṇanā",
+        "pattern": "2-5\\.\\s+Cetanākaraṇīyasuttādivaṇṇanā"
       }
     ]
   },
@@ -640,15 +640,15 @@
     "att": [
       {
         "file": "s0201a.att3.xml",
-        "heading": "2. Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "2\\.\\s+Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101"
+        "heading": "2. Alagaddūpamasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Alagaddūpamasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0201t.tik3.xml",
-        "heading": "2. Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101",
-        "pattern": "2\\.\\s+Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101"
+        "heading": "2. Alagaddūpamasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Alagaddūpamasuttavaṇṇanā"
       }
     ]
   },
@@ -656,15 +656,15 @@
     "att": [
       {
         "file": "s0203a.att1.xml",
-        "heading": "7. Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Mahācattārīsakasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Mahācattārīsakasuttavaṇṇanā"
       }
     ],
     "tika": [
       {
         "file": "s0203t.tik1.xml",
-        "heading": "7. Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101",
-        "pattern": "7\\.\\s+Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101"
+        "heading": "7. Mahācattārīsakasuttavaṇṇanā",
+        "pattern": "7\\.\\s+Mahācattārīsakasuttavaṇṇanā"
       }
     ]
   },
@@ -713,6 +713,70 @@
         "file": "s0305t.tik6.xml",
         "heading": "10. Vibhaṅgasuttavaṇṇanā",
         "pattern": "10\\.\\s+Vibhaṅgasuttavaṇṇanā"
+      }
+    ]
+  },
+  "mn63": {
+    "att": [
+      {
+        "file": "s0202a.att1.xml",
+        "heading": "3. Cūḷamālukyasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Cūḷamālukyasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0202t.tik1.xml",
+        "heading": "3. Cūḷamālukyasuttavaṇṇanā",
+        "pattern": "3\\.\\s+Cūḷamālukyasuttavaṇṇanā"
+      }
+    ]
+  },
+  "mn72": {
+    "att": [
+      {
+        "file": "s0202a.att2.xml",
+        "heading": "2. Aggivacchasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Aggivacchasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0202t.tik2.xml",
+        "heading": "2. Aggivacchasuttavaṇṇanā",
+        "pattern": "2\\.\\s+Aggivacchasuttavaṇṇanā"
+      }
+    ]
+  },
+  "mn26": {
+    "att": [
+      {
+        "file": "s0201a.att3.xml",
+        "heading": "6. Pāsarāsisuttavaṇṇanā",
+        "pattern": "6\\.\\s+Pāsarāsisuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0201t.tik3.xml",
+        "heading": "6. Pāsarāsisuttavaṇṇanā",
+        "pattern": "6\\.\\s+Pāsarāsisuttavaṇṇanā"
+      }
+    ]
+  },
+  "sn1": {
+    "att": [
+      {
+        "file": "s0301a.att1.xml",
+        "heading": "Devatāsaṃyuttavaṇṇanā",
+        "pattern": "Devatāsaṃyuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0301t.tik1.xml",
+        "heading": "Devatāsaṃyuttavaṇṇanāṭīkā",
+        "pattern": "Devatāsaṃyuttavaṇṇanāṭīkā"
       }
     ]
   }

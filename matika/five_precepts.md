@@ -3,44 +3,94 @@ id: five_precepts
 title_pali: Pañcasīla
 type: matika
 category: list_note
+updated: 2026-06-19
+tags: [sila, ethics, training-rules, pali-canon, matika, lay-practice]
 ---
+
 🏠 [[INDEX|Dashboard]]
 
 # Five Precepts (Pañcasīla)
-**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]]
 
-## The List
+**Navigation**: [[Matika-Index|Pali Canon Vault]] / [[matika/Matika-Index|Mātika]] / Five Precepts
 
-1. **[[abstaining_from_killing|Pāṇātipātā veramaṇī]]**  
-   *Abstaining from taking life (killing)*
-2. **[[abstaining_from_stealing|Adinnādānā veramaṇī]]**  
-   *Abstaining from taking what is not given (stealing)*
-3. **[[abstaining_from_sexual_misconduct|Kāmesumicchācārā veramaṇī]]**  
-   *Abstaining from sexual misconduct*
-4. **[[abstaining_from_false_speech|Musāvādā veramaṇī]]**  
-   *Abstaining from false speech (lying)*
-5. **[[abstaining_from_intoxicants|Surāmerayamajjapamādaṭṭhānā veramaṇī]]**  
-   *Abstaining from fermented and distilled liquors and intoxicants*
+The **Five Precepts** (*pañcasīla*) constitute the foundational ethical framework and daily training rules for Buddhist lay practitioners. In the Pali Canon, they are not framed as commandments but as **training rules** (*sikkhāpada*) that one voluntarily undertakes to cultivate mindfulness, compassion, and mental stability. Ethical conduct (*sīla*) is the prerequisite for concentration (*samādhi*) and wisdom (*paññā*).
 
-## Spaced Repetition Review (Flashcards)
-<!-- card-deck: Matika/FivePrecepts -->
+---
 
-Pāṇātipātā veramaṇī :: Abstaining from taking life (killing)
-Adinnādānā veramaṇī :: Abstaining from taking what is not given (stealing)
-Kāmesumicchācārā veramaṇī :: Abstaining from sexual misconduct
-Musāvādā veramaṇī :: Abstaining from false speech (lying)
-Surāmerayamajjapamādaṭṭhānā veramaṇī :: Abstaining from fermented and distilled liquors and intoxicants that cause heedlessness
+## 📿 The Five Training Rules (Sikkhāpada)
+
+Each precept is formally undertaken through a recitation of commitment:
+
+### 1. Abstaining from Taking Life
+* **Pali**: *Pāṇātipātā veramaṇī sikkhāpadaṁ samādiyāmi.*
+* **Translation**: "I undertake the training rule to abstain from taking life."
+* **Negative Dimension**: Restraining from killing, harming, or injuring any living being.
+* **Positive Dimension**: Cultivation of loving-kindness (*mettā*), compassion (*karuṇā*), and protection of life.
+
+### 2. Abstaining from Stealing
+* **Pali**: *Adinnādānā veramaṇī sikkhāpadaṁ samādiyāmi.*
+* **Translation**: "I undertake the training rule to abstain from taking what is not given."
+* **Negative Dimension**: Restraining from theft, fraud, exploitation, and dishonesty.
+* **Positive Dimension**: Cultivation of generosity (*dāna*), honesty, and respect for others' livelihoods.
+
+### 3. Abstaining from Sexual Misconduct
+* **Pali**: *Kāmesumicchācārā veramaṇī sikkhāpadaṁ samādiyāmi.*
+* **Translation**: "I undertake the training rule to abstain from sexual misconduct."
+* **Negative Dimension**: Restraining from sexual activity that causes harm, coercion, exploitation, or violates commitments.
+* **Positive Dimension**: Cultivation of sensory restraint, contentment, and respect in relationships.
+
+### 4. Abstaining from False Speech
+* **Pali**: *Musāvādā veramaṇī sikkhāpadaṁ samādiyāmi.*
+* **Translation**: "I undertake the training rule to abstain from false speech."
+* **Negative Dimension**: Restraining from lying, deception, harsh speech, slander, and idle chatter.
+* **Positive Dimension**: Cultivation of truthful, gentle, unifying, and timely speech.
+
+### 5. Abstaining from Intoxicants
+* **Pali**: *Surāmerayamajjapamādaṭṭhānā veramaṇī sikkhāpadaṁ samādiyāmi.*
+* **Translation**: "I undertake the training rule to abstain from fermented and distilled liquors and intoxicants that cause heedlessness."
+* **Negative Dimension**: Restraining from alcohol, recreational drugs, and substances that cloud awareness.
+* **Positive Dimension**: Cultivation of constant mindfulness (*sati*), clear comprehension (*sampajañña*), and heedfulness (*pamāda*).
+
+---
+
+## 🔬 Psychological Mechanics: "Animosity Stillness"
+In Buddhist psychology, violating the precepts is an expression of greed (*lobha*), hatred (*dosa*), or delusion (*moha*), which agitates the mind and builds negative karmic momentum. Keeping the precepts is termed a **gift of safety** (*abhayadāna*) to all beings: by committing to non-harming, you remove fear and animosity from your relationships, which directly calms the nervous system and creates the quiet mental landscape necessary for deep samādhi.
+
+---
+
+## 📖 Canonical Definitions & References
+
+The Five Precepts are defined, referenced, and contextualized across several key sections of the Pali Canon:
+
+### 1. Ethical Practice for Self and Others
+* **[[anguttara_nikaya/an4_99|AN 4.99: Sikkhāpadasutta (Training Rules)]]**: Explicitly defines the five precepts and classifies individuals based on them. The highest individual practices both to benefit themselves (by keeping the precepts) and to benefit others (by encouraging them to keep the precepts).
+
+### 2. The Five Great Gifts (Mahādāna)
+* **AN 8.39: Abhisandasutta (Flow of Merit)**: Defines the five precepts as "five great gifts" (*mahādānā*) that are ancient, traditional, and uncorrupted. By keeping them, one gives freedom from fear, animosity, and oppression to infinite beings, and in return, enjoys infinite safety.
+
+### 3. The Path to Stream-Entry (Sotāpatti)
+* **AN 5.179: Gihisutta (The Householder)**: The Buddha teaches Anāthapiṇḍika that when a lay practitioner keeps the five precepts and possesses the four factors of stream-entry, they can declare themselves free from rebirth in lower realms.
+* **[[samyutta_nikaya/sn55|SN 55.7: Veḷudvāreyyasutta (The Bamboo Gate People)]]**: The Buddha delivers a direct discourse to laypeople, explaining the Five Precepts as the standard of conduct that leads to stream-entry. He frames them using the Golden Rule: *"How can I inflict on another what I find unpleasant for myself?"*
+
+### 4. Quelling the Five Fearful Animosities
+* **SN 12.41: Pañcabhayasutta (Five Fears)** & **AN 5.174 / AN 10.92 (Vera Suttas)**: Define the five precepts as the quelling of the **five fearful animosities** (*pañca bhayāni verāni*) arising from killing, stealing, sexual misconduct, lying, and intoxication. Quelling these eliminates danger in this life and the next.
+
+### 5. Monastic Codification
+* **[[mula/vinaya/patimokkha_bhikkhu|Bhikkhu Pātimokkha]]**: The monastic code of 227 rules represents a detailed expansion of these five basic lay precepts. For example:
+  * First Precept → *Pārājika 3* (killing a human causes expulsion).
+  * Second Precept → *Pārājika 2* (stealing causes expulsion).
+  * Third Precept → *Pārājika 1* (any sexual activity causes expulsion).
+  * Fourth Precept → *Pācittiya 1* (lying requires confession).
+  * Fifth Precept → *Pācittiya 51* (drinking alcohol requires confession).
+
+### 6. Contemplative & Verse References
+* **[[dhp_10_dandavagga|Dhp Ch. 10: Daṇḍavagga (The Rod)]]**: Verses 129–145 illustrate the first precept (non-harm), emphasizing that all beings fear punishment and love life.
+* **[[udana#Ud 2.3: Daṇḍasutta|Ud 2.3: Daṇḍa Sutta]]**: The Buddha witnesses boys beating a snake with a stick and states: *"One who seeks his own happiness by harming other beings who want happiness does not find happiness after death."*
+* **[[sutta_nipata/snp1_6|Snp 1.6: Parābhavasutta (Downfall)]]** & **[[sutta_nipata/snp1_7|Snp 1.7: Vasalasutta (Outcast)]]**: Detail how ethical violations and breaking the precepts degrade the mind and lead to personal downfall.
+* **[[digha_nikaya/dn16|DN 16: Mahāparinibbānasutta]]**: In his final days, the Buddha details the five rewards of ethical conduct (*sīla*) for lay practitioners: great wealth through diligence, a good reputation, entering assemblies confidently, dying unconfused, and rebirth in a good destination.
+
+---
 
 ## Related Lists
-* Related: [[noble_eightfold_path|Noble Eightfold Path]] (corresponds to the factors of Right Action / Kammanta and Right Speech / Vācā)
-
-## Canonical References
-* [[mn118|MN 118: Ānāpānasati Sutta]] (practicing mindfulness requires a foundation of ethical conduct, though not explicitly detailed in the sutta itself)
-* [[dhp_10_dandavagga|Dhp Ch. 10: Daṇḍavagga (The Rod)]] — the first precept (non-harm / ahimsa) is the central theme; v. 129-132 state that all beings fear the rod, and one who does not harm knowing this finds happiness; v. 133-145 extend the principle through rebirth consequences of harm
-* [[sn55|SN 55: Sotāpattisaṃyutta]] (specifically [[sn55#SN 55.7: Veḷudvāreyyasutta — *The People of Bamboo Gate*|SN 55.7: Veḷudvāreyyasutta]], where the five precepts are taught to lay practitioners as the ethical standard leading to stream-entry)
-* [[udana#Ud 2.3: Daṇḍasutta — *A Stick*|Ud 2.3: Daṇḍa Sutta]] — Illustrates the first precept (abstaining from taking life/harming) through the Buddha's intervention when boys beat a snake, noting that seeking one's own happiness by harming others leads to no happiness hereafter.
-* [[snp1_6|Snp 1.6: Parābhavasutta]] — outlines how ethical failures (such as anger, pride, and violating the precepts) lead to a person's downfall.
-* [[snp1_7|Snp 1.7: Vasalasutta]] — teaches that a person becomes an outcast or a noble one through their ethical conduct and actions (kamma), not by birth.
-* [[dn16|DN 16: Mahāparinibbānasutta]] — in his final journey, the Buddha delivers the discourse on the benefits of ethical conduct (*sīla*) at Pāṭaligāma, highlighting how an ethical person obtains great wealth, good reputation, and enters a good rebirth.
-* [[mula/vinaya/patimokkha_bhikkhu|Bhikkhu Pātimokkha]] — the monastic disciplinary code expands these five basic ethical precepts into 227 rules of conduct for monks (e.g., Pārājika 1–3, Pācittiya 1, 51, 61)
-
+* [[noble_eightfold_path|Noble Eightfold Path]] — Corresponds to **Right Action** (*sammā-kammanta*), **Right Speech** (*sammā-vācā*), and **Right Livelihood** (*sammā-ājīva*).
+* [[eight_precepts|Eight Precepts]] — The expanded lay rules undertaken on Uposatha days.

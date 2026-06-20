@@ -15,6 +15,17 @@ API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 SAMYUTTAS = [
     {
         "nikaya_dir":   "samyutta_nikaya",
+        "slug":         "sn1",
+        "sutta_code":   "SN1",
+        "pali_title":   "Devatāsaṃyutta",
+        "en_title":     "Linked Discourses with Devas",
+        "nikaya_label": "Saṃyutta Nikāya",
+        "num":          1,
+        "sc_ids":       [f"sn1.{n}" for n in range(1, 82)],   # sn1.1–81
+        "tags":         ["devata", "deva", "verse"],
+    },
+    {
+        "nikaya_dir":   "samyutta_nikaya",
         "slug":         "sn46",
         "sutta_code":   "SN46",
         "pali_title":   "Bojjhaṅgasaṃyutta",
@@ -225,8 +236,12 @@ def append_index(nikaya_dir, layer, slug, sutta_code, pali_title, wc):
 
 
 def main():
+    import sys
+    target = sys.argv[1] if len(sys.argv) > 1 else None
     for s in SAMYUTTAS:
         slug         = s["slug"]
+        if target and slug != target:
+            continue
         sutta_code   = s["sutta_code"]
         pali_title   = s["pali_title"]
         nikaya_dir   = s["nikaya_dir"]

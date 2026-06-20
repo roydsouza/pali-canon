@@ -33,3 +33,4 @@ layer: atthakatha
 | [[sn51.15|SN 51.15]] | [[sn51.15_att|Uṇṇābhabrāhmaṇasuttavaṇṇanā]] | tipitaka.org CSCD | — | 58 |
 | [[sn51.20|SN 51.20]] | [[sn51.20_att|Vibhaṅgasuttavaṇṇanā]] | tipitaka.org CSCD | — | 538 |
 
+| [[sn1|SN1]] | [[sn1_att|Devatāsaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 16,989 |

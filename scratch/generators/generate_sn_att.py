@@ -14,6 +14,17 @@ TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTAS = [
     {
+        "slug":             "sn1",
+        "sutta_code":       "SN1",
+        "nikaya_dir":       "samyutta_nikaya",
+        "pali_title":       "Devatāsaṃyutta",
+        "en_title":         "Linked Discourses with Devas",
+        "nikaya_label":     "Saṃyutta Nikāya",
+        "commentary_name":  "Sāratthappakāsinī (Saṃyutta Nikāya Atthakathā)",
+        "cscd_file":        "s0301a.att1.xml",
+        "section_pattern":  None,
+    },
+    {
         "slug":             "sn46",
         "sutta_code":       "SN46",
         "nikaya_dir":       "samyutta_nikaya",
@@ -174,8 +185,12 @@ def append_index(nikaya_dir, slug, sutta_code, pali_title, wc):
 
 
 def main():
+    import sys
+    target = sys.argv[1] if len(sys.argv) > 1 else None
     for s in SAMYUTTAS:
         slug       = s["slug"]
+        if target and slug != target:
+            continue
         sutta_code = s["sutta_code"]
         pali_title = s["pali_title"]
         nikaya_dir = s["nikaya_dir"]
