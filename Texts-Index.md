@@ -1,7 +1,7 @@
 🏠 [[INDEX|Dashboard]]
 
 # Pali Canon Vault Index
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pali Canon Vault Index
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Pali Canon Vault Index
 
 > [!INFO] ⭐ Serves the [[nexus/mission/Mission|North Star]]
 > Root teachings of the Buddha (Mūla suttas, Satipaṭṭhāna, Ānāpānasati) providing the direct phenomenological instruction for mental discipline, concentration, and equanimity.

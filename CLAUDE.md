@@ -1,7 +1,7 @@
 🏠 [[INDEX|Dashboard]]
 
 # CLAUDE.md — Pali Canon Vault Agent Guardrails
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > CLAUDE.md — Pali Canon Vault Agent Guardrails
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > CLAUDE.md — Pali Canon Vault Agent Guardrails
 
 *This is the project-level configuration for AI agents working on this vault.
 Read this FIRST before making any changes.*

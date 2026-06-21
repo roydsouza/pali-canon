@@ -1,7 +1,7 @@
 🏠 [[INDEX|Dashboard]]
 
 # Vision: Pali Canon Vault
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Vision: Pali Canon Vault
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Vision: Pali Canon Vault
 
 *Written 2026-05-22 by Claude Sonnet 4.6, informed by conversation with Roy Peter.*
 *Updated 2026-05-27: Standardized inventory and defined boundary with companion NLP system.*

@@ -6,6 +6,7 @@ type: atthakatha
 pitaka: sutta
 nikaya: samyutta
 samyutta: sn1
+sutta_number: sn1
 mula_file: [[sn1]]
 tika_file: [[sn1_tik]]
 source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
@@ -13,7 +14,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 
 # Commentary on Saṃyutta Nikāya: Devatāsaṃyutta
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/samyutta_nikaya/Atthakatha-Samyutta-Index|Saṃyutta Nikāya]]
 **Mūla**: [[sn1|Devatāsaṃyutta — Linked Discourses with Devas]]
 **Tīkā**: [[sn1_tik|Devatāsaṃyuttavaṇṇanāṭīkā (Sub-commentary)]]
 

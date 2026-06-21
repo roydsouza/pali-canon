@@ -195,7 +195,7 @@ def update_index(slug, display, pali_title, wc):
         content = f.read()
     if f"{slug}_att" in content:
         return
-    row = (f"| [[{slug}|{display}]] | [[{slug}_att|{pali_title}vaṇṇanā]] | "
+    row = (f"| [[{slug}\\|{display}]] | [[{slug}_att\\|{pali_title}vaṇṇanā]] | "
            f"Manorathapūraṇī (CSCD) | — | {wc:,} |\n")
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)

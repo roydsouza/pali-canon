@@ -220,7 +220,7 @@ def build_chapter_file(chapter_num, pali_name, en_name, slug, verse_range, stori
     return "\n".join(lines)
 
 def build_index(chapters_done):
-    rows = [f"| [[{slug}_att|{num}. {pali}]] | {en} | {vr} |"
+    rows = [f"| [[{slug}_att\\|{num}. {pali}]] | {en} | {vr} |"
             for num, pali, en, slug, vr in chapters_done]
     return f"""---
 type: index

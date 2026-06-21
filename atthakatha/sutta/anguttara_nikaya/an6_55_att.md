@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Commentary on Aṅguttara Nikāya: Soṇasutta
 *AN 6.55 — With Soṇa*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an6_55|AN 6.55 — Soṇasutta]]
 **Tīkā**: [[an6_55_tik|Soṇasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

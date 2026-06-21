@@ -26,9 +26,9 @@ Every sutta in this vault has up to three corresponding files:
 
 | Layer | Pali term | What it is | Example |
 |---|---|---|---|
-| Root text | *Mūla* | The canonical sutta in Pali, interleaved with Sujato's English | [[mn118|mn118.md]] |
-| Commentary | *Aṭṭhakathā* | Buddhaghosa's (5th c. CE) systematic exegesis, in classical Pali | [[mn118_att|mn118_att.md]] |
-| Sub-commentary | *Ṭīkā* | Later scholars' commentary on Buddhaghosa, in classical Pali | [[mn118_tik|mn118_tik.md]] |
+| Root text | *Mūla* | The canonical sutta in Pali, interleaved with Sujato's English | [[mn118\|mn118.md]] |
+| Commentary | *Aṭṭhakathā* | Buddhaghosa's (5th c. CE) systematic exegesis, in classical Pali | [[mn118_att\|mn118_att.md]] |
+| Sub-commentary | *Ṭīkā* | Later scholars' commentary on Buddhaghosa, in classical Pali | [[mn118_tik\|mn118_tik.md]] |
 
 The commentaries are in Pali. You do not need to read Pali to benefit from them — but even without Pali, you can use them as structural reference: the paragraph anchors (§1, §2, …) in the commentary align with passages in the mūla, so you can see which commentary paragraphs correspond to which root-text passages.
 

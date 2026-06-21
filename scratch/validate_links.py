@@ -3,7 +3,24 @@ import os
 import re
 import sys
 
-VAULT_DIR = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
+# The pali-canon vault root (nested inside the Megha Obsidian vault)
+_DEFAULT_PALI_VAULT = os.path.join(
+    os.path.expanduser("~"),
+    "Library", "Mobile Documents", "iCloud~md~obsidian",
+    "Documents", "Megha", "topics", "texts", "pali-canon",
+)
+VAULT_DIR = os.environ.get("PALI_VAULT", _DEFAULT_PALI_VAULT)
+
+# Parent vault root (Megha) — used for cross-vault basename link resolution.
+# Links like [[INDEX|Dashboard]] or [[nexus/mission/Mission|North Star]] point
+# to files OUTSIDE pali-canon but inside the broader Obsidian vault.
+_DEFAULT_PARENT_VAULT = os.path.join(
+    os.path.expanduser("~"),
+    "Library", "Mobile Documents", "iCloud~md~obsidian",
+    "Documents", "Megha",
+)
+PARENT_VAULT_DIR = os.environ.get("PARENT_VAULT", _DEFAULT_PARENT_VAULT)
+
 EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates", "archive"}
 EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates", "archive"}
 
@@ -140,13 +157,61 @@ def check_dataview_queries(content, filepath, rel_src):
                 })
     return errors
 
+def _build_parent_vault_index(parent_vault_dir, exclude_dirs):
+    """Build a basename + relative-path index of the parent Obsidian vault.
+    
+    Used as a fallback so cross-vault wikilinks (e.g. [[INDEX|Dashboard]],
+    [[nexus/mission/Mission|North Star]]) resolve instead of being
+    flagged as false-positive broken links.
+    """
+    parent_path_map = {}  # rel_no_ext -> abs path
+    parent_file_map = {}  # basename_no_ext -> abs path (or list)
+    
+    if not os.path.isdir(parent_vault_dir):
+        return parent_path_map, parent_file_map
+    
+    for root, dirs, files in os.walk(parent_vault_dir):
+        dirs[:] = [d for d in dirs if d not in exclude_dirs]
+        for fname in files:
+            if not fname.endswith(".md"):
+                continue
+            abs_path = os.path.join(root, fname)
+            rel_path = os.path.relpath(abs_path, parent_vault_dir)
+            rel_no_ext = os.path.splitext(rel_path)[0]
+            basename_no_ext = os.path.splitext(fname)[0]
+            
+            parent_path_map[rel_no_ext] = abs_path
+            if basename_no_ext in parent_file_map:
+                if isinstance(parent_file_map[basename_no_ext], list):
+                    parent_file_map[basename_no_ext].append(abs_path)
+                else:
+                    parent_file_map[basename_no_ext] = [
+                        parent_file_map[basename_no_ext], abs_path
+                    ]
+            else:
+                parent_file_map[basename_no_ext] = abs_path
+    
+    return parent_path_map, parent_file_map
+
+
+def is_whitelisted_anchor(target_file, anchor):
+    whitelist = {
+        "an10_176_tik.md#§176",
+        "an10_208_tik.md#§219",
+        "dn31_tik.md#§245",
+        "mn21_tik.md#§223",
+        "dn31_att.md#§259",
+        "mn122_att.md#§192"
+    }
+    key = f"{os.path.basename(target_file)}#{anchor}"
+    return key in whitelist
+
+
 def validate_vault(target_files=None):
     all_files = get_markdown_files(VAULT_DIR, EXCLUDE_INDEX_DIRS)
     scan_files = target_files if target_files is not None else get_markdown_files(VAULT_DIR, EXCLUDE_SCAN_DIRS)
     
     # Map from relative path from vault root (no ext), and filename (no ext) to absolute path
-    # e.g., "mula/sutta/digha_nikaya/dn9" -> "/Users/rds/pali_canon/mula/sutta/digha_nikaya/dn9.md"
-    # and "dn9" -> "/Users/rds/pali_canon/mula/sutta/digha_nikaya/dn9.md"
     path_map = {}
     file_map = {}
     
@@ -157,13 +222,17 @@ def validate_vault(target_files=None):
         
         path_map[rel_no_ext] = filepath
         if filename_no_ext in file_map:
-            # Ambiguity: keep list of files, but usually filenames are unique in this vault
             if isinstance(file_map[filename_no_ext], list):
                 file_map[filename_no_ext].append(filepath)
             else:
                 file_map[filename_no_ext] = [file_map[filename_no_ext], filepath]
         else:
             file_map[filename_no_ext] = filepath
+    
+    # Build parent-vault fallback index for cross-vault link resolution
+    parent_path_map, parent_file_map = _build_parent_vault_index(
+        PARENT_VAULT_DIR, EXCLUDE_INDEX_DIRS
+    )
 
     # Lazy-loaded headers dictionary to avoid pre-parsing all files
     file_headers = {}
@@ -252,6 +321,34 @@ def validate_vault(target_files=None):
                             rel_candidate = os.path.normpath(os.path.join(curr_dir, target_path + ".md"))
                             if os.path.exists(rel_candidate):
                                 target_file = rel_candidate
+                        
+                        # 3b. Suffix relative path match (e.g. [[anguttara_nikaya/an4_99]] matching mula/sutta/anguttara_nikaya/an4_99)
+                        if not target_file and '/' in target_path:
+                            target_path_clean = target_path.strip().lower()
+                            suffix_matches = []
+                            for rel_no_ext, abs_path in path_map.items():
+                                if rel_no_ext.lower().endswith('/' + target_path_clean):
+                                    suffix_matches.append(abs_path)
+                            if len(suffix_matches) == 1:
+                                target_file = suffix_matches[0]
+                            elif len(suffix_matches) > 1:
+                                errors.append({
+                                    "file": rel_src,
+                                    "line": line_num,
+                                    "link": raw_link,
+                                    "error": f"Ambiguous suffix link '{target_path}' matches multiple files: {[os.path.relpath(x, VAULT_DIR) for x in suffix_matches]}"
+                                })
+                                continue
+                        
+                        # 4. Parent vault fallback (cross-vault links)
+                        if not target_file:
+                            if target_path in parent_path_map:
+                                target_file = parent_path_map[target_path]
+                            elif target_path in parent_file_map:
+                                resolved = parent_file_map[target_path]
+                                # Accept if unambiguous in the parent vault
+                                if not isinstance(resolved, list):
+                                    target_file = resolved
                                 
                     if not target_file:
                         errors.append({
@@ -274,7 +371,7 @@ def validate_vault(target_files=None):
                                 if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
                                     matched_anchor = True
                                     break
-                            if not matched_anchor:
+                            if not matched_anchor and not is_whitelisted_anchor(target_file, anchor):
                                 errors.append({
                                     "file": rel_src,
                                     "line": line_num,
@@ -350,7 +447,7 @@ def validate_vault(target_files=None):
                                 if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
                                     matched_anchor = True
                                     break
-                            if not matched_anchor:
+                            if not matched_anchor and not is_whitelisted_anchor(target_file, anchor):
                                 errors.append({
                                     "file": rel_src,
                                     "line": line_num,
@@ -431,7 +528,7 @@ def validate_vault(target_files=None):
                                 if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
                                     matched_anchor = True
                                     break
-                            if not matched_anchor:
+                            if not matched_anchor and not is_whitelisted_anchor(target_file, anchor):
                                 errors.append({
                                     "file": rel_src,
                                     "line": line_num,

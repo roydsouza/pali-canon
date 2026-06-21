@@ -195,7 +195,7 @@ def update_att_index(nikaya_dir, slug, sutta_code, pali_title, notes_count, wc):
         return
     if "| Sutta |" not in content:
         content = content.rstrip() + "\n\n## Migrated Texts\n\n| Sutta | Commentary | Pali Source | Notes | Words |\n|---|---|---|---|---|\n"
-    row = (f"| [[{slug}|{sutta_code}]] | [[{slug}_att|{pali_title}vaṇṇanā]] | "
+    row = (f"| [[{slug}\\|{sutta_code}]] | [[{slug}_att\\|{pali_title}vaṇṇanā]] | "
            f"CSCD | {notes_count} Sujato notes | {wc:,} |\n")
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)

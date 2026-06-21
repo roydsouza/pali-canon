@@ -349,11 +349,11 @@ def update_index_file(layer, slug, sutta_code, pali_title, wc):
         content = content.rstrip() + table
     
     if layer == "mula":
-        row = f"| [[{slug}|{sutta_code}]] | {pali_title} | {wc:,} |\n"
+        row = f"| [[{slug}\\|{sutta_code}]] | {pali_title} | {wc:,} |\n"
     elif layer == "atthakatha":
-        row = f"| [[{slug}|{sutta_code}]] | [[{slug}_att|{pali_title}vaṇṇanā]] | CSCD | 0 Sujato notes | {wc:,} |\n"
+        row = f"| [[{slug}\\|{sutta_code}]] | [[{slug}_att\\|{pali_title}vaṇṇanā]] | CSCD | 0 Sujato notes | {wc:,} |\n"
     else:
-        row = f"| [[{slug}|{sutta_code}]] | [[{slug}_tik|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {wc:,} |\n"
+        row = f"| [[{slug}\\|{sutta_code}]] | [[{slug}_tik\\|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {wc:,} |\n"
         
     with open(idx_path, "a", encoding="utf-8") as f:
         f.write(row)

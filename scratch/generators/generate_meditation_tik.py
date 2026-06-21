@@ -225,7 +225,7 @@ def update_tika_index(nikaya_dir, slug, sutta_code, pali_title, word_count):
     idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, "Tika-Samyutta-Index.md")
     with open(idx, 'r', encoding='utf-8') as f:
         content = f.read()
-    row = f"| [[{slug}|{sutta_code}]] | [[{slug}_tik|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {word_count:,} |\n"
+    row = f"| [[{slug}\|{sutta_code}]] | [[{slug}_tik\|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {word_count:,} |\n"
     with open(idx, 'a', encoding='utf-8') as f:
         f.write(row)
 

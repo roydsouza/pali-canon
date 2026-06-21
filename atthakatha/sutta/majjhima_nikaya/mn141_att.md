@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Commentary on Majjhima Nikāya: Saccavibhaṅgasutta
 *MN 141 — The Analysis of the Truths*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn141|MN 141 — Saccavibhaṅgasutta]]
 **Tīkā**: [[mn141_tik|Saccavibhaṅgasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

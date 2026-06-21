@@ -161,6 +161,8 @@ def validate_frontmatter_file(filepath, content, rel_src, vault_dir):
     if type_dir in {"mula", "atthakatha", "tika"}:
         required = ["title_pali", "pitaka", "nikaya", "sutta_number"]
         for field in required:
+            if field == "sutta_number" and ("sutta" in yaml_dict and yaml_dict["sutta"]):
+                continue
             if field not in yaml_dict or not yaml_dict[field]:
                 errors.append({
                     "file": rel_src,
@@ -172,7 +174,7 @@ def validate_frontmatter_file(filepath, content, rel_src, vault_dir):
                 "file": rel_src,
                 "error": f"Invalid pitaka value '{yaml_dict['pitaka']}'"
             })
-        if "nikaya" in yaml_dict and yaml_dict["nikaya"] not in {"majjhima", "digha", "samyutta", "anguttara", "khuddaka", "None"}:
+        if "nikaya" in yaml_dict and yaml_dict["nikaya"] not in {"majjhima", "digha", "samyutta", "anguttara", "khuddaka", "None", "an", "sn", "mn", "dn", "kn"}:
             errors.append({
                 "file": rel_src,
                 "error": f"Invalid nikaya value '{yaml_dict['nikaya']}'"

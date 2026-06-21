@@ -11,7 +11,7 @@ tika_file: [[mn26_tik]]
 
 # 6. Pāsarāsisuttavaṇṇanā
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakatha]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn26]]
 **Tīkā**: [[mn26_tik]]
 

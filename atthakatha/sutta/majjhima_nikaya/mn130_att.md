@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Commentary on Majjhima Nikāya: Devadūtasutta
 *MN 130 — Messengers of the Gods*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/majjhima_nikaya/Atthakatha-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn130|MN 130 — Devadūtasutta]]
 **Tīkā**: [[mn130_tik|Devadūtasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

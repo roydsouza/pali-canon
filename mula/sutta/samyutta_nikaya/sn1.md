@@ -6,6 +6,7 @@ type: mula
 pitaka: sutta
 nikaya: samyutta
 samyutta: sn1
+sutta_number: sn1
 translator: Bhikkhu Sujato
 source: https://suttacentral.net
 tags:
@@ -17,7 +18,7 @@ tags:
 # Saṃyutta Nikāya: Devatāsaṃyutta
 *Linked Discourses with Devas*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/samyutta_nikaya/Mula-Samyutta-Index|Saṃyutta Nikāya]]
 **Related Texts**: [[sn1_att|Commentary (Atthakathā)]] | [[sn1_tik|Sub-commentary (Tīkā)]]
 
 ---

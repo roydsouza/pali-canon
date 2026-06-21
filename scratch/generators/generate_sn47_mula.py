@@ -207,7 +207,7 @@ def append_index(nikaya_dir, layer, slug, sutta_code, pali_title, wc):
     if slug in content:
         print(f"  (already in {layer} INDEX)")
         return
-    row = f"| [[{slug}|{sutta_code}]] | {pali_title} | {wc:,} |\n"
+    row = f"| [[{slug}\|{sutta_code}]] | {pali_title} | {wc:,} |\n"
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)
 

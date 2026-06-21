@@ -1,7 +1,7 @@
 🏠 [[INDEX|Dashboard]]
 
 # Sync Log Archive — May 21-23, 2026
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Sync Log Archive — May 21-23, 2026
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Sync Log Archive — May 21-23, 2026
 
 *Rotated from `meta/SYNC_LOG.md` on 2026-05-27. See `meta/SYNC_LOG.md` for current entries.*
 

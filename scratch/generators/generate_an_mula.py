@@ -169,7 +169,7 @@ def append_index(slug, display, pali_title, wc):
         content = f.read()
     if slug in content:
         return
-    row = f"| [[{slug}|{display}]] | {pali_title} | {wc:,} |\n"
+    row = f"| [[{slug}\\|{display}]] | {pali_title} | {wc:,} |\n"
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)
 

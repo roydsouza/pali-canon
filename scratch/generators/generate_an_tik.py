@@ -165,8 +165,8 @@ def update_index(slug, display, pali_title, wc):
         content = f.read()
     if f"{slug}_tik" in content:
         return
-    row = (f"| [[{slug}|{display}]] | "
-           f"[[{slug}_tik|{pali_title}vaṇṇanāṭīkā]] | "
+    row = (f"| [[{slug}\\|{display}]] | "
+           f"[[{slug}_tik\\|{pali_title}vaṇṇanāṭīkā]] | "
            f"tipitaka.org CSCD | {wc:,} |\n")
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)

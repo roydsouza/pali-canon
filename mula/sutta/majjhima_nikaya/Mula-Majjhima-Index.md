@@ -29,15 +29,15 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn128\|MN 128]] | Upakkilesasutta | Corruptions | 4,638 |
 | [[mn140\|MN 140]] | Dhātuvibhaṅgasutta | The Analysis of the Elements | 5,249 |
 | [[mn148\|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
-| [[mn22|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 6,958 |
-| [[mn117|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,126 |
-| [[mn26|MN 26]] | Pāsarāsisutta | The Noble Quest | 8,437 |
-| [[mn63|MN 63]] | Cūḷamālukyasutta | The Shorter Discourse With Māluṅkyaputta | 2,925 |
-| [[mn72|MN 72]] | Aggivacchasutta | With Vacchagotta on Fire | 2,727 |
-| [[mn21|MN 21]] | Kakacūpamasutta | The Simile of the Saw | 4,508 |
-| [[mn122|MN 122]] | Mahāsuññatasutta | The Longer Discourse on Emptiness | 4,100 |
-| [[mn130|MN 130]] | Devadūtasutta | Messengers of the Gods | 4,450 |
-| [[mn141|MN 141]] | Saccavibhaṅgasutta | The Analysis of the Truths | 2,462 |
+| [[mn22\|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 6,958 |
+| [[mn117\|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,126 |
+| [[mn26\|MN 26]] | Pāsarāsisutta | The Noble Quest | 8,437 |
+| [[mn63\|MN 63]] | Cūḷamālukyasutta | The Shorter Discourse With Māluṅkyaputta | 2,925 |
+| [[mn72\|MN 72]] | Aggivacchasutta | With Vacchagotta on Fire | 2,727 |
+| [[mn21\|MN 21]] | Kakacūpamasutta | The Simile of the Saw | 4,508 |
+| [[mn122\|MN 122]] | Mahāsuññatasutta | The Longer Discourse on Emptiness | 4,100 |
+| [[mn130\|MN 130]] | Devadūtasutta | Messengers of the Gods | 4,450 |
+| [[mn141\|MN 141]] | Saccavibhaṅgasutta | The Analysis of the Truths | 2,462 |
 
 ---
 

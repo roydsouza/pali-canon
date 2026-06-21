@@ -125,8 +125,8 @@ def append_index(nikaya_dir, slug, sutta_code, pali_title, wc):
     if f"{slug}_tik" in content:
         print(f"  (already in tika INDEX)")
         return
-    row = (f"| [[{slug}|{sutta_code}]] | "
-           f"[[{slug}_tik|{pali_title}vaṇṇanāṭīkā]] | "
+    row = (f"| [[{slug}\|{sutta_code}]] | "
+           f"[[{slug}_tik\|{pali_title}vaṇṇanāṭīkā]] | "
            f"tipitaka.org CSCD | {wc:,} |\n")
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)

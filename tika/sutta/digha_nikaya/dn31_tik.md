@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Sub-commentary on Dīgha Nikāya: Siṅgālasutta
 *DN 31 — Advice to Sigālaka*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/digha_nikaya/Tika-Digha-Index|Dīgha Nikāya]]
 **Mūla**: [[dn31|DN 31 — Siṅgālasutta]]
 **Atthakathā**: [[dn31_att|Siṅgālasuttavaṇṇanā (Commentary)]]
 

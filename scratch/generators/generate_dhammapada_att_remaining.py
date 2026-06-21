@@ -242,7 +242,7 @@ def update_index(all_chapters_data):
     rows = []
     for num, pali, en, slug, vr, wc in all_data:
         wc_str = f"{wc:,}" if wc else "—"
-        rows.append(f"| [[{slug}_att|{num}. {pali}]] | {en} | {vr} | {wc_str} |")
+        rows.append(f"| [[{slug}_att\\|{num}. {pali}]] | {en} | {vr} | {wc_str} |")
 
     index_content = f"""---
 type: index

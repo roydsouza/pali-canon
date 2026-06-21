@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Sub-commentary on Majjhima Nikāya: Kakacūpamasutta
 *MN 21 — The Simile of the Saw*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Ṭīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn21|MN 21 — Kakacūpamasutta]]
 **Atthakathā**: [[mn21_att|Kakacūpamasuttavaṇṇanā (Commentary)]]
 

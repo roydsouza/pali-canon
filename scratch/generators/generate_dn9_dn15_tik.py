@@ -137,7 +137,7 @@ def update_tik_index(nikaya_dir, slug, sutta_code, pali_title, wc):
         content = content.rstrip() + "\n\n## Migrated Texts\n\n| Sutta | Sub-commentary | Pali Source | Words |\n|---|---|---|---|\n"
         with open(idx, "w", encoding="utf-8") as f:
             f.write(content)
-    row = f"| [[{slug}|{sutta_code}]] | [[{slug}_tik|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {wc:,} |\n"
+    row = f"| [[{slug}\\|{sutta_code}]] | [[{slug}_tik\\|{pali_title}vaṇṇanātīkā]] | tipitaka.org CSCD | {wc:,} |\n"
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)
 

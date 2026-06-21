@@ -177,8 +177,8 @@ def append_index(nikaya_dir, slug, sutta_code, pali_title, wc):
         content = f.read()
     if f"{slug}_att" in content:
         return
-    row = (f"| [[{slug}|{sutta_code}]] | "
-           f"[[{slug}_att|{pali_title}vaṇṇanā]] | "
+    row = (f"| [[{slug}\\|{sutta_code}]] | "
+           f"[[{slug}_att\\|{pali_title}vaṇṇanā]] | "
            f"tipitaka.org CSCD | {wc:,} |\n")
     with open(idx, "a", encoding="utf-8") as f:
         f.write(row)

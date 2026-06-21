@@ -1,7 +1,7 @@
 🏠 [[INDEX|Dashboard]]
 
 # Simsapa + Digital Pāli Dictionary (DPD) Integration
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Simsapa + Digital Pāli Dictionary (DPD) Integration
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Simsapa + Digital Pāli Dictionary (DPD) Integration
 
 ## What It Does
 

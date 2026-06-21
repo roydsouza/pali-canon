@@ -19,10 +19,10 @@ The Khuddaka Nikāya ("Collection of Minor Works") is the fifth and largest nik�
 
 | Text | Title | Verses | Status |
 |---|---|---|---|
-| [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index|Dhammapada]] | Sayings of the Dhamma | 423 (26 chapters) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/udana|Udāna]] | Inspired Utterances | 80 suttas (8 vaggas) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index|Sutta Nipāta]] | Anthology of Discourses | 73 suttas (5 chapters) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index|Itivuttaka]] | As It Was Said | 112 suttas (4 nipātas) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index|Theragāthā]] | Monks' Verses | 203 poems (21 nipātas) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/therigatha/Mula-Therigatha-Index|Therīgāthā]] | Nuns' Verses | 73 poems (16 nipātas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/dhammapada/Mula-Dhammapada-Index\|Dhammapada]] | Sayings of the Dhamma | 423 (26 chapters) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/udana\|Udāna]] | Inspired Utterances | 80 suttas (8 vaggas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/sutta_nipata/Mula-Sutta-Nipata-Index\|Sutta Nipāta]] | Anthology of Discourses | 73 suttas (5 chapters) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/itivuttaka/Mula-Itivuttaka-Index\|Itivuttaka]] | As It Was Said | 112 suttas (4 nipātas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/theragatha/Mula-Theragatha-Index\|Theragāthā]] | Monks' Verses | 203 poems (21 nipātas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/therigatha/Mula-Therigatha-Index\|Therīgāthā]] | Nuns' Verses | 73 poems (16 nipātas) | Complete — Sujato translation |
 

@@ -80,10 +80,10 @@ Abhidhamma analysis of mind and matter, the insight knowledges through to libera
 
 | Vsm chapter | Canonical parallel | Mātikā |
 |---|---|---|
-| Ch. VIII (ānāpānasati) | [[mn118|MN 118]], [[sn54|SN 54]] | [[four_foundations_of_mindfulness]], [[seven_awakening_factors]] |
-| Ch. IX (brahmavihārā) | [[mn7|MN 7]], [[dn13|DN 13]], [[an11_15|AN 11.15]], [[snp1_8|Snp 1.8]] | [[four_sublime_states]] |
-| Ch. XI (jhānas) | [[dn2|DN 2]], [[mn36|MN 36]], [[an9_36|AN 9.36]], [[mn111|MN 111]] | [[four_jhanas]] |
-| Ch. XVIII–XXII (insight) | [[mn10|MN 10]], [[dn22|DN 22]], [[sn22|SN 22]] | [[seven_purifications]], [[four_noble_truths]] |
+| Ch. VIII (ānāpānasati) | [[mn118\|MN 118]], [[sn54\|SN 54]] | [[four_foundations_of_mindfulness]], [[seven_awakening_factors]] |
+| Ch. IX (brahmavihārā) | [[mn7\|MN 7]], [[dn13\|DN 13]], [[an11_15\|AN 11.15]], [[snp1_8\|Snp 1.8]] | [[four_sublime_states]] |
+| Ch. XI (jhānas) | [[dn2\|DN 2]], [[mn36\|MN 36]], [[an9_36\|AN 9.36]], [[mn111\|MN 111]] | [[four_jhanas]] |
+| Ch. XVIII–XXII (insight) | [[mn10\|MN 10]], [[dn22\|DN 22]], [[sn22\|SN 22]] | [[seven_purifications]], [[four_noble_truths]] |
 
 ---
 

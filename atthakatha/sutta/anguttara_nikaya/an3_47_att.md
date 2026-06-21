@@ -15,7 +15,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 # Commentary on Aṅguttara Nikāya: Saṅkhatalakkhaṇasutta
 *AN 3.47 — Characteristics of the Conditioned*
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/Atthakatha-Index|Atthakathā]] / [[atthakatha/sutta/Atthakatha-Sutta-Index|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/Atthakatha-Anguttara-Index|Aṅguttara Nikāya]]
 **Mūla**: [[an3_47|AN 3.47 — Saṅkhatalakkhaṇasutta]]
 **Tīkā**: [[an3_47_tik|Saṅkhatalakkhaṇasuttavaṇṇanāṭīkā (Sub-commentary)]]
 

@@ -11,7 +11,7 @@ commentary_file: [[mn63_att]]
 
 # 3. Cūḷamālukyasuttavaṇṇanā
 
-**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/INDEX|Tika]] / [[tika/sutta/INDEX|Sutta]] / [[tika/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[tika/Tika-Index|Tīkā]] / [[tika/sutta/Tika-Sutta-Index|Sutta]] / [[tika/sutta/majjhima_nikaya/Tika-Majjhima-Index|Majjhima Nikāya]]
 **Mūla**: [[mn63]]
 **Atthakathā**: [[mn63_att]]
 

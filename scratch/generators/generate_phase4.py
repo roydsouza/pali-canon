@@ -462,7 +462,7 @@ def clean_and_rebuild_indexes():
         ]
         for s in sorted_slugs:
             code, pali, en, wc = rows[s]
-            table_lines.append(f"| [[{s}|{code}]] | {pali} | {en} | {wc} |")
+            table_lines.append(f"| [[{s}\|{code}]] | {pali} | {en} | {wc} |")
             
         content = "\n".join([
             "# Majjhima Nikāya Index",
@@ -526,7 +526,7 @@ def clean_and_rebuild_indexes():
         ]
         for s in sorted_slugs:
             code, att_slug, pali, src, notes, wc = rows[s]
-            table_lines.append(f"| [[{s}|{code}]] | [[{att_slug}|{pali}]] | {src} | {notes} | {wc} |")
+            table_lines.append(f"| [[{s}\|{code}]] | [[{att_slug}\|{pali}]] | {src} | {notes} | {wc} |")
             
         content = "\n".join([
             "# Majjhima Nikāya Commentary (Papañcasūdanī) Index",
@@ -585,7 +585,7 @@ def clean_and_rebuild_indexes():
         ]
         for s in sorted_slugs:
             code, tik_slug, pali, src, wc = rows[s]
-            table_lines.append(f"| [[{s}|{code}]] | [[{tik_slug}|{pali}]] | {src} | {wc} |")
+            table_lines.append(f"| [[{s}\|{code}]] | [[{tik_slug}\|{pali}]] | {src} | {wc} |")
             
         content = "\n".join([
             "---",
@@ -668,7 +668,7 @@ def clean_and_rebuild_indexes():
         ]
         for s in sorted_slugs:
             code, pali, en, wc = rows[s]
-            table_lines.append(f"| [[{s}|{code}]] | {pali} | {en} | {wc} |")
+            table_lines.append(f"| [[{s}\|{code}]] | {pali} | {en} | {wc} |")
             
         content = "\n".join([
             "---",
@@ -740,7 +740,7 @@ def clean_and_rebuild_indexes():
         ]
         for s in sorted_slugs:
             code, att_slug, pali, src, notes, wc = rows[s]
-            table_lines.append(f"| [[{s}|{code}]] | [[{att_slug}|{pali}]] | {src} | {notes} | {wc} |")
+            table_lines.append(f"| [[{s}\|{code}]] | [[{att_slug}\|{pali}]] | {src} | {notes} | {wc} |")
             
         content = "\n".join([
             "---",

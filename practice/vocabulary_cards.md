@@ -9,7 +9,7 @@ tags:
 🏠 [[INDEX|Dashboard]]
 
 # Pāḷi Vocabulary Flashcards
-[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/pali-canon|Pāḷi Canon]] > Pāḷi Vocabulary Flashcards
+[[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Pāḷi Vocabulary Flashcards
 
 This file contains auto-generated vocabulary flashcards for early Buddhist texts.
 See [[tutorial/07_vocabulary_srs|Tutorial 7: Vocabulary Spaced Repetition (SRS)]] for CLI commands, reference documentation, and setup instructions.

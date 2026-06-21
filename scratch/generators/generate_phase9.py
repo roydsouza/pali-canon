@@ -483,12 +483,12 @@ for sc_id in individual_targets:
     att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, {"digha_nikaya": "Atthakatha-Digha-Index.md", "majjhima_nikaya": "Atthakatha-Majjhima-Index.md", "samyutta_nikaya": "Atthakatha-Samyutta-Index.md", "anguttara_nikaya": "Atthakatha-Anguttara-Index.md", "khuddaka_nikaya": "Atthakatha-Khuddaka-Index.md"}[nikaya_dir])
     tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, {"digha_nikaya": "Tika-Digha-Index.md", "majjhima_nikaya": "Tika-Majjhima-Index.md", "samyutta_nikaya": "Tika-Samyutta-Index.md", "anguttara_nikaya": "Tika-Anguttara-Index.md", "khuddaka_nikaya": "Tika-Khuddaka-Index.md"}[nikaya_dir])
     
-    append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
+    append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
     
     notes_col = f"{len(notes)} Sujato notes" if notes else "—"
-    append_to_markdown_table(att_idx, f"[[{slug}", f"| [[{slug}|{display}]] | [[{slug}_att|{pali_title}vaṇṇanā]] | CSCD | {notes_col} | {att_wc:,} |\n")
+    append_to_markdown_table(att_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | [[{slug}_att\|{pali_title}vaṇṇanā]] | CSCD | {notes_col} | {att_wc:,} |\n")
     
-    append_to_markdown_table(tika_idx, f"[[{slug}", f"| [[{slug}|{display}]] | [[{slug}_tik|{pali_title}vaṇṇanāṭīkā]] | tipitaka.org CSCD | {tika_wc:,} |\n")
+    append_to_markdown_table(tika_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | [[{slug}_tik\|{pali_title}vaṇṇanāṭīkā]] | tipitaka.org CSCD | {tika_wc:,} |\n")
     
     # 9. Commit Sutta Files
     run_git(["add", mula_path, att_path, tika_path, mula_idx, att_idx, tika_idx])
@@ -733,13 +733,13 @@ mula_idx = os.path.join(VAULT, "mula/sutta", nikaya_dir, {"digha_nikaya": "Mula-
 att_idx = os.path.join(VAULT, "atthakatha/sutta", nikaya_dir, {"digha_nikaya": "Atthakatha-Digha-Index.md", "majjhima_nikaya": "Atthakatha-Majjhima-Index.md", "samyutta_nikaya": "Atthakatha-Samyutta-Index.md", "anguttara_nikaya": "Atthakatha-Anguttara-Index.md", "khuddaka_nikaya": "Atthakatha-Khuddaka-Index.md"}[nikaya_dir])
 tika_idx = os.path.join(VAULT, "tika/sutta", nikaya_dir, {"digha_nikaya": "Tika-Digha-Index.md", "majjhima_nikaya": "Tika-Majjhima-Index.md", "samyutta_nikaya": "Tika-Samyutta-Index.md", "anguttara_nikaya": "Tika-Anguttara-Index.md", "khuddaka_nikaya": "Tika-Khuddaka-Index.md"}[nikaya_dir])
 
-append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
+append_to_markdown_table(mula_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | {pali_title} | {en_title} | {mula_wc:,} |\n")
 
 notes_count = sum(len(notes) for p, notes in notes_all.values())
 notes_col = f"{notes_count} Sujato notes" if notes_count else "—"
-append_to_markdown_table(att_idx, f"[[{slug}", f"| [[{slug}|{display}]] | [[{slug}_att|{pali_title}vaṇṇanā]] | tipitaka.org CSCD | {notes_col} | {att_wc:,} |\n")
+append_to_markdown_table(att_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | [[{slug}_att\|{pali_title}vaṇṇanā]] | tipitaka.org CSCD | {notes_col} | {att_wc:,} |\n")
 
-append_to_markdown_table(tika_idx, f"[[{slug}", f"| [[{slug}|{display}]] | [[{slug}_tik|{pali_title}vaṇṇanāṭīkā]] | tipitaka.org CSCD | {tika_wc:,} |\n")
+append_to_markdown_table(tika_idx, f"[[{slug}", f"| [[{slug}\|{display}]] | [[{slug}_tik\|{pali_title}vaṇṇanāṭīkā]] | tipitaka.org CSCD | {tika_wc:,} |\n")
 
 # 5. Commit SN 36
 run_git(["add", mula_path, att_path, tika_path, mula_idx, att_idx, tika_idx])

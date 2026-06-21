@@ -25,8 +25,8 @@ The vault contains two versions of the Satipaṭṭhāna teaching:
 
 | Sutta | Length | What it adds |
 |---|---|---|
-| [[mn10|MN 10: Satipaṭṭhānasutta]] | ~5,700 words | The foundational version |
-| [[dn22|DN 22: Mahāsatipaṭṭhānasutta]] | ~8,900 words | The expanded version — adds the Four Noble Truths as a fifth contemplation under the fourth foundation |
+| [[mn10\|MN 10: Satipaṭṭhānasutta]] | ~5,700 words | The foundational version |
+| [[dn22\|DN 22: Mahāsatipaṭṭhānasutta]] | ~8,900 words | The expanded version — adds the Four Noble Truths as a fifth contemplation under the fourth foundation |
 
 For daily practice, **MN 10 is the working text**. DN 22 is the deeper study text — use it when you want the doctrinal elaboration of the four truths within the satipaṭṭhāna framework.
 
