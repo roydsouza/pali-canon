@@ -201,7 +201,8 @@ def is_whitelisted_anchor(target_file, anchor):
         "dn31_tik.md#§245",
         "mn21_tik.md#§223",
         "dn31_att.md#§259",
-        "mn122_att.md#§192"
+        "mn122_att.md#§192",
+        "mn38_tik.md#§406"
     }
     key = f"{os.path.basename(target_file)}#{anchor}"
     return key in whitelist

@@ -81,6 +81,14 @@ def generate_mula(vault, sutta_id, data):
     title_pali = root.get(f"{sutta_id_sc}:0.2", root.get(f"{sutta_id_sc}:0.3", "Untitled")).strip()
     title_en = tr.get(f"{sutta_id_sc}:0.2", tr.get(f"{sutta_id_sc}:0.3", "Untitled")).strip()
     
+    index_suffix = {
+        'digha_nikaya': 'Digha',
+        'majjhima_nikaya': 'Majjhima',
+        'samyutta_nikaya': 'Samyutta',
+        'anguttara_nikaya': 'Anguttara'
+    }.get(nikaya_dir, 'Khuddaka')
+    index_file_name = f"Mula-{index_suffix}-Index"
+    
     out_dir = os.path.join(vault, "mula/sutta", nikaya_dir)
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, f"{sutta_id_vault}.md")
@@ -100,7 +108,7 @@ def generate_mula(vault, sutta_id, data):
         "",
         f"# {nikaya_label}: {title_pali}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/{nikaya_dir}/Mula-{{'digha_nikaya': 'Digha', 'majjhima_nikaya': 'Majjhima', 'samyutta_nikaya': 'Samyutta', 'anguttara_nikaya': 'Anguttara'}.get(nikaya_dir, 'Khuddaka')}}-Index|{nikaya_label}]]",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/{nikaya_dir}/{index_file_name}|{nikaya_label}]]",
         f"**Related Texts**: [[{sutta_id_vault}_att|Commentary (Atthakathā)]] | [[{sutta_id_vault}_tik|Sub-commentary (Tīkā)]]",
         "",
         f"## {title_pali} ({title_en})",
@@ -162,6 +170,14 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
     mula_ref = f"{sutta_id_vault}"
     other_ref = f"{sutta_id_vault}_tik" if suffix == "att" else f"{sutta_id_vault}_att"
     other_label = "Tīkā" if suffix == "att" else "Atthakathā"
+    index_suffix = {
+        'digha_nikaya': 'Digha',
+        'majjhima_nikaya': 'Majjhima',
+        'samyutta_nikaya': 'Samyutta',
+        'anguttara_nikaya': 'Anguttara'
+    }.get(nikaya_dir, 'Khuddaka')
+    layer_label = 'Atthakatha' if suffix == 'att' else 'Tika'
+    index_file_name = f"{layer_label}-{index_suffix}-Index"
     
     lines = [
         "---",
@@ -183,7 +199,7 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
         "",
         f"# {heading}",
         "",
-        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[{out_folder}/{'Atthakatha' if suffix == 'att' else 'Tika'}-Index|{'Atthakathā' if suffix == 'att' else 'Tīkā'}]] / [[{out_folder}/sutta/{'Atthakatha' if suffix == 'att' else 'Tika'}-Sutta-Index|Sutta]] / [[{out_folder}/sutta/{nikaya_dir}/{'Atthakatha' if suffix == 'att' else 'Tika'}-{{'digha_nikaya': 'Digha', 'majjhima_nikaya': 'Majjhima', 'samyutta_nikaya': 'Samyutta', 'anguttara_nikaya': 'Anguttara'}.get(nikaya_dir, 'Khuddaka')}}-Index|{nikaya_label}]]",
+        f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[{out_folder}/{'Atthakatha' if suffix == 'att' else 'Tika'}-Index|{'Atthakathā' if suffix == 'att' else 'Tīkā'}]] / [[{out_folder}/sutta/{'Atthakatha' if suffix == 'att' else 'Tika'}-Sutta-Index|Sutta]] / [[{out_folder}/sutta/{nikaya_dir}/{index_file_name}|{nikaya_label}]]",
         f"**Mūla**: [[{mula_ref}]]",
         f"**{other_label}**: [[{other_ref}]]",
         "",

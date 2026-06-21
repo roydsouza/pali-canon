@@ -67,6 +67,7 @@ Vault review covering content quality, learning UX, and interface integrity. Ite
 - [x] **MN 63: Cūḷamāluṅkya** — the poisoned arrow; unanswered metaphysical questions; what the teaching is and isn't for ✅ (2026-06-19)
 - [x] **MN 72: Aggivacchagotta** — fire simile for nibbāna; clearest canonical statement on what happens to a Tathāgata after liberation ✅ (2026-06-19)
 - [x] **SN 1 (Devatāsaṃyutta)** — short verse dialogues with devas; highly readable; excellent graded-reader Tier 1 material ✅ (2026-06-19)
+- [x] **MN 38: Mahātaṇhāsankhaya** — Sāti's pernicious view; dependent origination deconstruction of craving and consciousness ✅ (2026-06-21)
 
 ### Phase 21B — Commentary Expansion
 
@@ -296,7 +297,7 @@ Vault review covering content quality, learning UX, and interface integrity. Ite
 
 **Goal**: Shift from practice-curated selection to systematic breadth. Fill the remaining canon methodically, with full three-layer structure, prioritized by doctrinal importance rather than immediate practice urgency.
 
-- [ ] **Remaining Majjhima Nikāya** — Target ~40–50 additional suttas to reach meaningful MN coverage. Priority candidates: MN 63 (Cūḷamāluṅkya — unanswered questions), MN 72 (Aggivacchagotta — fire simile for nibbāna), MN 26 (Ariyapariyesanā — the noble search, the first teaching), MN 36 (already in vault), MN 38 (Mahātaṇhāsankhaya — craving and consciousness).
+- [ ] **Remaining Majjhima Nikāya** — Target ~40–50 additional suttas to reach meaningful MN coverage. Priority candidates: MN 63 (done), MN 72 (done), MN 26 (done), MN 36 (already in vault), MN 38 (done).
 - [ ] **Remaining Dīgha Nikāya** — The 26 DN suttas not yet migrated. Lower priority; many are cosmological or historical rather than practice-focused.
 - [ ] **Saṃyutta Nikāya gaps** — The 45 saṃyuttas not yet covered. Priority: SN 1 (Devatāsaṃyutta — short verse dialogues), SN 3 (Kosalasaṃyutta — the king suttas), SN 4 (Mārasaṃyutta), SN 6 (Brahmasaṃyutta).
 - [ ] **Aṅguttara Nikāya systematic fill** — AN nipātas 2–11 have large gaps. The AN has ~9,557 suttas total; many are formulaic repetitions. Strategy: migrate complete nipātas for AN 2–6 (shorter, more varied), batch-process AN 7–11 where formulas repeat.

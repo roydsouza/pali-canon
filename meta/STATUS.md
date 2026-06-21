@@ -22,7 +22,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Migrated Texts Catalog
 
-### Majjhima Nikāya (Middle Discourses) — 22 suttas
+### Majjhima Nikāya (Middle Discourses) — 23 suttas
 
 | Sutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | MN 27 Cūḷahatthipadopamasutta | ✅ 4,120w | ✅ 69¶ | ✅ 62¶ | ✅ Full §-anchors & Mātikā |
 | MN 28 Mahāhatthipadopamasutta | ✅ 4,890w | ✅ 40¶ | ✅ 35¶ | ✅ Full §-anchors & Mātikā |
 | MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | Mātikā |
+| MN 38 Mahātaṇhāsaṅkhayasutta | ✅ 1,228w | ✅ 65 lines | ✅ 50 lines | ✅ Full §-anchors & Callouts |
 | MN 43 Mahāvedallasutta | ✅ 3,877w | ✅ 60¶ + 30 notes | ✅ 54¶ | Mātikā |
 | MN 44 Cūḷavedallasutta | ✅ 3,096w | ✅ 39¶ + 27 notes | ✅ 40¶ | Mātikā |
 | MN 51 Kandarakasutta | ✅ 3,920w | ✅ 21¶ | ✅ 18¶ | ✅ Full §-anchors & Mātikā |

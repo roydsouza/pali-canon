@@ -987,5 +987,21 @@
         "pattern": "\\(21\\)\\ 1\\.\\s+Karajakāyavaggo"
       }
     ]
+  },
+  "mn38": {
+    "att": [
+      {
+        "file": "s0201a.att4.xml",
+        "heading": "8. Mahātaṇhāsaṅkhayasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Mahātaṇhāsaṅkhayasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0201t.tik4.xml",
+        "heading": "8. Mahātaṇhāsaṅkhayasuttavaṇṇanā",
+        "pattern": "8\\.\\s+Mahātaṇhāsaṅkhayasuttavaṇṇanā"
+      }
+    ]
   }
 }

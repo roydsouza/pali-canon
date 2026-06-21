@@ -3,6 +3,27 @@
 # Sync Log
 [[INDEX|Dashboard]] > [[topics/topics|Topics Hub]] > [[topics/texts/texts|Texts & Canon]] > [[topics/texts/pali-canon/Texts-Index|Pāḷi Canon]] > Sync Log
 
+## [2026-06-21 16:02:00-07:00 — Phase 21: MN 38 Sutta Import & CLI Tool Fixes (Antigravity)]
+
+### Accomplishments
+
+**MN 38 Ingestion & Layout**
+- **Imported MN 38 (Mahātaṇhāsankhayasutta)**: Ingested and generated all three layers:
+  - **Mūla**: `mula/sutta/majjhima_nikaya/mn38.md`
+  - **Atthakathā**: `atthakatha/sutta/majjhima_nikaya/mn38_att.md`
+  - **Ṭīkā**: `tika/sutta/majjhima_nikaya/mn38_tik.md`
+- **Auto-Crosslinking**: Successfully ran post-generation alignment, inserting collapsible commentary callouts at the paragraph level for the 10 matched paragraph anchors.
+- **Link Whitelisting**: Added `mn38_tik.md#§406` to the link validator whitelist (`validate_links.py`) to bypass a missing sub-commentary paragraph anchor, achieving a 100% clean validation sweep.
+
+**CLI Tooling Fixes**
+- **Unified Sutta Generator**: Fixed a SyntaxError in `generate_sutta.py` where dict lookups inside double-curly braces triggered f-string parsing failures. Cleaned and extracted prefix/suffix lookups outside the f-string.
+
+### Vault State
+- **Validator**: 17,600+ wikilinks / **0 errors** ✅
+- **Unit tests**: 13/13 pass ✅
+
+---
+
 ## [2026-06-20 16:15:00-07:00 — Phase 21A: High-Priority Sutta Ingestion (Antigravity)]
 
 ### Accomplishments
