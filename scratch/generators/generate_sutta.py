@@ -67,7 +67,7 @@ def filter_cscd_paras(paras, pattern_str):
             results.append((rend, paranum, text))
     return results if results else paras
 
-def generate_mula(vault, sutta_id, data):
+def generate_mula(vault, sutta_id, data, has_att=False, has_tika=False):
     sutta_id_sc = sutta_id.replace("_", ".")
     sutta_id_vault = sutta_id.replace(".", "_")
     
@@ -109,11 +109,22 @@ def generate_mula(vault, sutta_id, data):
         f"# {nikaya_label}: {title_pali}",
         "",
         f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/Mula-Index|Mūla]] / [[mula/sutta/Mula-Sutta-Index|Sutta]] / [[mula/sutta/{nikaya_dir}/{index_file_name}|{nikaya_label}]]",
-        f"**Related Texts**: [[{sutta_id_vault}_att|Commentary (Atthakathā)]] | [[{sutta_id_vault}_tik|Sub-commentary (Tīkā)]]",
+    ]
+    
+    related_texts = []
+    if has_att:
+        related_texts.append(f"[[{sutta_id_vault}_att|Commentary (Atthakathā)]]")
+    if has_tika:
+        related_texts.append(f"[[{sutta_id_vault}_tik|Sub-commentary (Tīkā)]]")
+        
+    if related_texts:
+        lines.append(f"**Related Texts**: {' | '.join(related_texts)}")
+        
+    lines.extend([
         "",
         f"## {title_pali} ({title_en})",
         "",
-    ]
+    ])
     
     for key in keys:
         if is_meta(key):
@@ -325,34 +336,43 @@ def main():
     
     print(f"Unified Generator starting for Sutta ID: {sutta_id_sc} (Vault ID: {sutta_id_vault})")
     
-    # 1. Generate Mūla
-    try:
-        print("Fetching SuttaCentral segments...")
-        sc_data = fetch_suttacentral(sutta_id_sc)
-        generate_mula(vault, sutta_id_vault, sc_data)
-    except Exception as e:
-        print(f"Failed to generate Mūla layer from SuttaCentral: {e}")
-        
-    # 2. Check mappings for Att & Tika
+    # 1. Check mappings for Att & Tika
     mapping_path = os.path.join(vault, "scratch", "cscd_mappings_all.json")
+    has_att = False
+    has_tika = False
+    sutta_map = None
     if os.path.exists(mapping_path):
         with open(mapping_path, "r", encoding="utf-8") as f:
             mappings = json.load(f)
             
         sutta_map = mappings.get(sutta_id_sc)
         if sutta_map:
-            att_maps = sutta_map.get("att", [])
-            tika_maps = sutta_map.get("tika", [])
-            has_tika = bool(tika_maps)
+            has_att = bool(sutta_map.get("att", []))
+            has_tika = bool(sutta_map.get("tika", []))
             
-            if att_maps:
-                generate_layer(vault, sutta_id_vault, "att", att_maps[0], has_tika=has_tika)
-            if tika_maps:
-                generate_layer(vault, sutta_id_vault, "tika", tika_maps[0])
+    # 2. Generate Mūla
+    try:
+        print("Fetching SuttaCentral segments...")
+        sc_data = fetch_suttacentral(sutta_id_sc)
+        generate_mula(vault, sutta_id_vault, sc_data, has_att=has_att, has_tika=has_tika)
+    except Exception as e:
+        print(f"Failed to generate Mūla layer from SuttaCentral: {e}")
+        
+    # 3. Generate Att & Tika
+    if sutta_map:
+        att_maps = sutta_map.get("att", [])
+        tika_maps = sutta_map.get("tika", [])
+        has_tika_flag = bool(tika_maps)
+        
+        if att_maps:
+            generate_layer(vault, sutta_id_vault, "att", att_maps[0], has_tika=has_tika_flag)
+        if tika_maps:
+            generate_layer(vault, sutta_id_vault, "tika", tika_maps[0])
+    else:
+        if not os.path.exists(mapping_path):
+            print("Mappings file cscd_mappings_all.json not found. Skipping commentary layers.")
         else:
             print(f"No CSCD mappings found for {sutta_id_sc} in cscd_mappings_all.json. Skipping commentary layers.")
-    else:
-        print("Mappings file cscd_mappings_all.json not found. Skipping commentary layers.")
         
     # 3. Post-generation: Auto-crosslink Mūla and Aṭṭhakathā/Ṭīkā
     nikaya_dir, _, _ = get_nikaya_details(sutta_id_vault)
