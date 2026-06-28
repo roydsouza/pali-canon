@@ -16,14 +16,18 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn8\|MN 8]] | Sallekhasutta | Self-Effacement | 4,090 |
 | [[mn9\|MN 9]] | Sammādiṭṭhisutta | Right View | 4,833 |
 | [[mn10\|MN 10]] | Satipaṭṭhānasutta | Mindfulness Meditation | 6,776 |
+| [[mn13\|MN 13]] | Mahādukkhakkhandhasutta | The Longer Discourse on the Mass of Suffering | 3,815 |
+| [[mn14\|MN 14]] | Cūḷadukkhakkhandhasutta | The Shorter Discourse on the Mass of Suffering | 3,314 |
 | [[mn18\|MN 18]] | Madhupiṇḍikasutta | The Honey-Cake | 3,204 |
 | [[mn19\|MN 19]] | Dvedhāvitakkasutta | Two Kinds of Thought | 3,716 |
 | [[mn20\|MN 20]] | Vitakkasaṇṭhānasutta | The Relaxation of Thoughts | 2,595 |
 | [[mn21\|MN 21]] | Kakacūpamasutta | The Simile of the Saw | 4,508 |
 | [[mn22\|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 7,883 |
+| [[mn24\|MN 24]] | Rathavinītasutta | Chariots at the Ready | 3,022 |
 | [[mn26\|MN 26]] | Pāsarāsisutta | The Noble Quest | 8,437 |
 | [[mn27\|MN 27]] | Cūḷahatthipadopamasutta | The Shorter Simile of the Elephant’s Footprint | 5,430 |
 | [[mn28\|MN 28]] | Mahāhatthipadopamasutta | The Longer Simile of the Elephant’s Footprint | 4,742 |
+| [[mn35\|MN 35]] | Cūḷasaccakasutta | The Shorter Discourse With Saccaka | 5,313 |
 | [[mn36\|MN 36]] | Mahāsaccakasutta | With Saccaka (the Longer) | 10,095 |
 | [[mn38\|MN 38]] | Mahātaṇhāsaṅkhayasutta | The Longer Discourse on the Ending of Craving | 7,601 |
 | [[mn43\|MN 43]] | Mahāvedallasutta | The Longer Analysis | 4,615 |
@@ -33,6 +37,8 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn62\|MN 62]] | Mahārāhulovādasutta | The Longer Advice to Rāhula | 2,905 |
 | [[mn63\|MN 63]] | Cūḷamālukyasutta | The Shorter Discourse With Māluṅkyaputta | 2,925 |
 | [[mn72\|MN 72]] | Aggivacchasutta | With Vacchagotta on Fire | 2,727 |
+| [[mn74\|MN 74]] | Dīghanakhasutta | With Dīghanakha | 2,070 |
+| [[mn109\|MN 109]] | Mahāpuṇṇamasutta | The Longer Discourse on the Full-Moon Night | 2,448 |
 | [[mn111\|MN 111]] | Anupadasutta | One by One | 3,045 |
 | [[mn117\|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,868 |
 | [[mn118\|MN 118]] | Ānāpānasati Sutta | Mindfulness of Breathing | 4,890 |
