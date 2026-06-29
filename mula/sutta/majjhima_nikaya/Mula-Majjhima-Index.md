@@ -50,7 +50,13 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn140\|MN 140]] | Dhātuvibhaṅgasutta | The Analysis of the Elements | 5,962 |
 | [[mn141\|MN 141]] | Saccavibhaṅgasutta | The Analysis of the Truths | 2,462 |
 | [[mn143\|MN 143]] | Anāthapiṇḍikovādasutta | Advice to Anāthapiṇḍika | 2,613 |
+| [[mn144\|MN 144]] | Channovādasutta | Advice to Channa | 1,737 |
+| [[mn145\|MN 145]] | Puṇṇovādasutta | Advice to Puṇṇa | 1,556 |
+| [[mn146\|MN 146]] | Nandakovādasutta | Advice from Nandaka | 4,068 |
+| [[mn147\|MN 147]] | Cūḷarāhulovādasutta | The Shorter Advice to Rāhula | 1,560 |
 | [[mn148\|MN 148]] | Chachakkasutta | Six By Six | 4,956 |
+| [[mn149\|MN 149]] | Mahāsaḷāyatanikasutta | The Great Discourse on What Relates to the Six Sense Fields | 1,597 |
+| [[mn151\|MN 151]] | Piṇḍapātapārisuddhisutta | The Purification of Alms | 1,992 |
 | [[mn152\|MN 152]] | Indriyabhāvanāsutta | The Development of the Faculties | 2,708 |
 
 ---

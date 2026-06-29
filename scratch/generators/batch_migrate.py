@@ -4,8 +4,8 @@ import sys
 import subprocess
 import time
 
-# Target suttas for the first run of Parcel D
-SUTTAS = ["mn13", "mn14", "mn24", "mn35", "mn74", "mn109"]
+# Target suttas for the next run of Parcel D (working backward)
+SUTTAS = ["mn151", "mn149", "mn147", "mn146", "mn145", "mn144"]
 
 VAULT = "/Users/rds/Library/Mobile Documents/iCloud~md~obsidian/Documents/Megha/topics/texts/pali-canon"
 os.environ["PALI_VAULT"] = VAULT
